@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | mcomas.net</title>
-    <link>https://mcomas.net/tags/</link>
-      <atom:link href="https://mcomas.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/tags/</link>
+      <atom:link href="http://mcomas.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
-      <link>https://mcomas.net/tags/</link>
+      <link>http://mcomas.net/tags/</link>
     </image>
     
     <item>
       <title>Source Themes</title>
-      <link>https://mcomas.net/tags/source-themes/</link>
+      <link>http://mcomas.net/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/tags/source-themes/</guid>
+      <guid>http://mcomas.net/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://mcomas.net/tags/deep-learning/</link>
+      <link>http://mcomas.net/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/tags/deep-learning/</guid>
+      <guid>http://mcomas.net/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://mcomas.net/tags/demo/</link>
+      <link>http://mcomas.net/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/tags/demo/</guid>
+      <guid>http://mcomas.net/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://mcomas.net/tags/academic/</link>
+      <link>http://mcomas.net/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/tags/academic/</guid>
+      <guid>http://mcomas.net/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://mcomas.net/tags/plot/</link>
+      <link>http://mcomas.net/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://mcomas.net/tags/plot/</guid>
+      <guid>http://mcomas.net/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://mcomas.net/tags/r-markdown/</link>
+      <link>http://mcomas.net/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://mcomas.net/tags/r-markdown/</guid>
+      <guid>http://mcomas.net/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://mcomas.net/tags/regression/</link>
+      <link>http://mcomas.net/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://mcomas.net/tags/regression/</guid>
+      <guid>http://mcomas.net/tags/regression/</guid>
       <description></description>
     </item>
     

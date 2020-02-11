@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | mcomas.net</title>
+    <link>http://mcomas.github.io/mcomas.net/authors/</link>
+      <atom:link href="http://mcomas.github.io/mcomas.net/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>http://mcomas.github.io/mcomas.net/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://mcomas.github.io/mcomas.net/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.github.io/mcomas.net/authors/admin/</guid>
+      <description>&lt;p&gt;Currently, I am at 
+&lt;a href=&#34;http://www.idiapjgol.org/index.php?lang=en%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IDIAP Jordi Gol&lt;/a&gt; and 
+&lt;a href=&#34;http://www.udg.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Girona&lt;/a&gt; as a statistician and associate professor respectively. I am a member of the research group in Vascular Health at IDIAP Jordi Gol and the research group in &lt;a href=&#34;http://ima.udg.edu/Recerca/EIO/inici_eng.html&#34;&gt;Statistics and Compositional Data Analysis&lt;/a&gt; at the University of Girona.&lt;/p&gt;
+&lt;p&gt;I have fun programming and learning how to use new programming languages. Nowadays, I mostly program in R (statistical tasks), Python (data management), Java (GUI developing) and JavaScript (web programming) but I have been programming in C/C++, Fortran, Visual Basic (and VBA), Stata, Matlab, Lisp. I have good notions of most common markup languages: html, LaTeX or Markdown for documents and xml or json for data structures. In my daily work I usually work with open source software. Probably, the programs I use the most in my daily routines are 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/RStudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt;, 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Make_%28software%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GNU Make&lt;/a&gt; and 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Git_%28software%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>http://mcomas.github.io/mcomas.net/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.github.io/mcomas.net/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

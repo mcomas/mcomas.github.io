@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bonaventura Bolivar | mcomas.net</title>
+    <link>/authors/bonaventura-bolivar/</link>
+      <atom:link href="/authors/bonaventura-bolivar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bonaventura Bolivar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bonaventura Bolivar</title>
+      <link>/authors/bonaventura-bolivar/</link>
+    </image>
+    
+    <item>
+      <title>Patterns of statin use and cholesterol goal attainment in a high risk cardiovascular population: a retrospective study of primary care electronic medical records</title>
+      <link>/publication/mmgarcia2016a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/mmgarcia2016a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statins for prevention of cardiovascular events in a low-risk population with low ankle brachial index</title>
+      <link>/publication/rramos2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rramos2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking of primary care records to census data to study the association between socioeconomic status and cancer incidence in Southern Europe: A nation-Wide ecological study</title>
+      <link>/publication/mmgarcia2015/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/mmgarcia2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

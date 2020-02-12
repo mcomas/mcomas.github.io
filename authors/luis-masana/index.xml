@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luís Masana | mcomas.net</title>
+    <link>/authors/luis-masana/</link>
+      <atom:link href="/authors/luis-masana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luís Masana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Luís Masana</title>
+      <link>/authors/luis-masana/</link>
+    </image>
+    
+    <item>
+      <title>Derivation and validation of SIDIAP-FHP score: A new risk model predicting cardiovascular disease in Familial Hypercholesterolemia</title>
+      <link>/publication/rramos2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rramos2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incidence of cardiovascular disease in patients with familial hypercholesterolemia phenotype: analysis of 5 years follow-up of real-world data from more than 1.5 million patients</title>
+      <link>/publication/lmasana2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lmasana2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Number of patients eligible for PCSK9 inhibitors based on real-world data from 2.5 million patients</title>
+      <link>/publication/azamora2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/azamora2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Familial hypercholesterolemia in a european mediterranean population. Prevalence and clinical data from 2.5 million primary care patients</title>
+      <link>/publication/azamora2017a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/azamora2017a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

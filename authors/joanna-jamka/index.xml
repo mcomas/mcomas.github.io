@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joanna Jamka | mcomas.net</title>
+    <link>/authors/joanna-jamka/</link>
+      <atom:link href="/authors/joanna-jamka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joanna Jamka</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Joanna Jamka</title>
+      <link>/authors/joanna-jamka/</link>
+    </image>
+    
+    <item>
+      <title>Palaeoenvironmental reconstructions through compositional data analysis</title>
+      <link>/publication/vdonato2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/vdonato2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

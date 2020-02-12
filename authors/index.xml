@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,90 +13,234 @@
     </image>
     
     <item>
+      <title>Alberto Zamora</title>
+      <link>/authors/alberto-zamora/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/alberto-zamora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Anna Ponjoan</title>
       <link>/authors/anna-ponjoan/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/anna-ponjoan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dídac Parramon</title>
-      <link>/authors/didac-parramon/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/didac-parramon/</guid>
+      <title>Irene Román Dégano</title>
+      <link>/authors/irene-roman-degano/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/irene-roman-degano/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jordi Blanch</title>
-      <link>/authors/jordi-blanch/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jordi-blanch/</guid>
+      <title>Jaume Marrugat</title>
+      <link>/authors/jaume-marrugat/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jaume-marrugat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lia Alves-i-Cabratosa</title>
       <link>/authors/lia-alves-i-cabratosa/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/lia-alves-i-cabratosa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lidia Guzmán</title>
-      <link>/authors/lidia-guzman/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/lidia-guzman/</guid>
+      <title>Luís Masana</title>
+      <link>/authors/luis-masana/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/luis-masana/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lourdes Camós</title>
-      <link>/authors/lourdes-camos/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/lourdes-camos/</guid>
+      <title>Manuel Angel Gomez-Marcos</title>
+      <link>/authors/manuel-angel-gomez-marcos/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/manuel-angel-gomez-marcos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marc Comas-Cufí</title>
       <link>/authors/marc-comas-cufi/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/marc-comas-cufi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marc Elosua-Bayés</title>
-      <link>/authors/marc-elosua-bayes/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/marc-elosua-bayes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maria Mar García-Gil</title>
       <link>/authors/maria-mar-garcia-gil/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/maria-mar-garcia-gil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Núria Plana</title>
+      <link>/authors/nuria-plana/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nuria-plana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rafel Ramos</title>
       <link>/authors/rafel-ramos/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/rafel-ramos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Elosua</title>
+      <link>/authors/roberto-elosua/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/roberto-elosua/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ruth Martí-Lluch</title>
       <link>/authors/ruth-marti-lluch/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ruth-marti-lluch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Betlem Salvador</title>
+      <link>/authors/betlem-salvador/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/betlem-salvador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Prieto-Alhambra</title>
+      <link>/authors/daniel-prieto-alhambra/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-prieto-alhambra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dídac Parramon</title>
+      <link>/authors/didac-parramon/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/didac-parramon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>José Miguel Baena-Díez</title>
+      <link>/authors/jose-miguel-baena-diez/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jose-miguel-baena-diez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Grau</title>
+      <link>/authors/maria-grau/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-grau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Rodriguez-Poncelas</title>
+      <link>/authors/antonio-rodriguez-poncelas/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/antonio-rodriguez-poncelas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriel Coll de Tuero</title>
+      <link>/authors/gabriel-coll-de-tuero/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/gabriel-coll-de-tuero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Barrot-de-la-Puente</title>
+      <link>/authors/joan-barrot-de-la-puente/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/joan-barrot-de-la-puente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Blanch</title>
+      <link>/authors/jordi-blanch/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jordi-blanch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Gifa-Vaello</title>
+      <link>/authors/josep-gifa-vaello/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/josep-gifa-vaello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lourdes Camós</title>
+      <link>/authors/lourdes-camos/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lourdes-camos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Elosua-Bayés</title>
+      <link>/authors/marc-elosua-bayes/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/marc-elosua-bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Saez</title>
+      <link>/authors/marc-saez/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/marc-saez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Antònia Barceló</title>
+      <link>/authors/maria-antonia-barcelo/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-antonia-barcelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ester Fages</title>
+      <link>/authors/ester-fages/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ester-fages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Garre-Olmo</title>
+      <link>/authors/josep-garre-olmo/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/josep-garre-olmo/</guid>
       <description></description>
     </item>
     
@@ -116,193 +260,33 @@
     </item>
     
     <item>
-      <title>Albert Francés</title>
-      <link>/authors/albert-frances/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/albert-frances/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alberto Zamora</title>
-      <link>/authors/alberto-zamora/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/alberto-zamora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Garcia-Elias</title>
-      <link>/authors/anna-garcia-elias/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/anna-garcia-elias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antonio Rodriguez-Poncelas</title>
-      <link>/authors/antonio-rodriguez-poncelas/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/antonio-rodriguez-poncelas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Betlem Salvador</title>
-      <link>/authors/betlem-salvador/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/betlem-salvador/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Prieto-Alhambra</title>
-      <link>/authors/daniel-prieto-alhambra/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-prieto-alhambra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ester Fages</title>
-      <link>/authors/ester-fages/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ester-fages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gabriel Coll de Tuero</title>
-      <link>/authors/gabriel-coll-de-tuero/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/gabriel-coll-de-tuero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Irene Román Dégano</title>
-      <link>/authors/irene-roman-degano/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/irene-roman-degano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jaume Marrugat</title>
-      <link>/authors/jaume-marrugat/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jaume-marrugat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joan Barrot-de-la-Puente</title>
-      <link>/authors/joan-barrot-de-la-puente/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/joan-barrot-de-la-puente/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Josep Garre-Olmo</title>
-      <link>/authors/josep-garre-olmo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/josep-garre-olmo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Josep Gifa-Vaello</title>
-      <link>/authors/josep-gifa-vaello/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/josep-gifa-vaello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>José Miguel Baena-Díez</title>
-      <link>/authors/jose-miguel-baena-diez/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jose-miguel-baena-diez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Luís Masana</title>
-      <link>/authors/luis-masana/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/luis-masana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manuel Angel Gomez-Marcos</title>
-      <link>/authors/manuel-angel-gomez-marcos/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/manuel-angel-gomez-marcos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marc Saez</title>
-      <link>/authors/marc-saez/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/marc-saez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria Antònia Barceló</title>
-      <link>/authors/maria-antonia-barcelo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/maria-antonia-barcelo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria Grau</title>
-      <link>/authors/maria-grau/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/maria-grau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Núria Plana</title>
-      <link>/authors/nuria-plana/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/nuria-plana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roberto Elosua</title>
-      <link>/authors/roberto-elosua/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/roberto-elosua/</guid>
+      <title>Àlex Vila</title>
+      <link>/authors/alex-vila/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/alex-vila/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elisabet Balló</title>
       <link>/authors/elisabet-ballo/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       <guid>/authors/elisabet-ballo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Irene Petersen</title>
-      <link>/authors/irene-petersen/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/irene-petersen/</guid>
+      <title>Luís Garcia</title>
+      <link>/authors/luis-garcia/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/luis-garcia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joanna Jamka</title>
       <link>/authors/joanna-jamka/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>/authors/joanna-jamka/</guid>
       <description></description>
     </item>
@@ -310,47 +294,39 @@
     <item>
       <title>Josep Antoni Martín-Fernández</title>
       <link>/authors/josep-antoni-martin-fernandez/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>/authors/josep-antoni-martin-fernandez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Judith Peñafiel</title>
-      <link>/authors/judith-penafiel/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/judith-penafiel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Luís Garcia</title>
-      <link>/authors/luis-garcia/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/luis-garcia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Valentino di Donato</title>
       <link>/authors/valentino-di-donato/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>/authors/valentino-di-donato/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Àlex Vila</title>
-      <link>/authors/alex-vila/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/alex-vila/</guid>
+      <title>Irene Petersen</title>
+      <link>/authors/irene-petersen/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/irene-petersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judith Peñafiel</title>
+      <link>/authors/judith-penafiel/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/judith-penafiel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glòria Mateu-Figueras</title>
       <link>/authors/gloria-mateu-figueras/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/authors/gloria-mateu-figueras/</guid>
       <description></description>
     </item>
@@ -358,7 +334,7 @@
     <item>
       <title>Bonaventura Bolivar</title>
       <link>/authors/bonaventura-bolivar/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       <guid>/authors/bonaventura-bolivar/</guid>
       <description></description>
     </item>
@@ -366,31 +342,31 @@
     <item>
       <title>Joan Sala</title>
       <link>/authors/joan-sala/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       <guid>/authors/joan-sala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Josep Daunis-i-Estadella</title>
-      <link>/authors/josep-daunis-i-estadella/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/josep-daunis-i-estadella/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Miquel Quesada</title>
       <link>/authors/miquel-quesada/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       <guid>/authors/miquel-quesada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Daunis-i-Estadella</title>
+      <link>/authors/josep-daunis-i-estadella/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/josep-daunis-i-estadella/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fernando Agüero</title>
       <link>/authors/fernando-aguero/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/authors/fernando-aguero/</guid>
       <description></description>
     </item>
@@ -398,7 +374,7 @@
     <item>
       <title>Griselda González-Zobl</title>
       <link>/authors/griselda-gonzalez-zobl/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/authors/griselda-gonzalez-zobl/</guid>
       <description></description>
     </item>
@@ -406,7 +382,7 @@
     <item>
       <title>Guillem Pera</title>
       <link>/authors/guillem-pera/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/authors/guillem-pera/</guid>
       <description></description>
     </item>
@@ -414,7 +390,7 @@
     <item>
       <title>Maria Teresa Alzamora</title>
       <link>/authors/maria-teresa-alzamora/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/authors/maria-teresa-alzamora/</guid>
       <description></description>
     </item>
@@ -422,7 +398,7 @@
     <item>
       <title>Eduardo Hermosilla</title>
       <link>/authors/eduardo-hermosilla/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/authors/eduardo-hermosilla/</guid>
       <description></description>
     </item>
@@ -430,7 +406,7 @@
     <item>
       <title>Josep Maria Elorza</title>
       <link>/authors/josep-maria-elorza/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/authors/josep-maria-elorza/</guid>
       <description></description>
     </item>
@@ -438,7 +414,7 @@
     <item>
       <title>Leonardo Méndez-Boo</title>
       <link>/authors/leonardo-mendez-boo/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/authors/leonardo-mendez-boo/</guid>
       <description></description>
     </item>
@@ -446,7 +422,7 @@
     <item>
       <title>Marta Banque</title>
       <link>/authors/marta-banque/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/authors/marta-banque/</guid>
       <description></description>
     </item>
@@ -454,7 +430,7 @@
     <item>
       <title>Daniel Fernández-Berges</title>
       <link>/authors/daniel-fernandez-berges/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/authors/daniel-fernandez-berges/</guid>
       <description></description>
     </item>
@@ -462,7 +438,7 @@
     <item>
       <title>Francisco Javier Félix-Redondo</title>
       <link>/authors/francisco-javier-felix-redondo/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/authors/francisco-javier-felix-redondo/</guid>
       <description></description>
     </item>
@@ -470,7 +446,7 @@
     <item>
       <title>Rosa Forés</title>
       <link>/authors/rosa-fores/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/authors/rosa-fores/</guid>
       <description></description>
     </item>
@@ -478,8 +454,32 @@
     <item>
       <title>Maria Serna</title>
       <link>/authors/maria-serna/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
       <guid>/authors/maria-serna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Albert Francés</title>
+      <link>/authors/albert-frances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/albert-frances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Garcia-Elias</title>
+      <link>/authors/anna-garcia-elias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/anna-garcia-elias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lidia Guzmán</title>
+      <link>/authors/lidia-guzman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/lidia-guzman/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/authors/gloria-mateu-figueras/</link>
       <atom:link href="/authors/gloria-mateu-figueras/index.xml" rel="self" type="application/rss+xml" />
     <description>Glòria Mateu-Figueras</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Glòria Mateu-Figueras</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Merging the components of a finite mixture using posterior probabilities</title>
       <link>/publication/mcomas2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/publication/mcomas2017/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Log-ratio methods in mixture models for compositional data sets</title>
       <link>/publication/mcomas2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       <guid>/publication/mcomas2016/</guid>
       <description></description>
     </item>

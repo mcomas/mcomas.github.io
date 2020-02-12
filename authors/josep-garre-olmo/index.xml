@@ -5,7 +5,7 @@
     <link>/authors/josep-garre-olmo/</link>
       <atom:link href="/authors/josep-garre-olmo/index.xml" rel="self" type="application/rss+xml" />
     <description>Josep Garre-Olmo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Josep Garre-Olmo</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Epidemiology of dementia: prevalence and incidence estimates using validated electronic health records from primary care</title>
-      <link>/publication/ponjoan2019a/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ponjoan2019a/</guid>
+      <title>How well can electronic health records from primary care identify Alzheimer’s disease cases?</title>
+      <link>/publication/ponjoan2019b/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ponjoan2019b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How well can electronic health records from primary care identify Alzheimer’s disease cases?</title>
-      <link>/publication/ponjoan2019b/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ponjoan2019b/</guid>
+      <title>Epidemiology of dementia: prevalence and incidence estimates using validated electronic health records from primary care</title>
+      <link>/publication/ponjoan2019a/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ponjoan2019a/</guid>
       <description></description>
     </item>
     

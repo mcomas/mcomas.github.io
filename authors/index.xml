@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,98 @@
     </image>
     
     <item>
-      <title>Alberto Zamora</title>
-      <link>/authors/alberto-zamora/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/alberto-zamora/</guid>
+      <title>Anna Ponjoan</title>
+      <link>/authors/anna-ponjoan/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/anna-ponjoan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Anna Ponjoan</title>
-      <link>/authors/anna-ponjoan/</link>
+      <title>Dídac Parramon</title>
+      <link>/authors/didac-parramon/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/didac-parramon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Blanch</title>
+      <link>/authors/jordi-blanch/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jordi-blanch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lia Alves-i-Cabratosa</title>
+      <link>/authors/lia-alves-i-cabratosa/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/lia-alves-i-cabratosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lidia Guzmán</title>
+      <link>/authors/lidia-guzman/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/lidia-guzman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lourdes Camós</title>
+      <link>/authors/lourdes-camos/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/lourdes-camos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Comas-Cufí</title>
+      <link>/authors/marc-comas-cufi/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/marc-comas-cufi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Elosua-Bayés</title>
+      <link>/authors/marc-elosua-bayes/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/marc-elosua-bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Mar García-Gil</title>
+      <link>/authors/maria-mar-garcia-gil/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-mar-garcia-gil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafel Ramos</title>
+      <link>/authors/rafel-ramos/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/rafel-ramos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruth Martí-Lluch</title>
+      <link>/authors/ruth-marti-lluch/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ruth-marti-lluch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberto Zamora</title>
+      <link>/authors/alberto-zamora/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/anna-ponjoan/</guid>
+      <guid>/authors/alberto-zamora/</guid>
       <description></description>
     </item>
     
@@ -45,14 +125,6 @@
     </item>
     
     <item>
-      <title>Lia Alves-i-Cabratosa</title>
-      <link>/authors/lia-alves-i-cabratosa/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/lia-alves-i-cabratosa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Luís Masana</title>
       <link>/authors/luis-masana/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
@@ -69,34 +141,10 @@
     </item>
     
     <item>
-      <title>Marc Comas-Cufí</title>
-      <link>/authors/marc-comas-cufi/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/marc-comas-cufi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria Mar García-Gil</title>
-      <link>/authors/maria-mar-garcia-gil/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/maria-mar-garcia-gil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Núria Plana</title>
       <link>/authors/nuria-plana/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/authors/nuria-plana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rafel Ramos</title>
-      <link>/authors/rafel-ramos/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/rafel-ramos/</guid>
       <description></description>
     </item>
     
@@ -109,10 +157,18 @@
     </item>
     
     <item>
-      <title>Ruth Martí-Lluch</title>
-      <link>/authors/ruth-marti-lluch/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ruth-marti-lluch/</guid>
+      <title>Albert Francés</title>
+      <link>/authors/albert-frances/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/albert-frances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Garcia-Elias</title>
+      <link>/authors/anna-garcia-elias/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/anna-garcia-elias/</guid>
       <description></description>
     </item>
     
@@ -129,14 +185,6 @@
       <link>/authors/daniel-prieto-alhambra/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/daniel-prieto-alhambra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dídac Parramon</title>
-      <link>/authors/didac-parramon/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/didac-parramon/</guid>
       <description></description>
     </item>
     
@@ -181,34 +229,10 @@
     </item>
     
     <item>
-      <title>Jordi Blanch</title>
-      <link>/authors/jordi-blanch/</link>
-      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jordi-blanch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Josep Gifa-Vaello</title>
       <link>/authors/josep-gifa-vaello/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/authors/josep-gifa-vaello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lourdes Camós</title>
-      <link>/authors/lourdes-camos/</link>
-      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/lourdes-camos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marc Elosua-Bayés</title>
-      <link>/authors/marc-elosua-bayes/</link>
-      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/marc-elosua-bayes/</guid>
       <description></description>
     </item>
     
@@ -456,30 +480,6 @@
       <link>/authors/maria-serna/</link>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
       <guid>/authors/maria-serna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Albert Francés</title>
-      <link>/authors/albert-frances/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/albert-frances/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Garcia-Elias</title>
-      <link>/authors/anna-garcia-elias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/anna-garcia-elias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lidia Guzmán</title>
-      <link>/authors/lidia-guzman/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/lidia-guzman/</guid>
       <description></description>
     </item>
     

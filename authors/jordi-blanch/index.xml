@@ -5,12 +5,20 @@
     <link>/authors/jordi-blanch/</link>
       <atom:link href="/authors/jordi-blanch/index.xml" rel="self" type="application/rss+xml" />
     <description>Jordi Blanch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jordi Blanch</title>
       <link>/authors/jordi-blanch/</link>
     </image>
+    
+    <item>
+      <title>Levels of ankle-brachial index and the risk of diabetes mellitus complications</title>
+      <link>/publication/lalves2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/lalves2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prognostic value of the estimated glomerular filtration rate decline in hypertensive patients without chronic kidney disease</title>
@@ -153,14 +161,6 @@
       <link>/publication/mmgarcia2015/</link>
       <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
       <guid>/publication/mmgarcia2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Levels of ankle-brachial index and the risk of diabetes mellitus complications</title>
-      <link>/publication/lalves2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/lalves2020/</guid>
       <description></description>
     </item>
     

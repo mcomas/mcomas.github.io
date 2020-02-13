@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Àlex Vila | mcomas.net</title>
+    <link>/authors/%C3%A0lex-vila/</link>
+      <atom:link href="/authors/%C3%A0lex-vila/index.xml" rel="self" type="application/rss+xml" />
+    <description>Àlex Vila</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Àlex Vila</title>
+      <link>/authors/%C3%A0lex-vila/</link>
+    </image>
+    
+    <item>
+      <title>Number of patients eligible for PCSK9 inhibitors based on real-world data from 2.5 million patients</title>
+      <link>/publication/azamora2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/azamora2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

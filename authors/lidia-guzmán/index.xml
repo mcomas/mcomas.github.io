@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lidia Guzmán | mcomas.net</title>
+    <link>/authors/lidia-guzm%C3%A1n/</link>
+      <atom:link href="/authors/lidia-guzm%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lidia Guzmán</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lidia Guzmán</title>
+      <link>/authors/lidia-guzm%C3%A1n/</link>
+    </image>
+    
+    <item>
+      <title>Levels of ankle-brachial index and the risk of diabetes mellitus complications</title>
+      <link>/publication/lalves2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/lalves2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

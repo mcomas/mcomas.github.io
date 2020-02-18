@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>mcomas.net</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>mcomas.net</title>
@@ -145,28 +145,6 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Levels of ankle-brachial index and the risk of diabetes mellitus complications</title>
       <link>/publication/lalves2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
@@ -179,6 +157,14 @@
       <link>/publication/rramos2019/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/publication/rramos2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IFCS 2019</title>
+      <link>/talk/greece_1/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/greece_1/</guid>
       <description></description>
     </item>
     
@@ -465,6 +451,22 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     </item>
     
     <item>
+      <title>CODAWORK 2019</title>
+      <link>/talk/spain_1/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IV AMYC</title>
+      <link>/talk/spain_2/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Epidemiology of dementia: prevalence and incidence estimates using validated electronic health records from primary care</title>
       <link>/publication/ponjoan2019a/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
@@ -679,6 +681,14 @@ Three
     </item>
     
     <item>
+      <title>COMPSTAT 2018</title>
+      <link>/talk/romania_1/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/romania_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prediabetes is associated with glomerular hyperfiltration in a European Mediterranean cohort study</title>
       <link>/publication/arodriguez2018/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
@@ -709,6 +719,22 @@ Three
       <link>/publication/melosua2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>/publication/melosua2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEIO 2018</title>
+      <link>/talk/spain_3/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEIO 2018</title>
+      <link>/talk/spain_4/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_4/</guid>
       <description></description>
     </item>
     
@@ -745,6 +771,14 @@ Three
     </item>
     
     <item>
+      <title>III AMYC</title>
+      <link>/talk/spain_5/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015</title>
       <link>/publication/lalves2017/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
@@ -761,10 +795,34 @@ Three
     </item>
     
     <item>
+      <title>IFCS 2017</title>
+      <link>/talk/japan_1/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/japan_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODAWORK 2017</title>
+      <link>/talk/italy_1/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/italy_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Familial hypercholesterolemia in a european mediterranean population. Prevalence and clinical data from 2.5 million primary care patients</title>
       <link>/publication/azamora2017a/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
       <guid>/publication/azamora2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VIII CONGRESO DE LA SOCIEDAD ESPAÑOLA DE CIRUGÍA TORÁCICA</title>
+      <link>/talk/spain_6/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_6/</guid>
       <description></description>
     </item>
     
@@ -777,6 +835,14 @@ Three
     </item>
     
     <item>
+      <title>II AMYC</title>
+      <link>/talk/spain_7/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Log-ratio methods in mixture models for compositional data sets</title>
       <link>/publication/mcomas2016/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
@@ -785,10 +851,50 @@ Three
     </item>
     
     <item>
+      <title>XXXIV REUNIÓN CIENTÍFICA DE LA SEE</title>
+      <link>/talk/spain_8/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>88° CONGRESSO DELLA SOCIETÀ GEOLOGICA ITALIANA</title>
+      <link>/talk/italy_2/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/italy_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSS 2016</title>
+      <link>/talk/uk_1/</link>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/uk_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEIO 2016</title>
+      <link>/talk/spain_9/</link>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Role of renal function in cardiovascular risk assessment: A retrospective cohort study in a population with low incidence of coronary heart disease</title>
       <link>/publication/mmgarcia2016b/</link>
       <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
       <guid>/publication/mmgarcia2016b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XXIX CONGRESO DE LA SOCIEDAD ESPAÑOLA DE ARTERIOSCLEROSIS</title>
+      <link>/talk/spain_10/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_10/</guid>
       <description></description>
     </item>
     
@@ -982,6 +1088,14 @@ Three
     </item>
     
     <item>
+      <title>IAMG 2015, THE 17TH ANNUAL CONFERENCE OF THE INTERNATIONAL ASSOCIATION FOR MATHEMATICAL GEOSCIENCES</title>
+      <link>/talk/germany_1/</link>
+      <pubDate>Sat, 05 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/germany_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prevalence of lower extremity peripheral arterial disease in individuals with chronic immune mediated inflammatory disorders</title>
       <link>/publication/faguero2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -1040,6 +1154,22 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>IFCS 2015</title>
+      <link>/talk/italy_3/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/italy_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODAWORK 2015</title>
+      <link>/talk/spain_11/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Incident atrial fibrillation hazard in hypertensive population: A risk function from and for clinical practice</title>
       <link>/publication/lalves2015/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
@@ -1056,10 +1186,66 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>I AMYC</title>
+      <link>/talk/spain_12/</link>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Derivation and validation of BOREAS, a risk score identifying candidates to develop cold-induced hypertension</title>
       <link>/publication/aponjoan2014/</link>
       <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
       <guid>/publication/aponjoan2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EGPRN 2014</title>
+      <link>/talk/spain_13/</link>
+      <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERCIM 2013</title>
+      <link>/talk/uk_2/</link>
+      <pubDate>Sat, 14 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/talk/uk_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEIO 2013</title>
+      <link>/talk/spain_14/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4TH SHIP</title>
+      <link>/talk/scotland_1/</link>
+      <pubDate>Wed, 28 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/talk/scotland_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IFCS 2013</title>
+      <link>/talk/the-netherlands_1/</link>
+      <pubDate>Sun, 14 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/talk/the-netherlands_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODAWORK 2013</title>
+      <link>/talk/austria_1/</link>
+      <pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/talk/austria_1/</guid>
       <description></description>
     </item>
     
@@ -1072,6 +1258,46 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>ERCIM 2012</title>
+      <link>/talk/spain_15/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I JORNADES DE CONSULTORIA ESTADÍSTICA I SOFTWARE</title>
+      <link>/talk/spain_16/</link>
+      <pubDate>Mon, 26 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODAWORK 2011</title>
+      <link>/talk/spain_17/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODAWORK 2011</title>
+      <link>/talk/spain_18/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOFSEM 2010</title>
+      <link>/talk/czech-republic_1/</link>
+      <pubDate>Sat, 23 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/talk/czech-republic_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vertex fusion under distance constraints</title>
       <link>/publication/mcomas2009/</link>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
@@ -1080,266 +1306,18 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>4TH SHIP</title>
-      <link>/talk/scotland_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/scotland_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>88° CONGRESSO DELLA SOCIETÀ GEOLOGICA ITALIANA</title>
-      <link>/talk/italy_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/italy_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CODAWORK 2011</title>
-      <link>/talk/spain_17/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CODAWORK 2011</title>
-      <link>/talk/spain_18/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CODAWORK 2013</title>
-      <link>/talk/austria_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/austria_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CODAWORK 2015</title>
-      <link>/talk/spain_11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CODAWORK 2017</title>
-      <link>/talk/italy_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/italy_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CODAWORK 2019</title>
-      <link>/talk/spain_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COMPSTAT 2018</title>
-      <link>/talk/romania_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/romania_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EGPRN 2014</title>
-      <link>/talk/spain_13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ERCIM 2012</title>
-      <link>/talk/spain_15/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ERCIM 2013</title>
-      <link>/talk/uk_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/uk_2/</guid>
+      <title>VI JMDA</title>
+      <link>/talk/spain_19/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>/talk/spain_19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EUROCOMB 2007</title>
       <link>/talk/spain_20/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Sep 2007 00:00:00 +0000</pubDate>
       <guid>/talk/spain_20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I AMYC</title>
-      <link>/talk/spain_12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I JORNADES DE CONSULTORIA ESTADÍSTICA I SOFTWARE</title>
-      <link>/talk/spain_16/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IAMG 2015, THE 17TH ANNUAL CONFERENCE OF THE INTERNATIONAL ASSOCIATION FOR MATHEMATICAL GEOSCIENCES</title>
-      <link>/talk/germany_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/germany_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IFCS 2013</title>
-      <link>/talk/the-netherlands_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/the-netherlands_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IFCS 2015</title>
-      <link>/talk/italy_3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/italy_3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IFCS 2017</title>
-      <link>/talk/japan_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/japan_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IFCS 2019</title>
-      <link>/talk/greece_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/greece_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>II AMYC</title>
-      <link>/talk/spain_7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>III AMYC</title>
-      <link>/talk/spain_5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IV AMYC</title>
-      <link>/talk/spain_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RSS 2016</title>
-      <link>/talk/uk_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/uk_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SEIO 2013</title>
-      <link>/talk/spain_14/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SEIO 2016</title>
-      <link>/talk/spain_9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SEIO 2018</title>
-      <link>/talk/spain_3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SEIO 2018</title>
-      <link>/talk/spain_4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SOFSEM 2010</title>
-      <link>/talk/czech-republic_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/czech-republic_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VI JMDA</title>
-      <link>/talk/spain_19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VIII CONGRESO DE LA SOCIEDAD ESPAÑOLA DE CIRUGÍA TORÁCICA</title>
-      <link>/talk/spain_6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>XXIX CONGRESO DE LA SOCIEDAD ESPAÑOLA DE ARTERIOSCLEROSIS</title>
-      <link>/talk/spain_10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>XXXIV REUNIÓN CIENTÍFICA DE LA SEE</title>
-      <link>/talk/spain_8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/spain_8/</guid>
       <description></description>
     </item>
     

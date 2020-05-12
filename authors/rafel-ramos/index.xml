@@ -5,12 +5,28 @@
     <link>/authors/rafel-ramos/</link>
       <atom:link href="/authors/rafel-ramos/index.xml" rel="self" type="application/rss+xml" />
     <description>Rafel Ramos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Rafel Ramos</title>
       <link>/authors/rafel-ramos/</link>
     </image>
+    
+    <item>
+      <title>Is it time to use real world data from primary care in Alzheimer’s disease?</title>
+      <link>/publication/aponjoan2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/aponjoan2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factores asociados a retrasos de tiempo desde el electrocardiograma diagnóstico hasta el paso de guía en el infarto agudo de miocardio con elevación del segmento ST transferido para angioplastia primaria</title>
+      <link>/publication/jaboal2020/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jaboal2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Levels of ankle-brachial index and the risk of diabetes mellitus complications</title>

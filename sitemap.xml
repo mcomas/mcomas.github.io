@@ -3,878 +3,918 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>http://mcomas.net/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>http://mcomas.net/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>http://mcomas.net/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/home_deactivated/hero/</loc>
+    <loc>http://mcomas.net/home_deactivated/hero/</loc>
   </url>
   
   <url>
-    <loc>/home_deactivated/demo/</loc>
+    <loc>http://mcomas.net/home_deactivated/demo/</loc>
   </url>
   
   <url>
-    <loc>/home_deactivated/skills/</loc>
+    <loc>http://mcomas.net/home_deactivated/skills/</loc>
   </url>
   
   <url>
-    <loc>/home_deactivated/experience/</loc>
+    <loc>http://mcomas.net/home_deactivated/experience/</loc>
   </url>
   
   <url>
-    <loc>/home_deactivated/accomplishments/</loc>
+    <loc>http://mcomas.net/home_deactivated/accomplishments/</loc>
   </url>
   
   <url>
-    <loc>/home_deactivated/projects/</loc>
+    <loc>http://mcomas.net/home_deactivated/projects/</loc>
   </url>
   
   <url>
-    <loc>/home_deactivated/people/</loc>
+    <loc>http://mcomas.net/home_deactivated/people/</loc>
   </url>
   
   <url>
-    <loc>/home_deactivated/featured/</loc>
+    <loc>http://mcomas.net/home_deactivated/featured/</loc>
   </url>
   
   <url>
-    <loc>/home_deactivated/tags/</loc>
+    <loc>http://mcomas.net/home_deactivated/tags/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>http://mcomas.net/publication_types/2/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/chady-salloum/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/chetana-lim/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/daniel-azoulay/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/emilio-ramos/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/jaume-codina-font/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/joan-figueras/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/publication/mcasellas2020/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/laura-llad%C3%B3/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/marc-comas-cuf%C3%AD/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/margarida-casellas-robert/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/publication_types/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/publication/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/santiago-lopez-ben/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mcomas.net/authors/anna-ponjoan/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/anna-ponjoan/</loc>
+    <loc>http://mcomas.net/authors/d%C3%ADdac-parramon/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>http://mcomas.net/authors/ester-fages/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/d%C3%ADdac-parramon/</loc>
+    <loc>http://mcomas.net/authors/gl%C3%B2ria-mateu-figueras/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/ester-fages/</loc>
+    <loc>http://mcomas.net/publication/aponjoan2020/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gl%C3%B2ria-mateu-figueras/</loc>
+    <loc>http://mcomas.net/authors/javier-palarea-albaladejo/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/aponjoan2020/</loc>
+    <loc>http://mcomas.net/authors/jordi-blanch/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/javier-palarea-albaladejo/</loc>
+    <loc>http://mcomas.net/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jordi-blanch/</loc>
+    <loc>http://mcomas.net/authors/josep-garre-olmo/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/</loc>
+    <loc>http://mcomas.net/authors/lia-alves-i-cabratosa/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/josep-garre-olmo/</loc>
+    <loc>http://mcomas.net/authors/maria-mar-garc%C3%ADa-gil/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lia-alves-i-cabratosa/</loc>
+    <loc>http://mcomas.net/publication/mcomas2020/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/marc-comas-cuf%C3%AD/</loc>
+    <loc>http://mcomas.net/authors/rafel-ramos/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/maria-mar-garc%C3%ADa-gil/</loc>
+    <loc>http://mcomas.net/authors/ruth-mart%C3%AD-lluch/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mcomas2020/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rafel-ramos/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ruth-mart%C3%AD-lluch/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/daniel-bosch/</loc>
+    <loc>http://mcomas.net/authors/daniel-bosch/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/jaboal2020/</loc>
+    <loc>http://mcomas.net/publication/jaboal2020/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jaime-aboal/</loc>
+    <loc>http://mcomas.net/authors/jaime-aboal/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/josep-iglesies/</loc>
+    <loc>http://mcomas.net/authors/josep-iglesies/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/maria-n%C3%BA%C3%B1ez/</loc>
+    <loc>http://mcomas.net/authors/maria-n%C3%BA%C3%B1ez/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/pablo-loma-osorio/</loc>
+    <loc>http://mcomas.net/authors/pablo-loma-osorio/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/ram%C3%B3n-brugada/</loc>
+    <loc>http://mcomas.net/authors/ram%C3%B3n-brugada/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/sergio-moral/</loc>
+    <loc>http://mcomas.net/authors/sergio-moral/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/lalves2020/</loc>
+    <loc>http://mcomas.net/publication/lalves2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lidia-guzm%C3%A1n/</loc>
+    <loc>http://mcomas.net/authors/lidia-guzm%C3%A1n/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lourdes-cam%C3%B3s/</loc>
+    <loc>http://mcomas.net/authors/lourdes-cam%C3%B3s/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/marc-elosua-bay%C3%A9s/</loc>
+    <loc>http://mcomas.net/authors/marc-elosua-bay%C3%A9s/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/alberto-zamora/</loc>
+    <loc>http://mcomas.net/authors/alberto-zamora/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/rramos2019/</loc>
+    <loc>http://mcomas.net/publication/rramos2019/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/irene-rom%C3%A1n-d%C3%A9gano/</loc>
+    <loc>http://mcomas.net/authors/irene-rom%C3%A1n-d%C3%A9gano/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jaume-marrugat/</loc>
+    <loc>http://mcomas.net/authors/jaume-marrugat/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lu%C3%ADs-masana/</loc>
+    <loc>http://mcomas.net/authors/lu%C3%ADs-masana/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/manuel-angel-gomez-marcos/</loc>
+    <loc>http://mcomas.net/authors/manuel-angel-gomez-marcos/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/n%C3%BAria-plana/</loc>
+    <loc>http://mcomas.net/authors/n%C3%BAria-plana/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/roberto-elosua/</loc>
+    <loc>http://mcomas.net/authors/roberto-elosua/</loc>
     <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/greece_1/</loc>
+    <loc>http://mcomas.net/talk/greece_1/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>http://mcomas.net/talk/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/lmasana2019/</loc>
+    <loc>http://mcomas.net/publication/lmasana2019/</loc>
     <lastmod>2019-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://mcomas.net/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>http://mcomas.net/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/albert-franc%C3%A9s/</loc>
+    <loc>http://mcomas.net/authors/albert-franc%C3%A9s/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/anna-garcia-elias/</loc>
+    <loc>http://mcomas.net/authors/anna-garcia-elias/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/iroman2019/</loc>
+    <loc>http://mcomas.net/publication/iroman2019/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/betlem-salvador/</loc>
+    <loc>http://mcomas.net/authors/betlem-salvador/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/daniel-prieto-alhambra/</loc>
+    <loc>http://mcomas.net/authors/daniel-prieto-alhambra/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mgarcia2019/</loc>
+    <loc>http://mcomas.net/publication/mgarcia2019/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jos%C3%A9-miguel-baena-d%C3%ADez/</loc>
+    <loc>http://mcomas.net/authors/jos%C3%A9-miguel-baena-d%C3%ADez/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/maria-grau/</loc>
+    <loc>http://mcomas.net/authors/maria-grau/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/antonio-rodriguez-poncelas/</loc>
+    <loc>http://mcomas.net/authors/antonio-rodriguez-poncelas/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gabriel-coll-de-tuero/</loc>
+    <loc>http://mcomas.net/authors/gabriel-coll-de-tuero/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/joan-barrot-de-la-puente/</loc>
+    <loc>http://mcomas.net/authors/joan-barrot-de-la-puente/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/josep-gifa-vaello/</loc>
+    <loc>http://mcomas.net/authors/josep-gifa-vaello/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/marc-saez/</loc>
+    <loc>http://mcomas.net/authors/marc-saez/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/maria-ant%C3%B2nia-barcel%C3%B3/</loc>
+    <loc>http://mcomas.net/authors/maria-ant%C3%B2nia-barcel%C3%B3/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/gctuero2019/</loc>
+    <loc>http://mcomas.net/publication/gctuero2019/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/lalves2019/</loc>
+    <loc>http://mcomas.net/publication/lalves2019/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/ponjoan2019b/</loc>
+    <loc>http://mcomas.net/publication/ponjoan2019b/</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_1/</loc>
+    <loc>http://mcomas.net/talk/spain_1/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>http://mcomas.net/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_2/</loc>
+    <loc>http://mcomas.net/talk/spain_2/</loc>
     <lastmod>2019-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/ponjoan2019a/</loc>
+    <loc>http://mcomas.net/publication/ponjoan2019a/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>http://mcomas.net/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>http://mcomas.net/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>http://mcomas.net/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>http://mcomas.net/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/lalves2018/</loc>
+    <loc>http://mcomas.net/publication/lalves2018/</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/azamora2018/</loc>
+    <loc>http://mcomas.net/publication/azamora2018/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/%C3%A0lex-vila/</loc>
+    <loc>http://mcomas.net/authors/%C3%A0lex-vila/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/elisabet-ball%C3%B3/</loc>
+    <loc>http://mcomas.net/authors/elisabet-ball%C3%B3/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/lu%C3%ADs-garcia/</loc>
+    <loc>http://mcomas.net/authors/lu%C3%ADs-garcia/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/rramos2018/</loc>
+    <loc>http://mcomas.net/publication/rramos2018/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/romania_1/</loc>
+    <loc>http://mcomas.net/talk/romania_1/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/arodriguez2018/</loc>
+    <loc>http://mcomas.net/publication/arodriguez2018/</loc>
     <lastmod>2018-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/melosua2018/</loc>
+    <loc>http://mcomas.net/publication/melosua2018/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_3/</loc>
+    <loc>http://mcomas.net/talk/spain_3/</loc>
     <lastmod>2018-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_4/</loc>
+    <loc>http://mcomas.net/talk/spain_4/</loc>
     <lastmod>2018-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/joanna-jamka/</loc>
+    <loc>http://mcomas.net/authors/joanna-jamka/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/vdonato2018/</loc>
+    <loc>http://mcomas.net/publication/vdonato2018/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/valentino-di-donato/</loc>
+    <loc>http://mcomas.net/authors/valentino-di-donato/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mmgarcia2018/</loc>
+    <loc>http://mcomas.net/publication/mmgarcia2018/</loc>
     <lastmod>2018-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/irene-petersen/</loc>
+    <loc>http://mcomas.net/authors/irene-petersen/</loc>
     <lastmod>2018-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/jmbaena2018/</loc>
+    <loc>http://mcomas.net/publication/jmbaena2018/</loc>
     <lastmod>2018-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/judith-pe%C3%B1afiel/</loc>
+    <loc>http://mcomas.net/authors/judith-pe%C3%B1afiel/</loc>
     <lastmod>2018-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mcomas2017/</loc>
+    <loc>http://mcomas.net/publication/mcomas2017/</loc>
     <lastmod>2017-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_5/</loc>
+    <loc>http://mcomas.net/talk/spain_5/</loc>
     <lastmod>2017-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/lalves2017/</loc>
+    <loc>http://mcomas.net/publication/lalves2017/</loc>
     <lastmod>2017-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/rmarti2017/</loc>
+    <loc>http://mcomas.net/publication/rmarti2017/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/japan_1/</loc>
+    <loc>http://mcomas.net/talk/japan_1/</loc>
     <lastmod>2017-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/italy_1/</loc>
+    <loc>http://mcomas.net/talk/italy_1/</loc>
     <lastmod>2017-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/azamora2017a/</loc>
+    <loc>http://mcomas.net/publication/azamora2017a/</loc>
     <lastmod>2017-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_6/</loc>
+    <loc>http://mcomas.net/talk/spain_6/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/aponjoan2017/</loc>
+    <loc>http://mcomas.net/publication/aponjoan2017/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_7/</loc>
+    <loc>http://mcomas.net/talk/spain_7/</loc>
     <lastmod>2016-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mcomas2016/</loc>
+    <loc>http://mcomas.net/publication/mcomas2016/</loc>
     <lastmod>2016-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_8/</loc>
+    <loc>http://mcomas.net/talk/spain_8/</loc>
     <lastmod>2016-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/italy_2/</loc>
+    <loc>http://mcomas.net/talk/italy_2/</loc>
     <lastmod>2016-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/uk_1/</loc>
+    <loc>http://mcomas.net/talk/uk_1/</loc>
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_9/</loc>
+    <loc>http://mcomas.net/talk/spain_9/</loc>
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mmgarcia2016b/</loc>
+    <loc>http://mcomas.net/publication/mmgarcia2016b/</loc>
     <lastmod>2016-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_10/</loc>
+    <loc>http://mcomas.net/talk/spain_10/</loc>
     <lastmod>2016-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>http://mcomas.net/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>http://mcomas.net/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>http://mcomas.net/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>http://mcomas.net/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>http://mcomas.net/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://mcomas.net/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
+    <loc>http://mcomas.net/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>http://mcomas.net/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://mcomas.net/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/demo/</loc>
+    <loc>http://mcomas.net/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/lalves2016/</loc>
+    <loc>http://mcomas.net/publication/lalves2016/</loc>
     <lastmod>2016-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/bonaventura-bolivar/</loc>
+    <loc>http://mcomas.net/authors/bonaventura-bolivar/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/joan-sala/</loc>
+    <loc>http://mcomas.net/authors/joan-sala/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/miquel-quesada/</loc>
+    <loc>http://mcomas.net/authors/miquel-quesada/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/rramos2016/</loc>
+    <loc>http://mcomas.net/publication/rramos2016/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/josep-daunis-i-estadella/</loc>
+    <loc>http://mcomas.net/authors/josep-daunis-i-estadella/</loc>
     <lastmod>2016-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mmgarcia2016a/</loc>
+    <loc>http://mcomas.net/publication/mmgarcia2016a/</loc>
     <lastmod>2016-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/germany_1/</loc>
+    <loc>http://mcomas.net/talk/germany_1/</loc>
     <lastmod>2015-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/fernando-ag%C3%BCero/</loc>
+    <loc>http://mcomas.net/authors/fernando-ag%C3%BCero/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/griselda-gonz%C3%A1lez-zobl/</loc>
+    <loc>http://mcomas.net/authors/griselda-gonz%C3%A1lez-zobl/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/guillem-pera/</loc>
+    <loc>http://mcomas.net/authors/guillem-pera/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/maria-teresa-alzamora/</loc>
+    <loc>http://mcomas.net/authors/maria-teresa-alzamora/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/faguero2015/</loc>
+    <loc>http://mcomas.net/publication/faguero2015/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>http://mcomas.net/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>http://mcomas.net/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>http://mcomas.net/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>http://mcomas.net/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>http://mcomas.net/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/italy_3/</loc>
+    <loc>http://mcomas.net/talk/italy_3/</loc>
     <lastmod>2015-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_11/</loc>
+    <loc>http://mcomas.net/talk/spain_11/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/lalves2015/</loc>
+    <loc>http://mcomas.net/publication/lalves2015/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/eduardo-hermosilla/</loc>
+    <loc>http://mcomas.net/authors/eduardo-hermosilla/</loc>
     <lastmod>2014-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/josep-maria-elorza/</loc>
+    <loc>http://mcomas.net/authors/josep-maria-elorza/</loc>
     <lastmod>2014-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/leonardo-m%C3%A9ndez-boo/</loc>
+    <loc>http://mcomas.net/authors/leonardo-m%C3%A9ndez-boo/</loc>
     <lastmod>2014-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mmgarcia2015/</loc>
+    <loc>http://mcomas.net/publication/mmgarcia2015/</loc>
     <lastmod>2014-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/marta-banque/</loc>
+    <loc>http://mcomas.net/authors/marta-banque/</loc>
     <lastmod>2014-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_12/</loc>
+    <loc>http://mcomas.net/talk/spain_12/</loc>
     <lastmod>2014-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/aponjoan2014/</loc>
+    <loc>http://mcomas.net/publication/aponjoan2014/</loc>
     <lastmod>2014-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_13/</loc>
+    <loc>http://mcomas.net/talk/spain_13/</loc>
     <lastmod>2014-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/uk_2/</loc>
+    <loc>http://mcomas.net/talk/uk_2/</loc>
     <lastmod>2013-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_14/</loc>
+    <loc>http://mcomas.net/talk/spain_14/</loc>
     <lastmod>2013-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/scotland_1/</loc>
+    <loc>http://mcomas.net/talk/scotland_1/</loc>
     <lastmod>2013-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/the-netherlands_1/</loc>
+    <loc>http://mcomas.net/talk/the-netherlands_1/</loc>
     <lastmod>2013-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/austria_1/</loc>
+    <loc>http://mcomas.net/talk/austria_1/</loc>
     <lastmod>2013-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/daniel-fern%C3%A1ndez-berges/</loc>
+    <loc>http://mcomas.net/authors/daniel-fern%C3%A1ndez-berges/</loc>
     <lastmod>2013-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/key2013/</loc>
+    <loc>http://mcomas.net/publication/key2013/</loc>
     <lastmod>2013-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/francisco-javier-f%C3%A9lix-redondo/</loc>
+    <loc>http://mcomas.net/authors/francisco-javier-f%C3%A9lix-redondo/</loc>
     <lastmod>2013-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/rosa-for%C3%A9s/</loc>
+    <loc>http://mcomas.net/authors/rosa-for%C3%A9s/</loc>
     <lastmod>2013-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_15/</loc>
+    <loc>http://mcomas.net/talk/spain_15/</loc>
     <lastmod>2012-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_16/</loc>
+    <loc>http://mcomas.net/talk/spain_16/</loc>
     <lastmod>2011-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_17/</loc>
+    <loc>http://mcomas.net/talk/spain_17/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_18/</loc>
+    <loc>http://mcomas.net/talk/spain_18/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/czech-republic_1/</loc>
+    <loc>http://mcomas.net/talk/czech-republic_1/</loc>
     <lastmod>2010-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/maria-serna/</loc>
+    <loc>http://mcomas.net/authors/maria-serna/</loc>
     <lastmod>2009-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/mcomas2009/</loc>
+    <loc>http://mcomas.net/publication/mcomas2009/</loc>
     <lastmod>2009-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_19/</loc>
+    <loc>http://mcomas.net/talk/spain_19/</loc>
     <lastmod>2008-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/spain_20/</loc>
+    <loc>http://mcomas.net/talk/spain_20/</loc>
     <lastmod>2007-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/home_deactivated/</loc>
+    <loc>http://mcomas.net/home_deactivated/</loc>
   </url>
   
 </urlset>

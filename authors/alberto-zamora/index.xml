@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alberto Zamora | mcomas.net</title>
-    <link>/authors/alberto-zamora/</link>
-      <atom:link href="/authors/alberto-zamora/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/alberto-zamora/</link>
+      <atom:link href="http://mcomas.net/authors/alberto-zamora/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Zamora</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alberto Zamora</title>
-      <link>/authors/alberto-zamora/</link>
+      <link>http://mcomas.net/authors/alberto-zamora/</link>
     </image>
     
     <item>
       <title>Derivation and validation of SIDIAP-FHP score: A new risk model predicting cardiovascular disease in Familial Hypercholesterolemia</title>
-      <link>/publication/rramos2019/</link>
+      <link>http://mcomas.net/publication/rramos2019/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rramos2019/</guid>
+      <guid>http://mcomas.net/publication/rramos2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incidence of cardiovascular disease in patients with familial hypercholesterolemia phenotype: analysis of 5 years follow-up of real-world data from more than 1.5 million patients</title>
-      <link>/publication/lmasana2019/</link>
+      <link>http://mcomas.net/publication/lmasana2019/</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lmasana2019/</guid>
+      <guid>http://mcomas.net/publication/lmasana2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Three-year events and mortality in cardiovascular disease patients without lipid-lowering treatment</title>
-      <link>/publication/iroman2019/</link>
+      <link>http://mcomas.net/publication/iroman2019/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/iroman2019/</guid>
+      <guid>http://mcomas.net/publication/iroman2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Number of patients eligible for PCSK9 inhibitors based on real-world data from 2.5 million patients</title>
-      <link>/publication/azamora2018/</link>
+      <link>http://mcomas.net/publication/azamora2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/azamora2018/</guid>
+      <guid>http://mcomas.net/publication/azamora2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Familial hypercholesterolemia in a european mediterranean population. Prevalence and clinical data from 2.5 million primary care patients</title>
-      <link>/publication/azamora2017a/</link>
+      <link>http://mcomas.net/publication/azamora2017a/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/azamora2017a/</guid>
+      <guid>http://mcomas.net/publication/azamora2017a/</guid>
       <description></description>
     </item>
     

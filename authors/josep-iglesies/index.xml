@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Josep Iglesies | mcomas.net</title>
-    <link>/authors/josep-iglesies/</link>
-      <atom:link href="/authors/josep-iglesies/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/josep-iglesies/</link>
+      <atom:link href="http://mcomas.net/authors/josep-iglesies/index.xml" rel="self" type="application/rss+xml" />
     <description>Josep Iglesies</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Josep Iglesies</title>
-      <link>/authors/josep-iglesies/</link>
+      <link>http://mcomas.net/authors/josep-iglesies/</link>
     </image>
     
     <item>
       <title>Factores asociados a retrasos de tiempo desde el electrocardiograma diagnóstico hasta el paso de guía en el infarto agudo de miocardio con elevación del segmento ST transferido para angioplastia primaria</title>
-      <link>/publication/jaboal2020/</link>
+      <link>http://mcomas.net/publication/jaboal2020/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jaboal2020/</guid>
+      <guid>http://mcomas.net/publication/jaboal2020/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anna Garcia-Elias | mcomas.net</title>
-    <link>/authors/anna-garcia-elias/</link>
-      <atom:link href="/authors/anna-garcia-elias/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/anna-garcia-elias/</link>
+      <atom:link href="http://mcomas.net/authors/anna-garcia-elias/index.xml" rel="self" type="application/rss+xml" />
     <description>Anna Garcia-Elias</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Anna Garcia-Elias</title>
-      <link>/authors/anna-garcia-elias/</link>
+      <link>http://mcomas.net/authors/anna-garcia-elias/</link>
     </image>
     
     <item>
       <title>Three-year events and mortality in cardiovascular disease patients without lipid-lowering treatment</title>
-      <link>/publication/iroman2019/</link>
+      <link>http://mcomas.net/publication/iroman2019/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/iroman2019/</guid>
+      <guid>http://mcomas.net/publication/iroman2019/</guid>
       <description></description>
     </item>
     

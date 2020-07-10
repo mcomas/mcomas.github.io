@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lourdes Camós | mcomas.net</title>
-    <link>/authors/lourdes-cam%C3%B3s/</link>
-      <atom:link href="/authors/lourdes-cam%C3%B3s/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/lourdes-cam%C3%B3s/</link>
+      <atom:link href="http://mcomas.net/authors/lourdes-cam%C3%B3s/index.xml" rel="self" type="application/rss+xml" />
     <description>Lourdes Camós</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lourdes Camós</title>
-      <link>/authors/lourdes-cam%C3%B3s/</link>
+      <link>http://mcomas.net/authors/lourdes-cam%C3%B3s/</link>
     </image>
     
     <item>
       <title>Levels of ankle-brachial index and the risk of diabetes mellitus complications</title>
-      <link>/publication/lalves2020/</link>
+      <link>http://mcomas.net/publication/lalves2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/lalves2020/</guid>
+      <guid>http://mcomas.net/publication/lalves2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of Low Ankle-Brachial Index in Cardiovascular and Mortality Risk Compared with Major Risk Conditions</title>
-      <link>/publication/lalves2019/</link>
+      <link>http://mcomas.net/publication/lalves2019/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lalves2019/</guid>
+      <guid>http://mcomas.net/publication/lalves2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association of classic cardiovascular risk factors and lifestyles with the cardio-ankle vascular index in a general Mediterranean population</title>
-      <link>/publication/melosua2018/</link>
+      <link>http://mcomas.net/publication/melosua2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/melosua2018/</guid>
+      <guid>http://mcomas.net/publication/melosua2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differences in cardio-ankle vascular index in a general Mediterranean population depending on the presence or absence of metabolic cardiovascular risk factors</title>
-      <link>/publication/rmarti2017/</link>
+      <link>http://mcomas.net/publication/rmarti2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rmarti2017/</guid>
+      <guid>http://mcomas.net/publication/rmarti2017/</guid>
       <description></description>
     </item>
     

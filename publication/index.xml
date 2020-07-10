@@ -2,301 +2,309 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | mcomas.net</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/publication/</link>
+      <atom:link href="http://mcomas.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>http://mcomas.net/publication/</link>
     </image>
     
     <item>
+      <title>Laparoscopic Liver Resection for Hepatocellular Carcinoma in Child-Pugh A patients with and without Portal Hypertension: A Multicentre Study</title>
+      <link>http://mcomas.net/publication/mcasellas2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/mcasellas2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Is it time to use real world data from primary care in Alzheimer’s disease?</title>
-      <link>/publication/aponjoan2020/</link>
+      <link>http://mcomas.net/publication/aponjoan2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/aponjoan2020/</guid>
+      <guid>http://mcomas.net/publication/aponjoan2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling count data using the logratio-normal-multinomial distribution</title>
-      <link>/publication/mcomas2020/</link>
+      <link>http://mcomas.net/publication/mcomas2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/mcomas2020/</guid>
+      <guid>http://mcomas.net/publication/mcomas2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Factores asociados a retrasos de tiempo desde el electrocardiograma diagnóstico hasta el paso de guía en el infarto agudo de miocardio con elevación del segmento ST transferido para angioplastia primaria</title>
-      <link>/publication/jaboal2020/</link>
+      <link>http://mcomas.net/publication/jaboal2020/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jaboal2020/</guid>
+      <guid>http://mcomas.net/publication/jaboal2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Levels of ankle-brachial index and the risk of diabetes mellitus complications</title>
-      <link>/publication/lalves2020/</link>
+      <link>http://mcomas.net/publication/lalves2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/lalves2020/</guid>
+      <guid>http://mcomas.net/publication/lalves2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derivation and validation of SIDIAP-FHP score: A new risk model predicting cardiovascular disease in Familial Hypercholesterolemia</title>
-      <link>/publication/rramos2019/</link>
+      <link>http://mcomas.net/publication/rramos2019/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rramos2019/</guid>
+      <guid>http://mcomas.net/publication/rramos2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incidence of cardiovascular disease in patients with familial hypercholesterolemia phenotype: analysis of 5 years follow-up of real-world data from more than 1.5 million patients</title>
-      <link>/publication/lmasana2019/</link>
+      <link>http://mcomas.net/publication/lmasana2019/</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lmasana2019/</guid>
+      <guid>http://mcomas.net/publication/lmasana2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Three-year events and mortality in cardiovascular disease patients without lipid-lowering treatment</title>
-      <link>/publication/iroman2019/</link>
+      <link>http://mcomas.net/publication/iroman2019/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/iroman2019/</guid>
+      <guid>http://mcomas.net/publication/iroman2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effectiveness of statins as primary prevention in people with gout: a population-based cohort study</title>
-      <link>/publication/mgarcia2019/</link>
+      <link>http://mcomas.net/publication/mgarcia2019/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mgarcia2019/</guid>
+      <guid>http://mcomas.net/publication/mgarcia2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prognostic value of the estimated glomerular filtration rate decline in hypertensive patients without chronic kidney disease</title>
-      <link>/publication/gctuero2019/</link>
+      <link>http://mcomas.net/publication/gctuero2019/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gctuero2019/</guid>
+      <guid>http://mcomas.net/publication/gctuero2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of Low Ankle-Brachial Index in Cardiovascular and Mortality Risk Compared with Major Risk Conditions</title>
-      <link>/publication/lalves2019/</link>
+      <link>http://mcomas.net/publication/lalves2019/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lalves2019/</guid>
+      <guid>http://mcomas.net/publication/lalves2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How well can electronic health records from primary care identify Alzheimer’s disease cases?</title>
-      <link>/publication/ponjoan2019b/</link>
+      <link>http://mcomas.net/publication/ponjoan2019b/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ponjoan2019b/</guid>
+      <guid>http://mcomas.net/publication/ponjoan2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiology of dementia: prevalence and incidence estimates using validated electronic health records from primary care</title>
-      <link>/publication/ponjoan2019a/</link>
+      <link>http://mcomas.net/publication/ponjoan2019a/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ponjoan2019a/</guid>
+      <guid>http://mcomas.net/publication/ponjoan2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hypertension and high ankle brachial index: the overlooked combination</title>
-      <link>/publication/lalves2018/</link>
+      <link>http://mcomas.net/publication/lalves2018/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lalves2018/</guid>
+      <guid>http://mcomas.net/publication/lalves2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Number of patients eligible for PCSK9 inhibitors based on real-world data from 2.5 million patients</title>
-      <link>/publication/azamora2018/</link>
+      <link>http://mcomas.net/publication/azamora2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/azamora2018/</guid>
+      <guid>http://mcomas.net/publication/azamora2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statins for primary prevention of cardiovascular events and mortality in the old and very old population: retrospective cohort study</title>
-      <link>/publication/rramos2018/</link>
+      <link>http://mcomas.net/publication/rramos2018/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/rramos2018/</guid>
+      <guid>http://mcomas.net/publication/rramos2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediabetes is associated with glomerular hyperfiltration in a European Mediterranean cohort study</title>
-      <link>/publication/arodriguez2018/</link>
+      <link>http://mcomas.net/publication/arodriguez2018/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/arodriguez2018/</guid>
+      <guid>http://mcomas.net/publication/arodriguez2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association of classic cardiovascular risk factors and lifestyles with the cardio-ankle vascular index in a general Mediterranean population</title>
-      <link>/publication/melosua2018/</link>
+      <link>http://mcomas.net/publication/melosua2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/melosua2018/</guid>
+      <guid>http://mcomas.net/publication/melosua2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palaeoenvironmental reconstructions through compositional data analysis</title>
-      <link>/publication/vdonato2018/</link>
+      <link>http://mcomas.net/publication/vdonato2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/vdonato2018/</guid>
+      <guid>http://mcomas.net/publication/vdonato2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effectiveness of statins as primary prevention in people with different cardiovascular risk: a population-based cohort study</title>
-      <link>/publication/mmgarcia2018/</link>
+      <link>http://mcomas.net/publication/mmgarcia2018/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mmgarcia2018/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association between chronic immune-mediated inflammatory diseases and cardiovascular risk</title>
-      <link>/publication/jmbaena2018/</link>
+      <link>http://mcomas.net/publication/jmbaena2018/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/jmbaena2018/</guid>
+      <guid>http://mcomas.net/publication/jmbaena2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Merging the components of a finite mixture using posterior probabilities</title>
-      <link>/publication/mcomas2017/</link>
+      <link>http://mcomas.net/publication/mcomas2017/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/mcomas2017/</guid>
+      <guid>http://mcomas.net/publication/mcomas2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015</title>
-      <link>/publication/lalves2017/</link>
+      <link>http://mcomas.net/publication/lalves2017/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/lalves2017/</guid>
+      <guid>http://mcomas.net/publication/lalves2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differences in cardio-ankle vascular index in a general Mediterranean population depending on the presence or absence of metabolic cardiovascular risk factors</title>
-      <link>/publication/rmarti2017/</link>
+      <link>http://mcomas.net/publication/rmarti2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rmarti2017/</guid>
+      <guid>http://mcomas.net/publication/rmarti2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Familial hypercholesterolemia in a european mediterranean population. Prevalence and clinical data from 2.5 million primary care patients</title>
-      <link>/publication/azamora2017a/</link>
+      <link>http://mcomas.net/publication/azamora2017a/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/azamora2017a/</guid>
+      <guid>http://mcomas.net/publication/azamora2017a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of extreme temperatures on cardiovascular emergency hospitalizations in a Mediterranean region: a self-controlled case series study</title>
-      <link>/publication/aponjoan2017/</link>
+      <link>http://mcomas.net/publication/aponjoan2017/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/aponjoan2017/</guid>
+      <guid>http://mcomas.net/publication/aponjoan2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Log-ratio methods in mixture models for compositional data sets</title>
-      <link>/publication/mcomas2016/</link>
+      <link>http://mcomas.net/publication/mcomas2016/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/mcomas2016/</guid>
+      <guid>http://mcomas.net/publication/mcomas2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of renal function in cardiovascular risk assessment: A retrospective cohort study in a population with low incidence of coronary heart disease</title>
-      <link>/publication/mmgarcia2016b/</link>
+      <link>http://mcomas.net/publication/mmgarcia2016b/</link>
       <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/mmgarcia2016b/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2016b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diabetes and new-onset atrial fibrillation in a hypertensive population</title>
-      <link>/publication/lalves2016/</link>
+      <link>http://mcomas.net/publication/lalves2016/</link>
       <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/lalves2016/</guid>
+      <guid>http://mcomas.net/publication/lalves2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statins for prevention of cardiovascular events in a low-risk population with low ankle brachial index</title>
-      <link>/publication/rramos2016/</link>
+      <link>http://mcomas.net/publication/rramos2016/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/rramos2016/</guid>
+      <guid>http://mcomas.net/publication/rramos2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patterns of statin use and cholesterol goal attainment in a high risk cardiovascular population: a retrospective study of primary care electronic medical records</title>
-      <link>/publication/mmgarcia2016a/</link>
+      <link>http://mcomas.net/publication/mmgarcia2016a/</link>
       <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/mmgarcia2016a/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2016a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevalence of lower extremity peripheral arterial disease in individuals with chronic immune mediated inflammatory disorders</title>
-      <link>/publication/faguero2015/</link>
+      <link>http://mcomas.net/publication/faguero2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/faguero2015/</guid>
+      <guid>http://mcomas.net/publication/faguero2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incident atrial fibrillation hazard in hypertensive population: A risk function from and for clinical practice</title>
-      <link>/publication/lalves2015/</link>
+      <link>http://mcomas.net/publication/lalves2015/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/lalves2015/</guid>
+      <guid>http://mcomas.net/publication/lalves2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking of primary care records to census data to study the association between socioeconomic status and cancer incidence in Southern Europe: A nation-Wide ecological study</title>
-      <link>/publication/mmgarcia2015/</link>
+      <link>http://mcomas.net/publication/mmgarcia2015/</link>
       <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/mmgarcia2015/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derivation and validation of BOREAS, a risk score identifying candidates to develop cold-induced hypertension</title>
-      <link>/publication/aponjoan2014/</link>
+      <link>http://mcomas.net/publication/aponjoan2014/</link>
       <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/aponjoan2014/</guid>
+      <guid>http://mcomas.net/publication/aponjoan2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating the risk of peripheral artery disease using different population strategies</title>
-      <link>/publication/key2013/</link>
+      <link>http://mcomas.net/publication/key2013/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/key2013/</guid>
+      <guid>http://mcomas.net/publication/key2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vertex fusion under distance constraints</title>
-      <link>/publication/mcomas2009/</link>
+      <link>http://mcomas.net/publication/mcomas2009/</link>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/mcomas2009/</guid>
+      <guid>http://mcomas.net/publication/mcomas2009/</guid>
       <description></description>
     </item>
     

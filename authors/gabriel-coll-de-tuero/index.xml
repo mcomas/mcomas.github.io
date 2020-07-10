@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriel Coll de Tuero | mcomas.net</title>
-    <link>/authors/gabriel-coll-de-tuero/</link>
-      <atom:link href="/authors/gabriel-coll-de-tuero/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/gabriel-coll-de-tuero/</link>
+      <atom:link href="http://mcomas.net/authors/gabriel-coll-de-tuero/index.xml" rel="self" type="application/rss+xml" />
     <description>Gabriel Coll de Tuero</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Gabriel Coll de Tuero</title>
-      <link>/authors/gabriel-coll-de-tuero/</link>
+      <link>http://mcomas.net/authors/gabriel-coll-de-tuero/</link>
     </image>
     
     <item>
       <title>Prognostic value of the estimated glomerular filtration rate decline in hypertensive patients without chronic kidney disease</title>
-      <link>/publication/gctuero2019/</link>
+      <link>http://mcomas.net/publication/gctuero2019/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gctuero2019/</guid>
+      <guid>http://mcomas.net/publication/gctuero2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediabetes is associated with glomerular hyperfiltration in a European Mediterranean cohort study</title>
-      <link>/publication/arodriguez2018/</link>
+      <link>http://mcomas.net/publication/arodriguez2018/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/arodriguez2018/</guid>
+      <guid>http://mcomas.net/publication/arodriguez2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derivation and validation of BOREAS, a risk score identifying candidates to develop cold-induced hypertension</title>
-      <link>/publication/aponjoan2014/</link>
+      <link>http://mcomas.net/publication/aponjoan2014/</link>
       <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/aponjoan2014/</guid>
+      <guid>http://mcomas.net/publication/aponjoan2014/</guid>
       <description></description>
     </item>
     

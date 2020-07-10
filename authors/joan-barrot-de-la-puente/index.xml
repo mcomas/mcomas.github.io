@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joan Barrot-de-la-Puente | mcomas.net</title>
-    <link>/authors/joan-barrot-de-la-puente/</link>
-      <atom:link href="/authors/joan-barrot-de-la-puente/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/joan-barrot-de-la-puente/</link>
+      <atom:link href="http://mcomas.net/authors/joan-barrot-de-la-puente/index.xml" rel="self" type="application/rss+xml" />
     <description>Joan Barrot-de-la-Puente</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Joan Barrot-de-la-Puente</title>
-      <link>/authors/joan-barrot-de-la-puente/</link>
+      <link>http://mcomas.net/authors/joan-barrot-de-la-puente/</link>
     </image>
     
     <item>
       <title>Prognostic value of the estimated glomerular filtration rate decline in hypertensive patients without chronic kidney disease</title>
-      <link>/publication/gctuero2019/</link>
+      <link>http://mcomas.net/publication/gctuero2019/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gctuero2019/</guid>
+      <guid>http://mcomas.net/publication/gctuero2019/</guid>
       <description></description>
     </item>
     

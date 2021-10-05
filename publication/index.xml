@@ -5,12 +5,20 @@
     <link>http://mcomas.net/publication/</link>
       <atom:link href="http://mcomas.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>http://mcomas.net/publication/</link>
     </image>
+    
+    <item>
+      <title>Machine learning analyses disclose that blood hemoglobin substantially modulates the impact of gender, morbid obesity and hyperglycemia on mortality in patients with COVID-19. A multicenter study in Italy and Spain</title>
+      <link>http://mcomas.net/publication/jmayneris2021/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/jmayneris2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Extreme diurnal temperature range and cardiovascular emergency hospitalisations in a Mediterranean region</title>

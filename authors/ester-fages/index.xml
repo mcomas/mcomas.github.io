@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/ester-fages/</link>
       <atom:link href="http://mcomas.net/authors/ester-fages/index.xml" rel="self" type="application/rss+xml" />
     <description>Ester Fages</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ester Fages</title>
       <link>http://mcomas.net/authors/ester-fages/</link>
     </image>
+    
+    <item>
+      <title>Machine learning analyses disclose that blood hemoglobin substantially modulates the impact of gender, morbid obesity and hyperglycemia on mortality in patients with COVID-19. A multicenter study in Italy and Spain</title>
+      <link>http://mcomas.net/publication/jmayneris2021/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/jmayneris2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is it time to use real world data from primary care in Alzheimer’s disease?</title>

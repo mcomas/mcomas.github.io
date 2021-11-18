@@ -5,7 +5,7 @@
     <link>http://mcomas.net/authors/</link>
       <atom:link href="http://mcomas.net/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,18 +13,258 @@
     </image>
     
     <item>
-      <title>Anna de Hollanda</title>
-      <link>http://mcomas.net/authors/anna-de-hollanda/</link>
-      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/anna-de-hollanda/</guid>
+      <title>Abelardo Hurtado-Ganoza</title>
+      <link>http://mcomas.net/authors/abelardo-hurtado-ganoza/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/abelardo-hurtado-ganoza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana Pérez-Jaén</title>
+      <link>http://mcomas.net/authors/ana-p%C3%A9rez-ja%C3%A9n/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/ana-p%C3%A9rez-ja%C3%A9n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Guell-Cargol</title>
+      <link>http://mcomas.net/authors/anna-guell-cargol/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/anna-guell-cargol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Ponjoan</title>
+      <link>http://mcomas.net/authors/anna-ponjoan/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/anna-ponjoan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antoni Castro Guardiola</title>
       <link>http://mcomas.net/authors/antoni-castro-guardiola/</link>
-      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://mcomas.net/authors/antoni-castro-guardiola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carol Lorencio</title>
+      <link>http://mcomas.net/authors/carol-lorencio/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/carol-lorencio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delfi Faixedes-Brunsoms</title>
+      <link>http://mcomas.net/authors/delfi-faixedes-brunsoms/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/delfi-faixedes-brunsoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elisabet Balló</title>
+      <link>http://mcomas.net/authors/elisabet-ball%C3%B3/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/elisabet-ball%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ester Fages-Masmiquel</title>
+      <link>http://mcomas.net/authors/ester-fages-masmiquel/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/ester-fages-masmiquel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esteve Avellana-Revuelta</title>
+      <link>http://mcomas.net/authors/esteve-avellana-revuelta/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/esteve-avellana-revuelta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ferran Santaularia-Font</title>
+      <link>http://mcomas.net/authors/ferran-santaularia-font/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/ferran-santaularia-font/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesc Xavier Queralt-Moles</title>
+      <link>http://mcomas.net/authors/francesc-xavier-queralt-moles/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/francesc-xavier-queralt-moles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gladis Sabater-Talaverano</title>
+      <link>http://mcomas.net/authors/gladis-sabater-talaverano/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/gladis-sabater-talaverano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Blanch</title>
+      <link>http://mcomas.net/authors/jordi-blanch/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/jordi-blanch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Miquel Morales-Pedrosa</title>
+      <link>http://mcomas.net/authors/josep-miquel-morales-pedrosa/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/josep-miquel-morales-pedrosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep-Maria Sirvent</title>
+      <link>http://mcomas.net/authors/josep-maria-sirvent/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/josep-maria-sirvent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Carlos Calderón-López</title>
+      <link>http://mcomas.net/authors/juan-carlos-calder%C3%B3n-l%C3%B3pez/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/juan-carlos-calder%C3%B3n-l%C3%B3pez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lia Alves-i-Cabratosa</title>
+      <link>http://mcomas.net/authors/lia-alves-i-cabratosa/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/lia-alves-i-cabratosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Bonin-Vilaplana</title>
+      <link>http://mcomas.net/authors/marc-bonin-vilaplana/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/marc-bonin-vilaplana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Comas-Cufí</title>
+      <link>http://mcomas.net/authors/marc-comas-cuf%C3%AD/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/marc-comas-cuf%C3%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Angels Gispert-Ametller</title>
+      <link>http://mcomas.net/authors/maria-angels-gispert-ametller/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/maria-angels-gispert-ametller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Rexach-Fumaña</title>
+      <link>http://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Rodriguez-Batista</title>
+      <link>http://mcomas.net/authors/maria-rodriguez-batista/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/maria-rodriguez-batista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patricia Ortiz-Ballujera</title>
+      <link>http://mcomas.net/authors/patricia-ortiz-ballujera/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/patricia-ortiz-ballujera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafel Ramos</title>
+      <link>http://mcomas.net/authors/rafel-ramos/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/rafel-ramos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramon Orriols</title>
+      <link>http://mcomas.net/authors/ramon-orriols/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/ramon-orriols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruth Martí-Lluch</title>
+      <link>http://mcomas.net/authors/ruth-mart%C3%AD-lluch/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/ruth-mart%C3%AD-lluch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sara Rodriguez-Requejo</title>
+      <link>http://mcomas.net/authors/sara-rodriguez-requejo/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/sara-rodriguez-requejo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lidia Guzmán</title>
+      <link>http://mcomas.net/authors/lidia-guzm%C3%A1n/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/lidia-guzm%C3%A1n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lourdes Camós</title>
+      <link>http://mcomas.net/authors/lourdes-cam%C3%B3s/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/lourdes-cam%C3%B3s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria del Mar García-Gil</title>
+      <link>http://mcomas.net/authors/maria-del-mar-garc%C3%ADa-gil/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/maria-del-mar-garc%C3%ADa-gil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna de Hollanda</title>
+      <link>http://mcomas.net/authors/anna-de-hollanda/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/anna-de-hollanda/</guid>
       <description></description>
     </item>
     
@@ -49,14 +289,6 @@
       <link>http://mcomas.net/authors/carlota-gudiol/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://mcomas.net/authors/carlota-gudiol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ester Fages-Masmiquel</title>
-      <link>http://mcomas.net/authors/ester-fages-masmiquel/</link>
-      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/ester-fages-masmiquel/</guid>
       <description></description>
     </item>
     
@@ -125,14 +357,6 @@
     </item>
     
     <item>
-      <title>Marc Comas-Cufí</title>
-      <link>http://mcomas.net/authors/marc-comas-cuf%C3%AD/</link>
-      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/marc-comas-cuf%C3%AD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marga Giménez</title>
       <link>http://mcomas.net/authors/marga-gim%C3%A9nez/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
@@ -189,26 +413,10 @@
     </item>
     
     <item>
-      <title>Rafel Ramos</title>
-      <link>http://mcomas.net/authors/rafel-ramos/</link>
-      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/rafel-ramos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Uberto Pagotto</title>
       <link>http://mcomas.net/authors/uberto-pagotto/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://mcomas.net/authors/uberto-pagotto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Ponjoan</title>
-      <link>http://mcomas.net/authors/anna-ponjoan/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/anna-ponjoan/</guid>
       <description></description>
     </item>
     
@@ -225,38 +433,6 @@
       <link>http://mcomas.net/authors/irene-petersen/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       <guid>http://mcomas.net/authors/irene-petersen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jordi Blanch</title>
-      <link>http://mcomas.net/authors/jordi-blanch/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/jordi-blanch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lia Alves-i-Cabratosa</title>
-      <link>http://mcomas.net/authors/lia-alves-i-cabratosa/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/lia-alves-i-cabratosa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria del Mar García-Gil</title>
-      <link>http://mcomas.net/authors/maria-del-mar-garc%C3%ADa-gil/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/maria-del-mar-garc%C3%ADa-gil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ruth Martí-Lluch</title>
-      <link>http://mcomas.net/authors/ruth-mart%C3%AD-lluch/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/ruth-mart%C3%AD-lluch/</guid>
       <description></description>
     </item>
     
@@ -417,22 +593,6 @@
       <link>http://mcomas.net/authors/sergio-moral/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       <guid>http://mcomas.net/authors/sergio-moral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lidia Guzmán</title>
-      <link>http://mcomas.net/authors/lidia-guzm%C3%A1n/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/lidia-guzm%C3%A1n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lourdes Camós</title>
-      <link>http://mcomas.net/authors/lourdes-cam%C3%B3s/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/lourdes-cam%C3%B3s/</guid>
       <description></description>
     </item>
     
@@ -617,14 +777,6 @@
     </item>
     
     <item>
-      <title>Elisabet Balló</title>
-      <link>http://mcomas.net/authors/elisabet-ball%C3%B3/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/elisabet-ball%C3%B3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Luís Garcia</title>
       <link>http://mcomas.net/authors/lu%C3%ADs-garcia/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
@@ -781,158 +933,6 @@
       <link>http://mcomas.net/authors/maria-serna/</link>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
       <guid>http://mcomas.net/authors/maria-serna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abelardo Hurtado-Ganoza</title>
-      <link>http://mcomas.net/authors/abelardo-hurtado-ganoza/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/abelardo-hurtado-ganoza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ana Pérez-Jaén</title>
-      <link>http://mcomas.net/authors/ana-p%C3%A9rez-ja%C3%A9n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/ana-p%C3%A9rez-ja%C3%A9n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Guell-Cargol</title>
-      <link>http://mcomas.net/authors/anna-guell-cargol/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/anna-guell-cargol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carol Lorencio</title>
-      <link>http://mcomas.net/authors/carol-lorencio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/carol-lorencio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Delfi Faixedes-Brunsoms</title>
-      <link>http://mcomas.net/authors/delfi-faixedes-brunsoms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/delfi-faixedes-brunsoms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Esteve Avellana-Revuelta</title>
-      <link>http://mcomas.net/authors/esteve-avellana-revuelta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/esteve-avellana-revuelta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ferran Santaularia-Font</title>
-      <link>http://mcomas.net/authors/ferran-santaularia-font/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/ferran-santaularia-font/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francesc Xavier Queralt-Moles</title>
-      <link>http://mcomas.net/authors/francesc-xavier-queralt-moles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/francesc-xavier-queralt-moles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gladis Sabater-Talaverano</title>
-      <link>http://mcomas.net/authors/gladis-sabater-talaverano/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/gladis-sabater-talaverano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Josep Miquel Morales-Pedrosa</title>
-      <link>http://mcomas.net/authors/josep-miquel-morales-pedrosa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/josep-miquel-morales-pedrosa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Josep-Maria Sirvent</title>
-      <link>http://mcomas.net/authors/josep-maria-sirvent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/josep-maria-sirvent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan Carlos Calderón-López</title>
-      <link>http://mcomas.net/authors/juan-carlos-calder%C3%B3n-l%C3%B3pez/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/juan-carlos-calder%C3%B3n-l%C3%B3pez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marc Bonin-Vilaplana</title>
-      <link>http://mcomas.net/authors/marc-bonin-vilaplana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/marc-bonin-vilaplana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria Angels Gispert-Ametller</title>
-      <link>http://mcomas.net/authors/maria-angels-gispert-ametller/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/maria-angels-gispert-ametller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria Rexach-Fumaña</title>
-      <link>http://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria Rodriguez-Batista</title>
-      <link>http://mcomas.net/authors/maria-rodriguez-batista/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/maria-rodriguez-batista/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patricia Ortiz-Ballujera</title>
-      <link>http://mcomas.net/authors/patricia-ortiz-ballujera/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/patricia-ortiz-ballujera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ramon Orriols</title>
-      <link>http://mcomas.net/authors/ramon-orriols/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/ramon-orriols/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sara Rodriguez-Requejo</title>
-      <link>http://mcomas.net/authors/sara-rodriguez-requejo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/authors/sara-rodriguez-requejo/</guid>
       <description></description>
     </item>
     

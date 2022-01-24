@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ester Fages | mcomas.net</title>
+    <link>http://mcomas.net/authors/ester-fages/</link>
+      <atom:link href="http://mcomas.net/authors/ester-fages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ester Fages</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ester Fages</title>
+      <link>http://mcomas.net/authors/ester-fages/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning analyses disclose that blood hemoglobin substantially modulates the impact of gender, morbid obesity and hyperglycemia on mortality in patients with COVID-19. A multicenter study in Italy and Spain</title>
+      <link>http://mcomas.net/publication/jmayneris2021/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/jmayneris2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is it time to use real world data from primary care in Alzheimer’s disease?</title>
+      <link>http://mcomas.net/publication/aponjoan2020a/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/aponjoan2020a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How well can electronic health records from primary care identify Alzheimer’s disease cases?</title>
+      <link>http://mcomas.net/publication/ponjoan2019b/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/ponjoan2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology of dementia: prevalence and incidence estimates using validated electronic health records from primary care</title>
+      <link>http://mcomas.net/publication/ponjoan2019a/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/ponjoan2019a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

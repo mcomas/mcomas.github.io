@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Josep Antoni Martín-Fernández | mcomas.net</title>
-    <link>https://mcomas.net/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/</link>
-      <atom:link href="https://mcomas.net/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/</link>
+      <atom:link href="http://mcomas.net/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/index.xml" rel="self" type="application/rss+xml" />
     <description>Josep Antoni Martín-Fernández</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Josep Antoni Martín-Fernández</title>
-      <link>https://mcomas.net/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/</link>
+      <link>http://mcomas.net/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/</link>
     </image>
     
     <item>
       <title>Modelling count data using the logratio-normal-multinomial distribution</title>
-      <link>https://mcomas.net/publication/mcomas2020/</link>
+      <link>http://mcomas.net/publication/mcomas2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcomas2020/</guid>
+      <guid>http://mcomas.net/publication/mcomas2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palaeoenvironmental reconstructions through compositional data analysis</title>
-      <link>https://mcomas.net/publication/vdonato2018/</link>
+      <link>http://mcomas.net/publication/vdonato2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/vdonato2018/</guid>
+      <guid>http://mcomas.net/publication/vdonato2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Merging the components of a finite mixture using posterior probabilities</title>
-      <link>https://mcomas.net/publication/mcomas2017/</link>
+      <link>http://mcomas.net/publication/mcomas2017/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcomas2017/</guid>
+      <guid>http://mcomas.net/publication/mcomas2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Log-ratio methods in mixture models for compositional data sets</title>
-      <link>https://mcomas.net/publication/mcomas2016/</link>
+      <link>http://mcomas.net/publication/mcomas2016/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcomas2016/</guid>
+      <guid>http://mcomas.net/publication/mcomas2016/</guid>
       <description></description>
     </item>
     

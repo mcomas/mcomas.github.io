@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leonardo Méndez-Boo | mcomas.net</title>
-    <link>https://mcomas.net/authors/leonardo-m%C3%A9ndez-boo/</link>
-      <atom:link href="https://mcomas.net/authors/leonardo-m%C3%A9ndez-boo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/leonardo-m%C3%A9ndez-boo/</link>
+      <atom:link href="http://mcomas.net/authors/leonardo-m%C3%A9ndez-boo/index.xml" rel="self" type="application/rss+xml" />
     <description>Leonardo Méndez-Boo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Leonardo Méndez-Boo</title>
-      <link>https://mcomas.net/authors/leonardo-m%C3%A9ndez-boo/</link>
+      <link>http://mcomas.net/authors/leonardo-m%C3%A9ndez-boo/</link>
     </image>
     
     <item>
       <title>Linking of primary care records to census data to study the association between socioeconomic status and cancer incidence in Southern Europe: A nation-Wide ecological study</title>
-      <link>https://mcomas.net/publication/mmgarcia2015/</link>
+      <link>http://mcomas.net/publication/mmgarcia2015/</link>
       <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mmgarcia2015/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2015/</guid>
       <description></description>
     </item>
     

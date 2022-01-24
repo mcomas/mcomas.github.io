@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Lladó | mcomas.net</title>
-    <link>https://mcomas.net/authors/laura-llad%C3%B3/</link>
-      <atom:link href="https://mcomas.net/authors/laura-llad%C3%B3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/laura-llad%C3%B3/</link>
+      <atom:link href="http://mcomas.net/authors/laura-llad%C3%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Lladó</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Laura Lladó</title>
-      <link>https://mcomas.net/authors/laura-llad%C3%B3/</link>
+      <link>http://mcomas.net/authors/laura-llad%C3%B3/</link>
     </image>
     
     <item>
       <title>Laparoscopic Liver Resection for Hepatocellular Carcinoma in Child-Pugh A patients with and without Portal Hypertension: A Multicentre Study</title>
-      <link>https://mcomas.net/publication/mcasellas2020/</link>
+      <link>http://mcomas.net/publication/mcasellas2020/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcasellas2020/</guid>
+      <guid>http://mcomas.net/publication/mcasellas2020/</guid>
       <description></description>
     </item>
     

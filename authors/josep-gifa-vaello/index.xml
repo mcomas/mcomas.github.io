@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Josep Gifa-Vaello | mcomas.net</title>
-    <link>https://mcomas.net/authors/josep-gifa-vaello/</link>
-      <atom:link href="https://mcomas.net/authors/josep-gifa-vaello/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/josep-gifa-vaello/</link>
+      <atom:link href="http://mcomas.net/authors/josep-gifa-vaello/index.xml" rel="self" type="application/rss+xml" />
     <description>Josep Gifa-Vaello</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Josep Gifa-Vaello</title>
-      <link>https://mcomas.net/authors/josep-gifa-vaello/</link>
+      <link>http://mcomas.net/authors/josep-gifa-vaello/</link>
     </image>
     
     <item>
       <title>Prognostic value of the estimated glomerular filtration rate decline in hypertensive patients without chronic kidney disease</title>
-      <link>https://mcomas.net/publication/gctuero2019/</link>
+      <link>http://mcomas.net/publication/gctuero2019/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/gctuero2019/</guid>
+      <guid>http://mcomas.net/publication/gctuero2019/</guid>
       <description></description>
     </item>
     

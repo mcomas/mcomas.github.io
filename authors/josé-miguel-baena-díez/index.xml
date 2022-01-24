@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>José Miguel Baena-Díez | mcomas.net</title>
-    <link>https://mcomas.net/authors/jos%C3%A9-miguel-baena-d%C3%ADez/</link>
-      <atom:link href="https://mcomas.net/authors/jos%C3%A9-miguel-baena-d%C3%ADez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/jos%C3%A9-miguel-baena-d%C3%ADez/</link>
+      <atom:link href="http://mcomas.net/authors/jos%C3%A9-miguel-baena-d%C3%ADez/index.xml" rel="self" type="application/rss+xml" />
     <description>José Miguel Baena-Díez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>José Miguel Baena-Díez</title>
-      <link>https://mcomas.net/authors/jos%C3%A9-miguel-baena-d%C3%ADez/</link>
+      <link>http://mcomas.net/authors/jos%C3%A9-miguel-baena-d%C3%ADez/</link>
     </image>
     
     <item>
       <title>Effectiveness of statins as primary prevention in people with gout: a population-based cohort study</title>
-      <link>https://mcomas.net/publication/mgarcia2019/</link>
+      <link>http://mcomas.net/publication/mgarcia2019/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mgarcia2019/</guid>
+      <guid>http://mcomas.net/publication/mgarcia2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association between chronic immune-mediated inflammatory diseases and cardiovascular risk</title>
-      <link>https://mcomas.net/publication/jmbaena2018/</link>
+      <link>http://mcomas.net/publication/jmbaena2018/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/jmbaena2018/</guid>
+      <guid>http://mcomas.net/publication/jmbaena2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevalence of lower extremity peripheral arterial disease in individuals with chronic immune mediated inflammatory disorders</title>
-      <link>https://mcomas.net/publication/faguero2015/</link>
+      <link>http://mcomas.net/publication/faguero2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/faguero2015/</guid>
+      <guid>http://mcomas.net/publication/faguero2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating the risk of peripheral artery disease using different population strategies</title>
-      <link>https://mcomas.net/publication/key2013/</link>
+      <link>http://mcomas.net/publication/key2013/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/key2013/</guid>
+      <guid>http://mcomas.net/publication/key2013/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Rexach-Fumaña | mcomas.net</title>
-    <link>https://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</link>
-      <atom:link href="https://mcomas.net/authors/maria-rexach-fuma%C3%B1a/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</link>
+      <atom:link href="http://mcomas.net/authors/maria-rexach-fuma%C3%B1a/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Rexach-Fumaña</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Maria Rexach-Fumaña</title>
-      <link>https://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</link>
+      <link>http://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</link>
     </image>
     
     <item>
       <title>Persons with SARS-CoV-2 during the First and Second Waves in Catalonia (Spain): A Retrospective Observational Study Using Daily Updated Data</title>
-      <link>https://mcomas.net/publication/lalves2021b/</link>
+      <link>http://mcomas.net/publication/lalves2021b/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lalves2021b/</guid>
+      <guid>http://mcomas.net/publication/lalves2021b/</guid>
       <description></description>
     </item>
     

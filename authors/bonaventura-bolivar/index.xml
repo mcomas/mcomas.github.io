@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonaventura Bolivar | mcomas.net</title>
-    <link>https://mcomas.net/authors/bonaventura-bolivar/</link>
-      <atom:link href="https://mcomas.net/authors/bonaventura-bolivar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/bonaventura-bolivar/</link>
+      <atom:link href="http://mcomas.net/authors/bonaventura-bolivar/index.xml" rel="self" type="application/rss+xml" />
     <description>Bonaventura Bolivar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Feb 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Bonaventura Bolivar</title>
-      <link>https://mcomas.net/authors/bonaventura-bolivar/</link>
+      <link>http://mcomas.net/authors/bonaventura-bolivar/</link>
     </image>
     
     <item>
       <title>Statins for prevention of cardiovascular events in a low-risk population with low ankle brachial index</title>
-      <link>https://mcomas.net/publication/rramos2016/</link>
+      <link>http://mcomas.net/publication/rramos2016/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/rramos2016/</guid>
+      <guid>http://mcomas.net/publication/rramos2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patterns of statin use and cholesterol goal attainment in a high risk cardiovascular population: a retrospective study of primary care electronic medical records</title>
-      <link>https://mcomas.net/publication/mmgarcia2016a/</link>
+      <link>http://mcomas.net/publication/mmgarcia2016a/</link>
       <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mmgarcia2016a/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2016a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking of primary care records to census data to study the association between socioeconomic status and cancer incidence in Southern Europe: A nation-Wide ecological study</title>
-      <link>https://mcomas.net/publication/mmgarcia2015/</link>
+      <link>http://mcomas.net/publication/mmgarcia2015/</link>
       <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mmgarcia2015/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2015/</guid>
       <description></description>
     </item>
     

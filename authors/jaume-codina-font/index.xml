@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaume Codina-Font | mcomas.net</title>
-    <link>https://mcomas.net/authors/jaume-codina-font/</link>
-      <atom:link href="https://mcomas.net/authors/jaume-codina-font/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/jaume-codina-font/</link>
+      <atom:link href="http://mcomas.net/authors/jaume-codina-font/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaume Codina-Font</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jaume Codina-Font</title>
-      <link>https://mcomas.net/authors/jaume-codina-font/</link>
+      <link>http://mcomas.net/authors/jaume-codina-font/</link>
     </image>
     
     <item>
       <title>Laparoscopic Liver Resection for Hepatocellular Carcinoma in Child-Pugh A patients with and without Portal Hypertension: A Multicentre Study</title>
-      <link>https://mcomas.net/publication/mcasellas2020/</link>
+      <link>http://mcomas.net/publication/mcasellas2020/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcasellas2020/</guid>
+      <guid>http://mcomas.net/publication/mcasellas2020/</guid>
       <description></description>
     </item>
     

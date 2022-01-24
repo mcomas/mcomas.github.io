@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mcomas.net</title>
-    <link>https://mcomas.net/</link>
-      <atom:link href="https://mcomas.net/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/</link>
+      <atom:link href="http://mcomas.net/index.xml" rel="self" type="application/rss+xml" />
     <description>mcomas.net</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>mcomas.net</title>
-      <link>https://mcomas.net/</link>
+      <link>http://mcomas.net/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://mcomas.net/courses/example/example1/</link>
+      <link>http://mcomas.net/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://mcomas.net/courses/example/example1/</guid>
+      <guid>http://mcomas.net/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://mcomas.net/courses/example/example2/</link>
+      <link>http://mcomas.net/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://mcomas.net/courses/example/example2/</guid>
+      <guid>http://mcomas.net/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Academic</title>
-      <link>https://mcomas.net/home_deactivated/hero/</link>
+      <link>http://mcomas.net/home_deactivated/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/home_deactivated/hero/</guid>
+      <guid>http://mcomas.net/home_deactivated/hero/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Build &lt;strong&gt;Anything&lt;/strong&gt; with Widgets&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;text-shadow: none;&#34;&gt;&lt;a class=&#34;github-button&#34; href=&#34;https://github.com/gcushen/hugo-academic&#34; data-icon=&#34;octicon-star&#34; data-size=&#34;large&#34; data-show-count=&#34;true&#34; aria-label=&#34;Star this on GitHub&#34;&gt;Star&lt;/a&gt;&lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;&lt;/span&gt;&lt;/p&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Demos</title>
-      <link>https://mcomas.net/home_deactivated/demo/</link>
+      <link>http://mcomas.net/home_deactivated/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/home_deactivated/demo/</guid>
+      <guid>http://mcomas.net/home_deactivated/demo/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;personal demo&lt;/strong&gt; of Academic. Other demos available include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -90,161 +90,161 @@
     
     <item>
       <title>Skills</title>
-      <link>https://mcomas.net/home_deactivated/skills/</link>
+      <link>http://mcomas.net/home_deactivated/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/home_deactivated/skills/</guid>
+      <guid>http://mcomas.net/home_deactivated/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://mcomas.net/home_deactivated/experience/</link>
+      <link>http://mcomas.net/home_deactivated/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/home_deactivated/experience/</guid>
+      <guid>http://mcomas.net/home_deactivated/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://mcomas.net/home_deactivated/accomplishments/</link>
+      <link>http://mcomas.net/home_deactivated/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/home_deactivated/accomplishments/</guid>
+      <guid>http://mcomas.net/home_deactivated/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://mcomas.net/home_deactivated/projects/</link>
+      <link>http://mcomas.net/home_deactivated/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/home_deactivated/projects/</guid>
+      <guid>http://mcomas.net/home_deactivated/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meet the Team</title>
-      <link>https://mcomas.net/home_deactivated/people/</link>
+      <link>http://mcomas.net/home_deactivated/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/home_deactivated/people/</guid>
+      <guid>http://mcomas.net/home_deactivated/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://mcomas.net/home_deactivated/featured/</link>
+      <link>http://mcomas.net/home_deactivated/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/home_deactivated/featured/</guid>
+      <guid>http://mcomas.net/home_deactivated/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popular Topics</title>
-      <link>https://mcomas.net/home_deactivated/tags/</link>
+      <link>http://mcomas.net/home_deactivated/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/home_deactivated/tags/</guid>
+      <guid>http://mcomas.net/home_deactivated/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Persons with SARS-CoV-2 during the First and Second Waves in Catalonia (Spain): A Retrospective Observational Study Using Daily Updated Data</title>
-      <link>https://mcomas.net/publication/lalves2021b/</link>
+      <link>http://mcomas.net/publication/lalves2021b/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lalves2021b/</guid>
+      <guid>http://mcomas.net/publication/lalves2021b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ankle-brachial index and the risk of hemorrhagic stroke</title>
-      <link>https://mcomas.net/publication/lalves2021/</link>
+      <link>http://mcomas.net/publication/lalves2021/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lalves2021/</guid>
+      <guid>http://mcomas.net/publication/lalves2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning analyses disclose that blood hemoglobin substantially modulates the impact of gender, morbid obesity and hyperglycemia on mortality in patients with COVID-19. A multicenter study in Italy and Spain</title>
-      <link>https://mcomas.net/publication/jmayneris2021/</link>
+      <link>http://mcomas.net/publication/jmayneris2021/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/jmayneris2021/</guid>
+      <guid>http://mcomas.net/publication/jmayneris2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extreme diurnal temperature range and cardiovascular emergency hospitalisations in a Mediterranean region</title>
-      <link>https://mcomas.net/publication/aponjoan2020b/</link>
+      <link>http://mcomas.net/publication/aponjoan2020b/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/aponjoan2020b/</guid>
+      <guid>http://mcomas.net/publication/aponjoan2020b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laparoscopic Liver Resection for Hepatocellular Carcinoma in Child-Pugh A patients with and without Portal Hypertension: A Multicentre Study</title>
-      <link>https://mcomas.net/publication/mcasellas2020/</link>
+      <link>http://mcomas.net/publication/mcasellas2020/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcasellas2020/</guid>
+      <guid>http://mcomas.net/publication/mcasellas2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is it time to use real world data from primary care in Alzheimer’s disease?</title>
-      <link>https://mcomas.net/publication/aponjoan2020a/</link>
+      <link>http://mcomas.net/publication/aponjoan2020a/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/aponjoan2020a/</guid>
+      <guid>http://mcomas.net/publication/aponjoan2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling count data using the logratio-normal-multinomial distribution</title>
-      <link>https://mcomas.net/publication/mcomas2020/</link>
+      <link>http://mcomas.net/publication/mcomas2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcomas2020/</guid>
+      <guid>http://mcomas.net/publication/mcomas2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Factores asociados a retrasos de tiempo desde el electrocardiograma diagnóstico hasta el paso de guía en el infarto agudo de miocardio con elevación del segmento ST transferido para angioplastia primaria</title>
-      <link>https://mcomas.net/publication/jaboal2020/</link>
+      <link>http://mcomas.net/publication/jaboal2020/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/jaboal2020/</guid>
+      <guid>http://mcomas.net/publication/jaboal2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Levels of ankle-brachial index and the risk of diabetes mellitus complications</title>
-      <link>https://mcomas.net/publication/lalves2020/</link>
+      <link>http://mcomas.net/publication/lalves2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lalves2020/</guid>
+      <guid>http://mcomas.net/publication/lalves2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derivation and validation of SIDIAP-FHP score: A new risk model predicting cardiovascular disease in Familial Hypercholesterolemia</title>
-      <link>https://mcomas.net/publication/rramos2019/</link>
+      <link>http://mcomas.net/publication/rramos2019/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/rramos2019/</guid>
+      <guid>http://mcomas.net/publication/rramos2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IFCS 2019</title>
-      <link>https://mcomas.net/talk/greece_1/</link>
+      <link>http://mcomas.net/talk/greece_1/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/greece_1/</guid>
+      <guid>http://mcomas.net/talk/greece_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incidence of cardiovascular disease in patients with familial hypercholesterolemia phenotype: analysis of 5 years follow-up of real-world data from more than 1.5 million patients</title>
-      <link>https://mcomas.net/publication/lmasana2019/</link>
+      <link>http://mcomas.net/publication/lmasana2019/</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lmasana2019/</guid>
+      <guid>http://mcomas.net/publication/lmasana2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://mcomas.net/post/writing-technical-content/</link>
+      <link>http://mcomas.net/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/post/writing-technical-content/</guid>
+      <guid>http://mcomas.net/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -476,73 +476,73 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Three-year events and mortality in cardiovascular disease patients without lipid-lowering treatment</title>
-      <link>https://mcomas.net/publication/iroman2019/</link>
+      <link>http://mcomas.net/publication/iroman2019/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/iroman2019/</guid>
+      <guid>http://mcomas.net/publication/iroman2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effectiveness of statins as primary prevention in people with gout: a population-based cohort study</title>
-      <link>https://mcomas.net/publication/mgarcia2019/</link>
+      <link>http://mcomas.net/publication/mgarcia2019/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mgarcia2019/</guid>
+      <guid>http://mcomas.net/publication/mgarcia2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prognostic value of the estimated glomerular filtration rate decline in hypertensive patients without chronic kidney disease</title>
-      <link>https://mcomas.net/publication/gctuero2019/</link>
+      <link>http://mcomas.net/publication/gctuero2019/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/gctuero2019/</guid>
+      <guid>http://mcomas.net/publication/gctuero2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of Low Ankle-Brachial Index in Cardiovascular and Mortality Risk Compared with Major Risk Conditions</title>
-      <link>https://mcomas.net/publication/lalves2019/</link>
+      <link>http://mcomas.net/publication/lalves2019/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lalves2019/</guid>
+      <guid>http://mcomas.net/publication/lalves2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How well can electronic health records from primary care identify Alzheimer’s disease cases?</title>
-      <link>https://mcomas.net/publication/ponjoan2019b/</link>
+      <link>http://mcomas.net/publication/ponjoan2019b/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/ponjoan2019b/</guid>
+      <guid>http://mcomas.net/publication/ponjoan2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODAWORK 2019</title>
-      <link>https://mcomas.net/talk/spain_1/</link>
+      <link>http://mcomas.net/talk/spain_1/</link>
       <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_1/</guid>
+      <guid>http://mcomas.net/talk/spain_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IV AMYC</title>
-      <link>https://mcomas.net/talk/spain_2/</link>
+      <link>http://mcomas.net/talk/spain_2/</link>
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_2/</guid>
+      <guid>http://mcomas.net/talk/spain_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiology of dementia: prevalence and incidence estimates using validated electronic health records from primary care</title>
-      <link>https://mcomas.net/publication/ponjoan2019a/</link>
+      <link>http://mcomas.net/publication/ponjoan2019a/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/ponjoan2019a/</guid>
+      <guid>http://mcomas.net/publication/ponjoan2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://mcomas.net/post/jupyter/</link>
+      <link>http://mcomas.net/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/post/jupyter/</guid>
+      <guid>http://mcomas.net/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -590,9 +590,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://mcomas.net/slides/example/</link>
+      <link>http://mcomas.net/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/slides/example/</guid>
+      <guid>http://mcomas.net/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -724,241 +724,241 @@ $$&lt;/p&gt;
     
     <item>
       <title>Hypertension and high ankle brachial index: the overlooked combination</title>
-      <link>https://mcomas.net/publication/lalves2018/</link>
+      <link>http://mcomas.net/publication/lalves2018/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lalves2018/</guid>
+      <guid>http://mcomas.net/publication/lalves2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Number of patients eligible for PCSK9 inhibitors based on real-world data from 2.5 million patients</title>
-      <link>https://mcomas.net/publication/azamora2018/</link>
+      <link>http://mcomas.net/publication/azamora2018/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/azamora2018/</guid>
+      <guid>http://mcomas.net/publication/azamora2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statins for primary prevention of cardiovascular events and mortality in the old and very old population: retrospective cohort study</title>
-      <link>https://mcomas.net/publication/rramos2018/</link>
+      <link>http://mcomas.net/publication/rramos2018/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/rramos2018/</guid>
+      <guid>http://mcomas.net/publication/rramos2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COMPSTAT 2018</title>
-      <link>https://mcomas.net/talk/romania_1/</link>
+      <link>http://mcomas.net/talk/romania_1/</link>
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/romania_1/</guid>
+      <guid>http://mcomas.net/talk/romania_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediabetes is associated with glomerular hyperfiltration in a European Mediterranean cohort study</title>
-      <link>https://mcomas.net/publication/arodriguez2018/</link>
+      <link>http://mcomas.net/publication/arodriguez2018/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/arodriguez2018/</guid>
+      <guid>http://mcomas.net/publication/arodriguez2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association of classic cardiovascular risk factors and lifestyles with the cardio-ankle vascular index in a general Mediterranean population</title>
-      <link>https://mcomas.net/publication/melosua2018/</link>
+      <link>http://mcomas.net/publication/melosua2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/melosua2018/</guid>
+      <guid>http://mcomas.net/publication/melosua2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEIO 2018</title>
-      <link>https://mcomas.net/talk/spain_3/</link>
+      <link>http://mcomas.net/talk/spain_3/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_3/</guid>
+      <guid>http://mcomas.net/talk/spain_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEIO 2018</title>
-      <link>https://mcomas.net/talk/spain_4/</link>
+      <link>http://mcomas.net/talk/spain_4/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_4/</guid>
+      <guid>http://mcomas.net/talk/spain_4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palaeoenvironmental reconstructions through compositional data analysis</title>
-      <link>https://mcomas.net/publication/vdonato2018/</link>
+      <link>http://mcomas.net/publication/vdonato2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/vdonato2018/</guid>
+      <guid>http://mcomas.net/publication/vdonato2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effectiveness of statins as primary prevention in people with different cardiovascular risk: a population-based cohort study</title>
-      <link>https://mcomas.net/publication/mmgarcia2018/</link>
+      <link>http://mcomas.net/publication/mmgarcia2018/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mmgarcia2018/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association between chronic immune-mediated inflammatory diseases and cardiovascular risk</title>
-      <link>https://mcomas.net/publication/jmbaena2018/</link>
+      <link>http://mcomas.net/publication/jmbaena2018/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/jmbaena2018/</guid>
+      <guid>http://mcomas.net/publication/jmbaena2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Merging the components of a finite mixture using posterior probabilities</title>
-      <link>https://mcomas.net/publication/mcomas2017/</link>
+      <link>http://mcomas.net/publication/mcomas2017/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcomas2017/</guid>
+      <guid>http://mcomas.net/publication/mcomas2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>III AMYC</title>
-      <link>https://mcomas.net/talk/spain_5/</link>
+      <link>http://mcomas.net/talk/spain_5/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_5/</guid>
+      <guid>http://mcomas.net/talk/spain_5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015</title>
-      <link>https://mcomas.net/publication/lalves2017/</link>
+      <link>http://mcomas.net/publication/lalves2017/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lalves2017/</guid>
+      <guid>http://mcomas.net/publication/lalves2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differences in cardio-ankle vascular index in a general Mediterranean population depending on the presence or absence of metabolic cardiovascular risk factors</title>
-      <link>https://mcomas.net/publication/rmarti2017/</link>
+      <link>http://mcomas.net/publication/rmarti2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/rmarti2017/</guid>
+      <guid>http://mcomas.net/publication/rmarti2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IFCS 2017</title>
-      <link>https://mcomas.net/talk/japan_1/</link>
+      <link>http://mcomas.net/talk/japan_1/</link>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/japan_1/</guid>
+      <guid>http://mcomas.net/talk/japan_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODAWORK 2017</title>
-      <link>https://mcomas.net/talk/italy_1/</link>
+      <link>http://mcomas.net/talk/italy_1/</link>
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/italy_1/</guid>
+      <guid>http://mcomas.net/talk/italy_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Familial hypercholesterolemia in a european mediterranean population. Prevalence and clinical data from 2.5 million primary care patients</title>
-      <link>https://mcomas.net/publication/azamora2017a/</link>
+      <link>http://mcomas.net/publication/azamora2017a/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/azamora2017a/</guid>
+      <guid>http://mcomas.net/publication/azamora2017a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VIII CONGRESO DE LA SOCIEDAD ESPAÑOLA DE CIRUGÍA TORÁCICA</title>
-      <link>https://mcomas.net/talk/spain_6/</link>
+      <link>http://mcomas.net/talk/spain_6/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_6/</guid>
+      <guid>http://mcomas.net/talk/spain_6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of extreme temperatures on cardiovascular emergency hospitalizations in a Mediterranean region: a self-controlled case series study</title>
-      <link>https://mcomas.net/publication/aponjoan2017/</link>
+      <link>http://mcomas.net/publication/aponjoan2017/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/aponjoan2017/</guid>
+      <guid>http://mcomas.net/publication/aponjoan2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>II AMYC</title>
-      <link>https://mcomas.net/talk/spain_7/</link>
+      <link>http://mcomas.net/talk/spain_7/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_7/</guid>
+      <guid>http://mcomas.net/talk/spain_7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Log-ratio methods in mixture models for compositional data sets</title>
-      <link>https://mcomas.net/publication/mcomas2016/</link>
+      <link>http://mcomas.net/publication/mcomas2016/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcomas2016/</guid>
+      <guid>http://mcomas.net/publication/mcomas2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>XXXIV REUNIÓN CIENTÍFICA DE LA SEE</title>
-      <link>https://mcomas.net/talk/spain_8/</link>
+      <link>http://mcomas.net/talk/spain_8/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_8/</guid>
+      <guid>http://mcomas.net/talk/spain_8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>88° CONGRESSO DELLA SOCIETÀ GEOLOGICA ITALIANA</title>
-      <link>https://mcomas.net/talk/italy_2/</link>
+      <link>http://mcomas.net/talk/italy_2/</link>
       <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/italy_2/</guid>
+      <guid>http://mcomas.net/talk/italy_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RSS 2016</title>
-      <link>https://mcomas.net/talk/uk_1/</link>
+      <link>http://mcomas.net/talk/uk_1/</link>
       <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/uk_1/</guid>
+      <guid>http://mcomas.net/talk/uk_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEIO 2016</title>
-      <link>https://mcomas.net/talk/spain_9/</link>
+      <link>http://mcomas.net/talk/spain_9/</link>
       <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_9/</guid>
+      <guid>http://mcomas.net/talk/spain_9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of renal function in cardiovascular risk assessment: A retrospective cohort study in a population with low incidence of coronary heart disease</title>
-      <link>https://mcomas.net/publication/mmgarcia2016b/</link>
+      <link>http://mcomas.net/publication/mmgarcia2016b/</link>
       <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mmgarcia2016b/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2016b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>XXIX CONGRESO DE LA SOCIEDAD ESPAÑOLA DE ARTERIOSCLEROSIS</title>
-      <link>https://mcomas.net/talk/spain_10/</link>
+      <link>http://mcomas.net/talk/spain_10/</link>
       <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_10/</guid>
+      <guid>http://mcomas.net/talk/spain_10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://mcomas.net/project/external-project/</link>
+      <link>http://mcomas.net/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/project/external-project/</guid>
+      <guid>http://mcomas.net/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://mcomas.net/project/internal-project/</link>
+      <link>http://mcomas.net/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/project/internal-project/</guid>
+      <guid>http://mcomas.net/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -969,9 +969,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://mcomas.net/post/getting-started/</link>
+      <link>http://mcomas.net/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/post/getting-started/</guid>
+      <guid>http://mcomas.net/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -1113,209 +1113,209 @@ $$&lt;/p&gt;
     
     <item>
       <title>Diabetes and new-onset atrial fibrillation in a hypertensive population</title>
-      <link>https://mcomas.net/publication/lalves2016/</link>
+      <link>http://mcomas.net/publication/lalves2016/</link>
       <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lalves2016/</guid>
+      <guid>http://mcomas.net/publication/lalves2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statins for prevention of cardiovascular events in a low-risk population with low ankle brachial index</title>
-      <link>https://mcomas.net/publication/rramos2016/</link>
+      <link>http://mcomas.net/publication/rramos2016/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/rramos2016/</guid>
+      <guid>http://mcomas.net/publication/rramos2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patterns of statin use and cholesterol goal attainment in a high risk cardiovascular population: a retrospective study of primary care electronic medical records</title>
-      <link>https://mcomas.net/publication/mmgarcia2016a/</link>
+      <link>http://mcomas.net/publication/mmgarcia2016a/</link>
       <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mmgarcia2016a/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2016a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IAMG 2015, THE 17TH ANNUAL CONFERENCE OF THE INTERNATIONAL ASSOCIATION FOR MATHEMATICAL GEOSCIENCES</title>
-      <link>https://mcomas.net/talk/germany_1/</link>
+      <link>http://mcomas.net/talk/germany_1/</link>
       <pubDate>Sat, 05 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/germany_1/</guid>
+      <guid>http://mcomas.net/talk/germany_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevalence of lower extremity peripheral arterial disease in individuals with chronic immune mediated inflammatory disorders</title>
-      <link>https://mcomas.net/publication/faguero2015/</link>
+      <link>http://mcomas.net/publication/faguero2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/faguero2015/</guid>
+      <guid>http://mcomas.net/publication/faguero2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IFCS 2015</title>
-      <link>https://mcomas.net/talk/italy_3/</link>
+      <link>http://mcomas.net/talk/italy_3/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/italy_3/</guid>
+      <guid>http://mcomas.net/talk/italy_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODAWORK 2015</title>
-      <link>https://mcomas.net/talk/spain_11/</link>
+      <link>http://mcomas.net/talk/spain_11/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_11/</guid>
+      <guid>http://mcomas.net/talk/spain_11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incident atrial fibrillation hazard in hypertensive population: A risk function from and for clinical practice</title>
-      <link>https://mcomas.net/publication/lalves2015/</link>
+      <link>http://mcomas.net/publication/lalves2015/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/lalves2015/</guid>
+      <guid>http://mcomas.net/publication/lalves2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking of primary care records to census data to study the association between socioeconomic status and cancer incidence in Southern Europe: A nation-Wide ecological study</title>
-      <link>https://mcomas.net/publication/mmgarcia2015/</link>
+      <link>http://mcomas.net/publication/mmgarcia2015/</link>
       <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mmgarcia2015/</guid>
+      <guid>http://mcomas.net/publication/mmgarcia2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I AMYC</title>
-      <link>https://mcomas.net/talk/spain_12/</link>
+      <link>http://mcomas.net/talk/spain_12/</link>
       <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_12/</guid>
+      <guid>http://mcomas.net/talk/spain_12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derivation and validation of BOREAS, a risk score identifying candidates to develop cold-induced hypertension</title>
-      <link>https://mcomas.net/publication/aponjoan2014/</link>
+      <link>http://mcomas.net/publication/aponjoan2014/</link>
       <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/aponjoan2014/</guid>
+      <guid>http://mcomas.net/publication/aponjoan2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EGPRN 2014</title>
-      <link>https://mcomas.net/talk/spain_13/</link>
+      <link>http://mcomas.net/talk/spain_13/</link>
       <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_13/</guid>
+      <guid>http://mcomas.net/talk/spain_13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ERCIM 2013</title>
-      <link>https://mcomas.net/talk/uk_2/</link>
+      <link>http://mcomas.net/talk/uk_2/</link>
       <pubDate>Sat, 14 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/uk_2/</guid>
+      <guid>http://mcomas.net/talk/uk_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEIO 2013</title>
-      <link>https://mcomas.net/talk/spain_14/</link>
+      <link>http://mcomas.net/talk/spain_14/</link>
       <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_14/</guid>
+      <guid>http://mcomas.net/talk/spain_14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>4TH SHIP</title>
-      <link>https://mcomas.net/talk/scotland_1/</link>
+      <link>http://mcomas.net/talk/scotland_1/</link>
       <pubDate>Wed, 28 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/scotland_1/</guid>
+      <guid>http://mcomas.net/talk/scotland_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IFCS 2013</title>
-      <link>https://mcomas.net/talk/the-netherlands_1/</link>
+      <link>http://mcomas.net/talk/the-netherlands_1/</link>
       <pubDate>Sun, 14 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/the-netherlands_1/</guid>
+      <guid>http://mcomas.net/talk/the-netherlands_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODAWORK 2013</title>
-      <link>https://mcomas.net/talk/austria_1/</link>
+      <link>http://mcomas.net/talk/austria_1/</link>
       <pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/austria_1/</guid>
+      <guid>http://mcomas.net/talk/austria_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating the risk of peripheral artery disease using different population strategies</title>
-      <link>https://mcomas.net/publication/key2013/</link>
+      <link>http://mcomas.net/publication/key2013/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/key2013/</guid>
+      <guid>http://mcomas.net/publication/key2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ERCIM 2012</title>
-      <link>https://mcomas.net/talk/spain_15/</link>
+      <link>http://mcomas.net/talk/spain_15/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_15/</guid>
+      <guid>http://mcomas.net/talk/spain_15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I JORNADES DE CONSULTORIA ESTADÍSTICA I SOFTWARE</title>
-      <link>https://mcomas.net/talk/spain_16/</link>
+      <link>http://mcomas.net/talk/spain_16/</link>
       <pubDate>Mon, 26 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_16/</guid>
+      <guid>http://mcomas.net/talk/spain_16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODAWORK 2011</title>
-      <link>https://mcomas.net/talk/spain_17/</link>
+      <link>http://mcomas.net/talk/spain_17/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_17/</guid>
+      <guid>http://mcomas.net/talk/spain_17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODAWORK 2011</title>
-      <link>https://mcomas.net/talk/spain_18/</link>
+      <link>http://mcomas.net/talk/spain_18/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_18/</guid>
+      <guid>http://mcomas.net/talk/spain_18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOFSEM 2010</title>
-      <link>https://mcomas.net/talk/czech-republic_1/</link>
+      <link>http://mcomas.net/talk/czech-republic_1/</link>
       <pubDate>Sat, 23 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/czech-republic_1/</guid>
+      <guid>http://mcomas.net/talk/czech-republic_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vertex fusion under distance constraints</title>
-      <link>https://mcomas.net/publication/mcomas2009/</link>
+      <link>http://mcomas.net/publication/mcomas2009/</link>
       <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/mcomas2009/</guid>
+      <guid>http://mcomas.net/publication/mcomas2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VI JMDA</title>
-      <link>https://mcomas.net/talk/spain_19/</link>
+      <link>http://mcomas.net/talk/spain_19/</link>
       <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_19/</guid>
+      <guid>http://mcomas.net/talk/spain_19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EUROCOMB 2007</title>
-      <link>https://mcomas.net/talk/spain_20/</link>
+      <link>http://mcomas.net/talk/spain_20/</link>
       <pubDate>Tue, 11 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/talk/spain_20/</guid>
+      <guid>http://mcomas.net/talk/spain_20/</guid>
       <description></description>
     </item>
     

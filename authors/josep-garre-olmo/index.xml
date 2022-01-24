@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Josep Garre-Olmo | mcomas.net</title>
-    <link>https://mcomas.net/authors/josep-garre-olmo/</link>
-      <atom:link href="https://mcomas.net/authors/josep-garre-olmo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mcomas.net/authors/josep-garre-olmo/</link>
+      <atom:link href="http://mcomas.net/authors/josep-garre-olmo/index.xml" rel="self" type="application/rss+xml" />
     <description>Josep Garre-Olmo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Josep Garre-Olmo</title>
-      <link>https://mcomas.net/authors/josep-garre-olmo/</link>
+      <link>http://mcomas.net/authors/josep-garre-olmo/</link>
     </image>
     
     <item>
       <title>Is it time to use real world data from primary care in Alzheimer’s disease?</title>
-      <link>https://mcomas.net/publication/aponjoan2020a/</link>
+      <link>http://mcomas.net/publication/aponjoan2020a/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/aponjoan2020a/</guid>
+      <guid>http://mcomas.net/publication/aponjoan2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How well can electronic health records from primary care identify Alzheimer’s disease cases?</title>
-      <link>https://mcomas.net/publication/ponjoan2019b/</link>
+      <link>http://mcomas.net/publication/ponjoan2019b/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/ponjoan2019b/</guid>
+      <guid>http://mcomas.net/publication/ponjoan2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiology of dementia: prevalence and incidence estimates using validated electronic health records from primary care</title>
-      <link>https://mcomas.net/publication/ponjoan2019a/</link>
+      <link>http://mcomas.net/publication/ponjoan2019a/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcomas.net/publication/ponjoan2019a/</guid>
+      <guid>http://mcomas.net/publication/ponjoan2019a/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuel Angel Gomez-Marcos | mcomas.net</title>
-    <link>http://mcomas.net/authors/manuel-angel-gomez-marcos/</link>
-      <atom:link href="http://mcomas.net/authors/manuel-angel-gomez-marcos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/manuel-angel-gomez-marcos/</link>
+      <atom:link href="https://mcomas.net/authors/manuel-angel-gomez-marcos/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Angel Gomez-Marcos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Manuel Angel Gomez-Marcos</title>
-      <link>http://mcomas.net/authors/manuel-angel-gomez-marcos/</link>
+      <link>https://mcomas.net/authors/manuel-angel-gomez-marcos/</link>
     </image>
     
     <item>
       <title>Derivation and validation of SIDIAP-FHP score: A new risk model predicting cardiovascular disease in Familial Hypercholesterolemia</title>
-      <link>http://mcomas.net/publication/rramos2019/</link>
+      <link>https://mcomas.net/publication/rramos2019/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/rramos2019/</guid>
+      <guid>https://mcomas.net/publication/rramos2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hypertension and high ankle brachial index: the overlooked combination</title>
-      <link>http://mcomas.net/publication/lalves2018/</link>
+      <link>https://mcomas.net/publication/lalves2018/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/lalves2018/</guid>
+      <guid>https://mcomas.net/publication/lalves2018/</guid>
       <description></description>
     </item>
     

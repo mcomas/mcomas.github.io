@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jordi Carratalà | mcomas.net</title>
-    <link>http://mcomas.net/authors/jordi-carratal%C3%A0/</link>
-      <atom:link href="http://mcomas.net/authors/jordi-carratal%C3%A0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/jordi-carratal%C3%A0/</link>
+      <atom:link href="https://mcomas.net/authors/jordi-carratal%C3%A0/index.xml" rel="self" type="application/rss+xml" />
     <description>Jordi Carratalà</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jordi Carratalà</title>
-      <link>http://mcomas.net/authors/jordi-carratal%C3%A0/</link>
+      <link>https://mcomas.net/authors/jordi-carratal%C3%A0/</link>
     </image>
     
     <item>
       <title>Machine learning analyses disclose that blood hemoglobin substantially modulates the impact of gender, morbid obesity and hyperglycemia on mortality in patients with COVID-19. A multicenter study in Italy and Spain</title>
-      <link>http://mcomas.net/publication/jmayneris2021/</link>
+      <link>https://mcomas.net/publication/jmayneris2021/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/jmayneris2021/</guid>
+      <guid>https://mcomas.net/publication/jmayneris2021/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ester Fages-Masmiquel | mcomas.net</title>
-    <link>http://mcomas.net/authors/ester-fages-masmiquel/</link>
-      <atom:link href="http://mcomas.net/authors/ester-fages-masmiquel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/ester-fages-masmiquel/</link>
+      <atom:link href="https://mcomas.net/authors/ester-fages-masmiquel/index.xml" rel="self" type="application/rss+xml" />
     <description>Ester Fages-Masmiquel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ester Fages-Masmiquel</title>
-      <link>http://mcomas.net/authors/ester-fages-masmiquel/</link>
+      <link>https://mcomas.net/authors/ester-fages-masmiquel/</link>
     </image>
     
     <item>
+      <title>Persons with SARS-CoV-2 during the First and Second Waves in Catalonia (Spain): A Retrospective Observational Study Using Daily Updated Data</title>
+      <link>https://mcomas.net/publication/lalves2021b/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/publication/lalves2021b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning analyses disclose that blood hemoglobin substantially modulates the impact of gender, morbid obesity and hyperglycemia on mortality in patients with COVID-19. A multicenter study in Italy and Spain</title>
-      <link>http://mcomas.net/publication/jmayneris2021/</link>
+      <link>https://mcomas.net/publication/jmayneris2021/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/jmayneris2021/</guid>
+      <guid>https://mcomas.net/publication/jmayneris2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is it time to use real world data from primary care in Alzheimer’s disease?</title>
-      <link>http://mcomas.net/publication/aponjoan2020a/</link>
+      <link>https://mcomas.net/publication/aponjoan2020a/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/aponjoan2020a/</guid>
+      <guid>https://mcomas.net/publication/aponjoan2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How well can electronic health records from primary care identify Alzheimer’s disease cases?</title>
-      <link>http://mcomas.net/publication/ponjoan2019b/</link>
+      <link>https://mcomas.net/publication/ponjoan2019b/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/ponjoan2019b/</guid>
+      <guid>https://mcomas.net/publication/ponjoan2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiology of dementia: prevalence and incidence estimates using validated electronic health records from primary care</title>
-      <link>http://mcomas.net/publication/ponjoan2019a/</link>
+      <link>https://mcomas.net/publication/ponjoan2019a/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/ponjoan2019a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Persons with SARS-CoV-2 during the First and Second Waves in Catalonia (Spain): A Retrospective Observational Study Using Daily Updated Data</title>
-      <link>http://mcomas.net/publication/lalves2021b/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/lalves2021b/</guid>
+      <guid>https://mcomas.net/publication/ponjoan2019a/</guid>
       <description></description>
     </item>
     

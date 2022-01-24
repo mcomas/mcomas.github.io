@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Prieto-Alhambra | mcomas.net</title>
-    <link>http://mcomas.net/authors/daniel-prieto-alhambra/</link>
-      <atom:link href="http://mcomas.net/authors/daniel-prieto-alhambra/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/daniel-prieto-alhambra/</link>
+      <atom:link href="https://mcomas.net/authors/daniel-prieto-alhambra/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Prieto-Alhambra</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Daniel Prieto-Alhambra</title>
-      <link>http://mcomas.net/authors/daniel-prieto-alhambra/</link>
+      <link>https://mcomas.net/authors/daniel-prieto-alhambra/</link>
     </image>
     
     <item>
       <title>Effectiveness of statins as primary prevention in people with gout: a population-based cohort study</title>
-      <link>http://mcomas.net/publication/mgarcia2019/</link>
+      <link>https://mcomas.net/publication/mgarcia2019/</link>
       <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/mgarcia2019/</guid>
+      <guid>https://mcomas.net/publication/mgarcia2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association between chronic immune-mediated inflammatory diseases and cardiovascular risk</title>
-      <link>http://mcomas.net/publication/jmbaena2018/</link>
+      <link>https://mcomas.net/publication/jmbaena2018/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/jmbaena2018/</guid>
+      <guid>https://mcomas.net/publication/jmbaena2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking of primary care records to census data to study the association between socioeconomic status and cancer incidence in Southern Europe: A nation-Wide ecological study</title>
-      <link>http://mcomas.net/publication/mmgarcia2015/</link>
+      <link>https://mcomas.net/publication/mmgarcia2015/</link>
       <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/mmgarcia2015/</guid>
+      <guid>https://mcomas.net/publication/mmgarcia2015/</guid>
       <description></description>
     </item>
     

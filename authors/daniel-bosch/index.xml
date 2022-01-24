@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Bosch | mcomas.net</title>
-    <link>http://mcomas.net/authors/daniel-bosch/</link>
-      <atom:link href="http://mcomas.net/authors/daniel-bosch/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/daniel-bosch/</link>
+      <atom:link href="https://mcomas.net/authors/daniel-bosch/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Bosch</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Daniel Bosch</title>
-      <link>http://mcomas.net/authors/daniel-bosch/</link>
+      <link>https://mcomas.net/authors/daniel-bosch/</link>
     </image>
     
     <item>
       <title>Factores asociados a retrasos de tiempo desde el electrocardiograma diagnóstico hasta el paso de guía en el infarto agudo de miocardio con elevación del segmento ST transferido para angioplastia primaria</title>
-      <link>http://mcomas.net/publication/jaboal2020/</link>
+      <link>https://mcomas.net/publication/jaboal2020/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/jaboal2020/</guid>
+      <guid>https://mcomas.net/publication/jaboal2020/</guid>
       <description></description>
     </item>
     

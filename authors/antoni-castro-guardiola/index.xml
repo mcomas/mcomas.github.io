@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antoni Castro Guardiola | mcomas.net</title>
-    <link>http://mcomas.net/authors/antoni-castro-guardiola/</link>
-      <atom:link href="http://mcomas.net/authors/antoni-castro-guardiola/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/antoni-castro-guardiola/</link>
+      <atom:link href="https://mcomas.net/authors/antoni-castro-guardiola/index.xml" rel="self" type="application/rss+xml" />
     <description>Antoni Castro Guardiola</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Antoni Castro Guardiola</title>
-      <link>http://mcomas.net/authors/antoni-castro-guardiola/</link>
+      <link>https://mcomas.net/authors/antoni-castro-guardiola/</link>
     </image>
     
     <item>
-      <title>Machine learning analyses disclose that blood hemoglobin substantially modulates the impact of gender, morbid obesity and hyperglycemia on mortality in patients with COVID-19. A multicenter study in Italy and Spain</title>
-      <link>http://mcomas.net/publication/jmayneris2021/</link>
-      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/jmayneris2021/</guid>
+      <title>Persons with SARS-CoV-2 during the First and Second Waves in Catalonia (Spain): A Retrospective Observational Study Using Daily Updated Data</title>
+      <link>https://mcomas.net/publication/lalves2021b/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/publication/lalves2021b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Persons with SARS-CoV-2 during the First and Second Waves in Catalonia (Spain): A Retrospective Observational Study Using Daily Updated Data</title>
-      <link>http://mcomas.net/publication/lalves2021b/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/lalves2021b/</guid>
+      <title>Machine learning analyses disclose that blood hemoglobin substantially modulates the impact of gender, morbid obesity and hyperglycemia on mortality in patients with COVID-19. A multicenter study in Italy and Spain</title>
+      <link>https://mcomas.net/publication/jmayneris2021/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/publication/jmayneris2021/</guid>
       <description></description>
     </item>
     

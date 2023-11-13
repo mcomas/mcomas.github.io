@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dolores Montero-Corominas | mcomas.net</title>
+    <link>http://mcomas.net/authors/dolores-montero-corominas/</link>
+      <atom:link href="http://mcomas.net/authors/dolores-montero-corominas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dolores Montero-Corominas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dolores Montero-Corominas</title>
+      <link>http://mcomas.net/authors/dolores-montero-corominas/</link>
+    </image>
+    
+    <item>
+      <title>Assessment of thyroiditis risk associated with HPV vaccination among girls aged 9–18 years: A time-varying cohort study</title>
+      <link>http://mcomas.net/publication/bcastillo2022/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/bcastillo2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/roberto-elosua/</link>
       <atom:link href="http://mcomas.net/authors/roberto-elosua/index.xml" rel="self" type="application/rss+xml" />
     <description>Roberto Elosua</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Roberto Elosua</title>
       <link>http://mcomas.net/authors/roberto-elosua/</link>
     </image>
+    
+    <item>
+      <title>Women with Familial Hypercholesterolemia Phenotype are undertreated and poorly controlled compared to men</title>
+      <link>http://mcomas.net/publication/azamora2023/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/azamora2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Derivation and validation of SIDIAP-FHP score: A new risk model predicting cardiovascular disease in Familial Hypercholesterolemia</title>

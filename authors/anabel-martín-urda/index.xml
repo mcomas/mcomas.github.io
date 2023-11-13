@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anabel Martín-Urda | mcomas.net</title>
+    <link>http://mcomas.net/authors/anabel-mart%C3%ADn-urda/</link>
+      <atom:link href="http://mcomas.net/authors/anabel-mart%C3%ADn-urda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anabel Martín-Urda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Anabel Martín-Urda</title>
+      <link>http://mcomas.net/authors/anabel-mart%C3%ADn-urda/</link>
+    </image>
+    
+    <item>
+      <title>Women with Familial Hypercholesterolemia Phenotype are undertreated and poorly controlled compared to men</title>
+      <link>http://mcomas.net/publication/azamora2023/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/azamora2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

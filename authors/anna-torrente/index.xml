@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Torrente | mcomas.net</title>
+    <link>http://mcomas.net/authors/anna-torrente/</link>
+      <atom:link href="http://mcomas.net/authors/anna-torrente/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Torrente</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Anna Torrente</title>
+      <link>http://mcomas.net/authors/anna-torrente/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Stone Silicosis. Progression and Laboral Impact After a 3-years Follow-up</title>
+      <link>http://mcomas.net/publication/rorriols2022/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/rorriols2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

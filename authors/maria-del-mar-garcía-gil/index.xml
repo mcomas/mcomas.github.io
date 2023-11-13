@@ -5,12 +5,36 @@
     <link>http://mcomas.net/authors/maria-del-mar-garc%C3%ADa-gil/</link>
       <atom:link href="http://mcomas.net/authors/maria-del-mar-garc%C3%ADa-gil/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria del Mar García-Gil</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Maria del Mar García-Gil</title>
       <link>http://mcomas.net/authors/maria-del-mar-garc%C3%ADa-gil/</link>
     </image>
+    
+    <item>
+      <title>Women with Familial Hypercholesterolemia Phenotype are undertreated and poorly controlled compared to men</title>
+      <link>http://mcomas.net/publication/azamora2023/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/azamora2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 transmission risk screening for safer social events: a non-randomised controlled study</title>
+      <link>http://mcomas.net/publication/rramos2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/rramos2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of residential greenness on myocardial infarction in population with diabetes: A sex-dependent association?</title>
+      <link>http://mcomas.net/publication/aponjoan2021/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/aponjoan2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ankle-brachial index and the risk of hemorrhagic stroke</title>

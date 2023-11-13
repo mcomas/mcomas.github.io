@@ -5,12 +5,28 @@
     <link>http://mcomas.net/authors/gladis-sabater-talaverano/</link>
       <atom:link href="http://mcomas.net/authors/gladis-sabater-talaverano/index.xml" rel="self" type="application/rss+xml" />
     <description>Gladis Sabater-Talaverano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Gladis Sabater-Talaverano</title>
       <link>http://mcomas.net/authors/gladis-sabater-talaverano/</link>
     </image>
+    
+    <item>
+      <title>Long-term respiratory consequences of COVID-19 related pneumonia: a cohort study</title>
+      <link>http://mcomas.net/publication/seizaguirre2022/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/seizaguirre2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Stone Silicosis. Progression and Laboral Impact After a 3-years Follow-up</title>
+      <link>http://mcomas.net/publication/rorriols2022/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/rorriols2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Persons with SARS-CoV-2 during the First and Second Waves in Catalonia (Spain): A Retrospective Observational Study Using Daily Updated Data</title>

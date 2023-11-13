@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Bonnin-Vilaplana | mcomas.net</title>
+    <link>http://mcomas.net/authors/marc-bonnin-vilaplana/</link>
+      <atom:link href="http://mcomas.net/authors/marc-bonnin-vilaplana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Bonnin-Vilaplana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Marc Bonnin-Vilaplana</title>
+      <link>http://mcomas.net/authors/marc-bonnin-vilaplana/</link>
+    </image>
+    
+    <item>
+      <title>Long-term respiratory consequences of COVID-19 related pneumonia: a cohort study</title>
+      <link>http://mcomas.net/publication/seizaguirre2022/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/seizaguirre2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persons with SARS-CoV-2 during the First and Second Waves in Catalonia (Spain): A Retrospective Observational Study Using Daily Updated Data</title>
+      <link>http://mcomas.net/publication/lalves2021b/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/lalves2021b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

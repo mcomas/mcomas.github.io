@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Pineda | mcomas.net</title>
+    <link>http://mcomas.net/authors/victor-pineda/</link>
+      <atom:link href="http://mcomas.net/authors/victor-pineda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victor Pineda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Victor Pineda</title>
+      <link>http://mcomas.net/authors/victor-pineda/</link>
+    </image>
+    
+    <item>
+      <title>Long-term respiratory consequences of COVID-19 related pneumonia: a cohort study</title>
+      <link>http://mcomas.net/publication/seizaguirre2022/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/seizaguirre2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

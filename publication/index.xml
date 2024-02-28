@@ -5,12 +5,20 @@
     <link>http://mcomas.net/publication/</link>
       <atom:link href="http://mcomas.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>http://mcomas.net/publication/</link>
     </image>
+    
+    <item>
+      <title>Seamless integration of sewer system topology and tree location data: An algorithm to diagnose the potential impact of tree roots on pipes and propose rearrangement solutions</title>
+      <link>http://mcomas.net/publication/dmartinez2023/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/dmartinez2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Long-term respiratory consequences of COVID-19 related pneumonia: a cohort study</title>

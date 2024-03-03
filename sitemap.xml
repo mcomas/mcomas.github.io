@@ -266,13 +266,10 @@
     <loc>http://mcomas.net/authors/sara-rodriguez-requejo/</loc>
     <lastmod>2022-01-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://mcomas.net/publication/fages2021/</loc>
+    <lastmod>2021-12-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://mcomas.net/publication/lalves2021/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/authors/lidia-guzm%C3%A1n/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/authors/lourdes-cam%C3%B3s/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/anna-de-hollanda/</loc>
@@ -282,6 +279,9 @@
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/arola-armengou-arx%C3%A9/</loc>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mcomas.net/publication/jmayneris2021/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/carlota-gudiol/</loc>
@@ -309,9 +309,6 @@
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/jos%C3%A9-manuel-fern%C3%A1ndez-real/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/publication/jmayneris2021/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/marga-gim%C3%A9nez/</loc>
@@ -420,6 +417,12 @@
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/publication/lalves2020/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mcomas.net/authors/lidia-guzm%C3%A1n/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mcomas.net/authors/lourdes-cam%C3%B3s/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/marc-elosua-bay%C3%A9s/</loc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carmen Serna | mcomas.net</title>
+    <link>http://mcomas.net/authors/carmen-serna/</link>
+      <atom:link href="http://mcomas.net/authors/carmen-serna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carmen Serna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Carmen Serna</title>
+      <link>http://mcomas.net/authors/carmen-serna/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing the First-Pass Effect in Acute Stroke: The Impact of Stent Retriever Characteristics</title>
+      <link>http://mcomas.net/publication/emurias2024/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/emurias2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

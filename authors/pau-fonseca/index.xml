@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pau Fonseca | mcomas.net</title>
+    <link>http://mcomas.net/authors/pau-fonseca/</link>
+      <atom:link href="http://mcomas.net/authors/pau-fonseca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pau Fonseca</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pau Fonseca</title>
+      <link>http://mcomas.net/authors/pau-fonseca/</link>
+    </image>
+    
+    <item>
+      <title>Watching the guards: a data-driven method to trigger warnings in national wastewater surveillance networks</title>
+      <link>http://mcomas.net/publication/bosch2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/bosch2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

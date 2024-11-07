@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/bel%C3%A9n-castillo-cano/</link>
       <atom:link href="http://mcomas.net/authors/bel%C3%A9n-castillo-cano/index.xml" rel="self" type="application/rss+xml" />
     <description>Belén Castillo-Cano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Belén Castillo-Cano</title>
       <link>http://mcomas.net/authors/bel%C3%A9n-castillo-cano/</link>
     </image>
+    
+    <item>
+      <title>Handling with vaccine type missing data in a dynamic cohort to assess the link between time-varying vaccination and an autoimmune disease</title>
+      <link>http://mcomas.net/publication/belen2024/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/belen2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessment of thyroiditis risk associated with HPV vaccination among girls aged 9–18 years: A time-varying cohort study</title>

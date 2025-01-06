@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isabel Vielba-Gómez | mcomas.net</title>
+    <link>http://mcomas.net/authors/isabel-vielba-g%C3%B3mez/</link>
+      <atom:link href="http://mcomas.net/authors/isabel-vielba-g%C3%B3mez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isabel Vielba-Gómez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Isabel Vielba-Gómez</title>
+      <link>http://mcomas.net/authors/isabel-vielba-g%C3%B3mez/</link>
+    </image>
+    
+    <item>
+      <title>Distal access catether improves balloon guide and stent retriever thrombectomy outcomes in nonagenarians</title>
+      <link>http://mcomas.net/publication/puig2024/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/puig2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

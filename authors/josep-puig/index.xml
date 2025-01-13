@@ -5,7 +5,7 @@
     <link>http://mcomas.net/authors/josep-puig/</link>
       <atom:link href="http://mcomas.net/authors/josep-puig/index.xml" rel="self" type="application/rss+xml" />
     <description>Josep Puig</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Josep Puig</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Middle cerebral artery M2 occlusions: impact of segment dominance and benefit of direct aspiration for the first-pass effect</title>
-      <link>http://mcomas.net/publication/navia2024/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/navia2024/</guid>
+      <title>Distal access catether improves balloon guide and stent retriever thrombectomy outcomes in nonagenarians</title>
+      <link>http://mcomas.net/publication/puig2024/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/puig2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Distal access catether improves balloon guide and stent retriever thrombectomy outcomes in nonagenarians</title>
-      <link>http://mcomas.net/publication/puig2024/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/puig2024/</guid>
+      <title>Middle cerebral artery M2 occlusions: impact of segment dominance and benefit of direct aspiration for the first-pass effect</title>
+      <link>http://mcomas.net/publication/navia2024/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/navia2024/</guid>
       <description></description>
     </item>
     

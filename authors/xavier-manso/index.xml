@@ -5,12 +5,28 @@
     <link>http://mcomas.net/authors/xavier-manso/</link>
       <atom:link href="http://mcomas.net/authors/xavier-manso/index.xml" rel="self" type="application/rss+xml" />
     <description>Xavier Manso</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Xavier Manso</title>
       <link>http://mcomas.net/authors/xavier-manso/</link>
     </image>
+    
+    <item>
+      <title>Efficacy and safety of CatchView Mini stentriever for mechanical thrombectomy in proximal and distal medium vessel occlusions</title>
+      <link>http://mcomas.net/publication/egonzalez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/egonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical thrombectomy failure in anterior circulation large vessel occlusion: an overview from the Rossetti registry</title>
+      <link>http://mcomas.net/publication/llmorales2025/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/llmorales2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing the First-Pass Effect in Acute Stroke: The Impact of Stent Retriever Characteristics</title>

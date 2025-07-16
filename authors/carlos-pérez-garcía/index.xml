@@ -5,7 +5,7 @@
     <link>http://mcomas.net/authors/carlos-p%C3%A9rez-garc%C3%ADa/</link>
       <atom:link href="http://mcomas.net/authors/carlos-p%C3%A9rez-garc%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos Pérez-García</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Carlos Pérez-García</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Contact Aspiration Alone or Combined With Stent Retriever Thrombectomy for Middle Cerebral Artery Large Vessel Occlusion</title>
+      <link>http://mcomas.net/publication/navia2025/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/navia2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical thrombectomy failure in anterior circulation large vessel occlusion: an overview from the Rossetti registry</title>
+      <link>http://mcomas.net/publication/llmorales2025/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/llmorales2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distal access catether improves balloon guide and stent retriever thrombectomy outcomes in nonagenarians</title>
-      <link>http://mcomas.net/publication/puig2024/</link>
+      <link>http://mcomas.net/publication/puig2025a/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/puig2024/</guid>
+      <guid>http://mcomas.net/publication/puig2025a/</guid>
       <description></description>
     </item>
     

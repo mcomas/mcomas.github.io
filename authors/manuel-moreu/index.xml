@@ -5,12 +5,28 @@
     <link>http://mcomas.net/authors/manuel-moreu/</link>
       <atom:link href="http://mcomas.net/authors/manuel-moreu/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Moreu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Manuel Moreu</title>
       <link>http://mcomas.net/authors/manuel-moreu/</link>
     </image>
+    
+    <item>
+      <title>Aspiration Catheter Design Impacts Combined Approach Mechanical Thrombectomy in Anterior Circulation Large Vessel Stroke</title>
+      <link>http://mcomas.net/publication/puig2025d/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/puig2025d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified Treatment in Brain Ischemia 2b stopped or continued after first-pass mechanical thrombectomy for M1 occlusions</title>
+      <link>http://mcomas.net/publication/jigarcia2025/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/jigarcia2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing the First-Pass Effect in Acute Stroke: The Impact of Stent Retriever Characteristics</title>

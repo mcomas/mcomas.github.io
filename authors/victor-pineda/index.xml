@@ -5,12 +5,28 @@
     <link>http://mcomas.net/authors/victor-pineda/</link>
       <atom:link href="http://mcomas.net/authors/victor-pineda/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor Pineda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Victor Pineda</title>
       <link>http://mcomas.net/authors/victor-pineda/</link>
     </image>
+    
+    <item>
+      <title>Four-year respiratory consequences of COVID-19 related pneumonia: a longitudinal cohort study</title>
+      <link>http://mcomas.net/publication/seizaguirre2025/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/seizaguirre2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion tensor imaging study after intra-arterial cell therapy in acute ischemic stroke</title>
+      <link>http://mcomas.net/publication/moniche2025/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/moniche2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Long-term respiratory consequences of COVID-19 related pneumonia: a cohort study</title>

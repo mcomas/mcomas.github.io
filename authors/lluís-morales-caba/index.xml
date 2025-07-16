@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lluís Morales-Caba | mcomas.net</title>
+    <link>http://mcomas.net/authors/llu%C3%ADs-morales-caba/</link>
+      <atom:link href="http://mcomas.net/authors/llu%C3%ADs-morales-caba/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lluís Morales-Caba</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lluís Morales-Caba</title>
+      <link>http://mcomas.net/authors/llu%C3%ADs-morales-caba/</link>
+    </image>
+    
+    <item>
+      <title>Mechanical thrombectomy failure in anterior circulation large vessel occlusion: an overview from the Rossetti registry</title>
+      <link>http://mcomas.net/publication/llmorales2025/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/llmorales2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified Treatment in Brain Ischemia 2b stopped or continued after first-pass mechanical thrombectomy for M1 occlusions</title>
+      <link>http://mcomas.net/publication/jigarcia2025/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/jigarcia2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distal access catether improves balloon guide and stent retriever thrombectomy outcomes in nonagenarians</title>
+      <link>http://mcomas.net/publication/puig2025a/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/puig2025a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing the First-Pass Effect in Acute Stroke: The Impact of Stent Retriever Characteristics</title>
+      <link>http://mcomas.net/publication/emurias2024/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/emurias2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

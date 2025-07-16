@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sergio Jiménez-Serrano | mcomas.net</title>
+    <link>http://mcomas.net/authors/sergio-jim%C3%A9nez-serrano/</link>
+      <atom:link href="http://mcomas.net/authors/sergio-jim%C3%A9nez-serrano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sergio Jiménez-Serrano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sergio Jiménez-Serrano</title>
+      <link>http://mcomas.net/authors/sergio-jim%C3%A9nez-serrano/</link>
+    </image>
+    
+    <item>
+      <title>Defining new radiological patterns to improve classification of Bosniak III and IV cystic renal masses</title>
+      <link>http://mcomas.net/publication/sebastia2025/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/sebastia2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

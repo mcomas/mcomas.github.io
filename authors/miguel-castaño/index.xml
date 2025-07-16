@@ -5,7 +5,7 @@
     <link>http://mcomas.net/authors/miguel-casta%C3%B1o/</link>
       <atom:link href="http://mcomas.net/authors/miguel-casta%C3%B1o/index.xml" rel="self" type="application/rss+xml" />
     <description>Miguel Castaño</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Miguel Castaño</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Modified Treatment in Brain Ischemia 2b stopped or continued after first-pass mechanical thrombectomy for M1 occlusions</title>
+      <link>http://mcomas.net/publication/jigarcia2025/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/jigarcia2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distal access catether improves balloon guide and stent retriever thrombectomy outcomes in nonagenarians</title>
-      <link>http://mcomas.net/publication/puig2024/</link>
+      <link>http://mcomas.net/publication/puig2025a/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/puig2024/</guid>
+      <guid>http://mcomas.net/publication/puig2025a/</guid>
       <description></description>
     </item>
     

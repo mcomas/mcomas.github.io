@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Lorenzo | mcomas.net</title>
+    <link>http://mcomas.net/authors/antonio-lorenzo/</link>
+      <atom:link href="http://mcomas.net/authors/antonio-lorenzo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonio Lorenzo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Antonio Lorenzo</title>
+      <link>http://mcomas.net/authors/antonio-lorenzo/</link>
+    </image>
+    
+    <item>
+      <title>Safety/Efficacy of a Pusher, Thermal Detachment Coil for Ruptured Intracranial Aneurysms: A Multicenter Real-World Study</title>
+      <link>http://mcomas.net/publication/lorenzo2025/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/lorenzo2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

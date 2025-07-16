@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alain Luna | mcomas.net</title>
+    <link>http://mcomas.net/authors/alain-luna/</link>
+      <atom:link href="http://mcomas.net/authors/alain-luna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alain Luna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alain Luna</title>
+      <link>http://mcomas.net/authors/alain-luna/</link>
+    </image>
+    
+    <item>
+      <title>Efficacy and safety of CatchView Mini stentriever for mechanical thrombectomy in proximal and distal medium vessel occlusions</title>
+      <link>http://mcomas.net/publication/egonzalez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/egonzalez/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

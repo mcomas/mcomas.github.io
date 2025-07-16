@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomás Pérez | mcomas.net</title>
+    <link>http://mcomas.net/authors/tom%C3%A1s-p%C3%A9rez/</link>
+      <atom:link href="http://mcomas.net/authors/tom%C3%A1s-p%C3%A9rez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tomás Pérez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tomás Pérez</title>
+      <link>http://mcomas.net/authors/tom%C3%A1s-p%C3%A9rez/</link>
+    </image>
+    
+    <item>
+      <title>Efficacy and safety of CatchView Mini stentriever for mechanical thrombectomy in proximal and distal medium vessel occlusions</title>
+      <link>http://mcomas.net/publication/egonzalez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/egonzalez/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

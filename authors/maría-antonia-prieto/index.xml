@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>María Antonia Prieto | mcomas.net</title>
+    <link>http://mcomas.net/authors/mar%C3%ADa-antonia-prieto/</link>
+      <atom:link href="http://mcomas.net/authors/mar%C3%ADa-antonia-prieto/index.xml" rel="self" type="application/rss+xml" />
+    <description>María Antonia Prieto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>María Antonia Prieto</title>
+      <link>http://mcomas.net/authors/mar%C3%ADa-antonia-prieto/</link>
+    </image>
+    
+    <item>
+      <title>Double stent retriever mechanical thrombectomy for middle cerebral artery distal medium vessel clots: Initial experience</title>
+      <link>http://mcomas.net/publication/puig2025e/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/puig2025e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

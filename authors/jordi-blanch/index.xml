@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/jordi-blanch/</link>
       <atom:link href="http://mcomas.net/authors/jordi-blanch/index.xml" rel="self" type="application/rss+xml" />
     <description>Jordi Blanch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jordi Blanch</title>
       <link>http://mcomas.net/authors/jordi-blanch/</link>
     </image>
+    
+    <item>
+      <title>Absolute impact of lipid levels on coronary heart disease in a real-world primary prevention cohort of 730,236 people</title>
+      <link>http://mcomas.net/publication/alve2025/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/alve2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SARS-CoV-2 transmission risk screening for safer social events: a non-randomised controlled study</title>

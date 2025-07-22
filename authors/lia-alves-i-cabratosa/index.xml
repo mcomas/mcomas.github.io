@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/lia-alves-i-cabratosa/</link>
       <atom:link href="http://mcomas.net/authors/lia-alves-i-cabratosa/index.xml" rel="self" type="application/rss+xml" />
     <description>Lia Alves-i-Cabratosa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lia Alves-i-Cabratosa</title>
       <link>http://mcomas.net/authors/lia-alves-i-cabratosa/</link>
     </image>
+    
+    <item>
+      <title>Absolute impact of lipid levels on coronary heart disease in a real-world primary prevention cohort of 730,236 people</title>
+      <link>http://mcomas.net/publication/alve2025/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/alve2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Women with Familial Hypercholesterolemia Phenotype are undertreated and poorly controlled compared to men</title>

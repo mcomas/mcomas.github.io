@@ -5,12 +5,20 @@
     <link>http://mcomas.net/publication/</link>
       <atom:link href="http://mcomas.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>http://mcomas.net/publication/</link>
     </image>
+    
+    <item>
+      <title>Absolute impact of lipid levels on coronary heart disease in a real-world primary prevention cohort of 730,236 people</title>
+      <link>http://mcomas.net/publication/alve2025/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/alve2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contact Aspiration Alone or Combined With Stent Retriever Thrombectomy for Middle Cerebral Artery Large Vessel Occlusion</title>
@@ -33,6 +41,14 @@
       <link>http://mcomas.net/publication/sebastia2025/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://mcomas.net/publication/sebastia2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double stent retriever mechanical thrombectomy for middle cerebral artery distal medium vessel clots: Initial experience</title>
+      <link>http://mcomas.net/publication/puig2025e/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/puig2025e/</guid>
       <description></description>
     </item>
     

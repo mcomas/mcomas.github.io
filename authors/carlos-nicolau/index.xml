@@ -5,12 +5,28 @@
     <link>http://mcomas.net/authors/carlos-nicolau/</link>
       <atom:link href="http://mcomas.net/authors/carlos-nicolau/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos Nicolau</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Carlos Nicolau</title>
       <link>http://mcomas.net/authors/carlos-nicolau/</link>
     </image>
+    
+    <item>
+      <title>Computed Tomography of Neoplastic Infiltrating Renal Masses in Patients Without a Previous History of Cancer</title>
+      <link>http://mcomas.net/publication/nicolau2025/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/nicolau2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transperineal MRI-US Fusion-Guided Biopsy with Systematic Sampling for Prostate Cancer: Diagnostic Accuracy and Clinical Implications Across PI-RADS</title>
+      <link>http://mcomas.net/publication/richart2025/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/richart2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Defining new radiological patterns to improve classification of Bosniak III and IV cystic renal masses</title>

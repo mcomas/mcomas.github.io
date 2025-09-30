@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/andr%C3%A9s-javier-barrios/</link>
       <atom:link href="http://mcomas.net/authors/andr%C3%A9s-javier-barrios/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrés Javier Barrios</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Andrés Javier Barrios</title>
       <link>http://mcomas.net/authors/andr%C3%A9s-javier-barrios/</link>
     </image>
+    
+    <item>
+      <title>Comparison between contact aspiration alone and combined thrombectomy for intracranial internal carotid artery occlusion: insights from SARA-3 registry</title>
+      <link>http://mcomas.net/publication/ramirez2025/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/ramirez2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Middle cerebral artery M2 occlusions: impact of segment dominance and benefit of direct aspiration for the first-pass effect</title>

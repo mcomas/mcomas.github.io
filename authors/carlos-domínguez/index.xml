@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/carlos-dom%C3%ADnguez/</link>
       <atom:link href="http://mcomas.net/authors/carlos-dom%C3%ADnguez/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos Domínguez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Carlos Domínguez</title>
       <link>http://mcomas.net/authors/carlos-dom%C3%ADnguez/</link>
     </image>
+    
+    <item>
+      <title>Comparison between contact aspiration alone and combined thrombectomy for intracranial internal carotid artery occlusion: insights from SARA-3 registry</title>
+      <link>http://mcomas.net/publication/ramirez2025/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/ramirez2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contact Aspiration Alone or Combined With Stent Retriever Thrombectomy for Middle Cerebral Artery Large Vessel Occlusion</title>

@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/llu%C3%ADs-corominas/</link>
       <atom:link href="http://mcomas.net/authors/llu%C3%ADs-corominas/index.xml" rel="self" type="application/rss+xml" />
     <description>Lluís Corominas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lluís Corominas</title>
       <link>http://mcomas.net/authors/llu%C3%ADs-corominas/</link>
     </image>
+    
+    <item>
+      <title>Tracking Age-Linked Antibiotic Resistance Patterns Through Building-Level Wastewater Analysis</title>
+      <link>http://mcomas.net/publication/pico2025/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/pico2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Watching the guards: a data-driven method to trigger warnings in national wastewater surveillance networks</title>

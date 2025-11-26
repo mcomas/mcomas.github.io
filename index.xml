@@ -1623,5 +1623,26 @@ $$&lt;/p&gt;
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://mcomas.net/authors/admin/_index_backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/authors/admin/_index_backup/</guid>
+      <description>&lt;p&gt;I am a member of the 
+&lt;a href=&#34;https://www.udg.edu/ca/grupsrecerca/GR-EADC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistics and Compositional Data Analysis&lt;/a&gt; research group at the 
+&lt;a href=&#34;https://www.udg.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Girona&lt;/a&gt;. My primary interests include Compositional Data modeling, Multivariate Count Data analysis, Clustering methods, Survival analysis, Competing Risk analysis, and Causal inference. I enjoy programming and exploring new languages for diverse applications, primarily using R and Python for statistical analysis and data management, Java for GUI development, and JavaScript for web programming.&lt;/p&gt;
+&lt;p&gt;I have experience with various languages such as C/C++, Fortran, Visual Basic, VBA, Stata, Matlab, Maple, and Lisp. Additionally, I am proficient with common markup languages like 
+&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;, 
+&lt;a href=&#34;https://www.latex-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX&lt;/a&gt;, 
+&lt;a href=&#34;https://www.markdownguide.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;, 
+&lt;a href=&#34;https://www.w3.org/XML/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XML&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.json.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSON&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In my daily work, I prioritize open-source tools, frequently utilizing 
+&lt;a href=&#34;https://posit.co/products/open-source/rstudio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio&lt;/a&gt;, 
+&lt;a href=&#34;https://www.gnu.org/software/make/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GNU Make&lt;/a&gt;, and 
+&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git&lt;/a&gt; to enhance productivity and collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

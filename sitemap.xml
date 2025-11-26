@@ -41,6 +41,9 @@
     <loc>http://mcomas.net/authors/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://mcomas.net/authors/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://mcomas.net/authors/carles-m.-borrego/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -1223,10 +1226,10 @@
     <loc>http://mcomas.net/publication/ponjoan2019a/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/admin/</loc>
+    <loc>http://mcomas.net/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/post/jupyter/</loc>
+    <loc>http://mcomas.net/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/slides/</loc>
@@ -1486,6 +1489,8 @@
   </url><url>
     <loc>http://mcomas.net/talk/spain_24/</loc>
     <lastmod>2007-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mcomas.net/authors/admin/_index_backup/</loc>
   </url><url>
     <loc>http://mcomas.net/home_deactivated/</loc>
   </url>

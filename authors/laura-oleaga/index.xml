@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura Oleaga | mcomas.net</title>
+    <link>http://mcomas.net/authors/laura-oleaga/</link>
+      <atom:link href="http://mcomas.net/authors/laura-oleaga/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Oleaga</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Laura Oleaga</title>
+      <link>http://mcomas.net/authors/laura-oleaga/</link>
+    </image>
+    
+    <item>
+      <title>Brain MRI Radiomic First-Order Features for Presurgical Prediction of Meningioma Grading</title>
+      <link>http://mcomas.net/publication/pineda2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/pineda2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

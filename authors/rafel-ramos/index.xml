@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/rafel-ramos/</link>
       <atom:link href="http://mcomas.net/authors/rafel-ramos/index.xml" rel="self" type="application/rss+xml" />
     <description>Rafel Ramos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Rafel Ramos</title>
       <link>http://mcomas.net/authors/rafel-ramos/</link>
     </image>
+    
+    <item>
+      <title>Severe obstructive sleep apnoea can be accurately diagnosed in primary care centres</title>
+      <link>http://mcomas.net/publication/orriols2026/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/orriols2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Long-Term Effectiveness of Acetylsalicylic Acid in Primary Prevention of Cardiovascular Diseases and Mortality in Patients at High Risk, a Retrospective Cohort Study—The JOANA Study</title>
@@ -265,6 +273,14 @@
       <link>http://mcomas.net/publication/aponjoan2017/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
       <guid>http://mcomas.net/publication/aponjoan2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply: Peripheral Artery Disease and Atrial Fibrillation: The Dangerous Combination</title>
+      <link>http://mcomas.net/publication/rramos2016b/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/rramos2016b/</guid>
       <description></description>
     </item>
     

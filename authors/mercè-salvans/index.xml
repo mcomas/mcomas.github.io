@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercè Salvans | mcomas.net</title>
+    <link>http://mcomas.net/authors/merc%C3%A8-salvans/</link>
+      <atom:link href="http://mcomas.net/authors/merc%C3%A8-salvans/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mercè Salvans</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mercè Salvans</title>
+      <link>http://mcomas.net/authors/merc%C3%A8-salvans/</link>
+    </image>
+    
+    <item>
+      <title>Severe obstructive sleep apnoea can be accurately diagnosed in primary care centres</title>
+      <link>http://mcomas.net/publication/orriols2026/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/orriols2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/victor-pineda/</link>
       <atom:link href="http://mcomas.net/authors/victor-pineda/index.xml" rel="self" type="application/rss+xml" />
     <description>Victor Pineda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Victor Pineda</title>
       <link>http://mcomas.net/authors/victor-pineda/</link>
     </image>
+    
+    <item>
+      <title>Corpus Callosum Integrity Predicts Functional Outcomes in Acute Stroke: A Probabilistic Structural Connectivity Study</title>
+      <link>http://mcomas.net/publication/edelacalle2026/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/edelacalle2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Four-year respiratory consequences of COVID-19 related pneumonia: a longitudinal cohort study</title>

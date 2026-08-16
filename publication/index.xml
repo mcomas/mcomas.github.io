@@ -5,12 +5,44 @@
     <link>http://mcomas.net/publication/</link>
       <atom:link href="http://mcomas.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>http://mcomas.net/publication/</link>
     </image>
+    
+    <item>
+      <title>Severe obstructive sleep apnoea can be accurately diagnosed in primary care centres</title>
+      <link>http://mcomas.net/publication/orriols2026/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/orriols2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corpus Callosum Integrity Predicts Functional Outcomes in Acute Stroke: A Probabilistic Structural Connectivity Study</title>
+      <link>http://mcomas.net/publication/edelacalle2026/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/edelacalle2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Aspiration as First-Line Technique for Acute Intracranial Internal Carotid Artery Occlusion: Preliminary Results</title>
+      <link>http://mcomas.net/publication/ramirez2026/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/ramirez2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain MRI Radiomic First-Order Features for Presurgical Prediction of Meningioma Grading</title>
+      <link>http://mcomas.net/publication/pineda2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/pineda2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New Stent Retriever Technology Versus Standard Devices for Anterior Large Vessel Thrombectomy: A Multicenter Study</title>
@@ -521,6 +553,14 @@
       <link>http://mcomas.net/publication/mcomas2016/</link>
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       <guid>http://mcomas.net/publication/mcomas2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply: Peripheral Artery Disease and Atrial Fibrillation: The Dangerous Combination</title>
+      <link>http://mcomas.net/publication/rramos2016b/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/rramos2016b/</guid>
       <description></description>
     </item>
     

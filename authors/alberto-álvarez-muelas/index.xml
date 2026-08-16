@@ -5,12 +5,20 @@
     <link>http://mcomas.net/authors/alberto-%C3%A1lvarez-muelas/</link>
       <atom:link href="http://mcomas.net/authors/alberto-%C3%A1lvarez-muelas/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Álvarez-Muelas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alberto Álvarez-Muelas</title>
       <link>http://mcomas.net/authors/alberto-%C3%A1lvarez-muelas/</link>
     </image>
+    
+    <item>
+      <title>Direct Aspiration as First-Line Technique for Acute Intracranial Internal Carotid Artery Occlusion: Preliminary Results</title>
+      <link>http://mcomas.net/publication/ramirez2026/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://mcomas.net/publication/ramirez2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contact Aspiration Alone or Combined With Stent Retriever Thrombectomy for Middle Cerebral Artery Large Vessel Occlusion</title>

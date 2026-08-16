@@ -71,9 +71,6 @@
     <loc>http://mcomas.net/authors/jordi-blasco/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/josep-puig/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://mcomas.net/authors/jos%C3%A9-carlos-m%C3%A9ndez/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -81,6 +78,9 @@
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/jos%C3%A9-luis-b%C3%A1lcazar/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mcomas.net/authors/josep-puig/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/juan-carlos-llibre/</loc>
@@ -116,6 +116,9 @@
     <loc>http://mcomas.net/authors/n%C3%BAria-canela/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://mcomas.net/authors/%C3%B3scar-chirife/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://mcomas.net/authors/pedro-vega/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -149,10 +152,10 @@
     <loc>http://mcomas.net/authors/yolanda-silva/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/%C3%B3scar-chirife/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://mcomas.net/authors/andr%C3%A9s-javier-barrios/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mcomas.net/authors/%C3%A1ngel-calleja/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/antonio-mosqueira-mart%C3%ADnez/</loc>
@@ -222,9 +225,6 @@
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/victor-maestro/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/authors/%C3%A1ngel-calleja/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/andreu-ivars/</loc>
@@ -323,10 +323,10 @@
     <loc>http://mcomas.net/authors/lu%C3%ADs-garcia/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/alberto-mart%C3%ADnez-calvo/</loc>
+    <loc>http://mcomas.net/authors/alberto-%C3%A1lvarez-muelas/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/alberto-%C3%A1lvarez-muelas/</loc>
+    <loc>http://mcomas.net/authors/alberto-mart%C3%ADnez-calvo/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/alfonso-gonz%C3%A1lez-cruz/</loc>
@@ -527,13 +527,13 @@
     <loc>http://mcomas.net/authors/jose-carlos-rayon-aledo/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://mcomas.net/authors/juan-%C3%A1lvarez-cienfuegos/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://mcomas.net/authors/juan-antonio-cabezas-rodriguez/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/juan-ignacio-garc%C3%ADa-garc%C3%ADa/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/authors/juan-%C3%A1lvarez-cienfuegos/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/leire-ainz-gomez/</loc>
@@ -596,16 +596,16 @@
     <loc>http://mcomas.net/authors/santiago-rosati/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/sonia-nogueras/</loc>
-    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://mcomas.net/authors/s%C3%B2nia-aixut/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/tom%C3%A0s-xucl%C3%A0/</loc>
+    <loc>http://mcomas.net/authors/sonia-nogueras/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/tom%C3%A1s-p%C3%A9rez/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mcomas.net/authors/tom%C3%A0s-xucl%C3%A0/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/vanesa-martin/</loc>
@@ -614,10 +614,10 @@
     <loc>http://mcomas.net/authors/veredas-romero/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/virginia-escamilla-gomez/</loc>
+    <loc>http://mcomas.net/authors/v%C3%ADctor-v%C3%A1zquez/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/v%C3%ADctor-v%C3%A1zquez/</loc>
+    <loc>http://mcomas.net/authors/virginia-escamilla-gomez/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/waleed-brinjikji/</loc>
@@ -707,10 +707,10 @@
     <loc>http://mcomas.net/authors/juan-turnes/</loc>
     <lastmod>2024-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/mario-matute-gonz%C3%A1lez/</loc>
+    <loc>http://mcomas.net/authors/mar%C3%ADa-reig/</loc>
     <lastmod>2024-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/mar%C3%ADa-reig/</loc>
+    <loc>http://mcomas.net/authors/mario-matute-gonz%C3%A1lez/</loc>
     <lastmod>2024-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/publication/matute2024/</loc>
@@ -896,6 +896,9 @@
     <loc>http://mcomas.net/authors/albert-danta/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://mcomas.net/authors/%C3%A0lex-p%C3%A8lach/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://mcomas.net/authors/laura-albert/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -912,9 +915,6 @@
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/authors/s%C3%ADlvia-cabarrocas/</loc>
-    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/authors/%C3%A0lex-p%C3%A8lach/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/talk/france_1/</loc>
@@ -1229,10 +1229,10 @@
     <loc>http://mcomas.net/publication/lalves2018/</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/publication/azamora2018/</loc>
+    <loc>http://mcomas.net/authors/%C3%A0lex-vila/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/authors/%C3%A0lex-vila/</loc>
+    <loc>http://mcomas.net/publication/azamora2018/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/publication/rramos2018/</loc>
@@ -1477,5 +1477,7 @@
   </url><url>
     <loc>http://mcomas.net/talk/spain_24/</loc>
     <lastmod>2007-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://mcomas.net/authors/authors/</loc>
   </url>
 </urlset>

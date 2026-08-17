@@ -1,1010 +1,215 @@
-<!DOCTYPE html>
-<html lang="en-us">
-
-<head>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
-
-  
-
-  
-  
-  
-  
-  
-    
-    
-    
-  
-  
-
-  <meta name="author" content="Marc Comas-Cufí">
-
-  
-  
-  
-    
-  
-  <meta name="description" content="">
-
-  
-  <link rel="alternate" hreflang="en-us" href="https://mcomas.net/publication/lalves2017/">
-
-  
-
-
-  
-  
-  
-  <meta name="theme-color" content="#2962ff">
-  
-
-  
-  
-
-  
-  
-  
-  
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
-
-    
-    
-    
-      
-    
-    
-      
-      
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
-        
-      
-    
-
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
-    
-
-    
-
-    
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-        
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-
-  
-
-  
-  
-  
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
-  
-
-  
-  
-  
-  
-  <link rel="stylesheet" href="/css/academic.css">
-
-  
-
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1600962-6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-1600962-6', {});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-  
-
-
-  
-
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_192x192_fill_lanczos_center_2.png">
-
-  <link rel="canonical" href="https://mcomas.net/publication/lalves2017/">
-
-  
-  
-  
-  
-  
-    
-    
-  
-  
-  <meta property="twitter:card" content="summary">
-  
-  <meta property="og:site_name" content="mcomas.net">
-  <meta property="og:url" content="https://mcomas.net/publication/lalves2017/">
-  <meta property="og:title" content="Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015 | mcomas.net">
-  <meta property="og:description" content=""><meta property="og:image" content="https://mcomas.net/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://mcomas.net/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
-  
-    
-      <meta property="article:published_time" content="2017-10-26T00:00:00&#43;00:00">
-    
-    <meta property="article:modified_time" content="2017-10-26T00:00:00&#43;00:00">
-  
-
-  
-
-
-    
-
-
-
-
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mcomas.net/publication/lalves2017/"
-  },
-  "headline": "Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015",
-  
-  "datePublished": "2017-10-26T00:00:00Z",
-  "dateModified": "2017-10-26T00:00:00Z",
-  
-  "author": {
-    "@type": "Person",
-    "name": "Lia Alves-i-Cabratosa"
-  },
-  
-  "publisher": {
-    "@type": "Organization",
-    "name": "mcomas.net",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://mcomas.net/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_192x192_fill_lanczos_center_2.png"
-    }
-  },
-  "description": ""
-}
-</script>
-
-  
-
-  
-
-
-  
-
-
-  
-
-<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-<link rel="manifest" href="/favicon/manifest.json">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
-
-
-
-  <title>Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015 | mcomas.net</title>
-
-</head>
-
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
-
-  <aside class="search-results" id="search">
-  <div class="container">
-    <section class="search-header">
-
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <div id="search-box">
-        
-        
-        
-      </div>
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
-  </div>
-</aside>
-
-
-  
-
-
-
-
-
-
-
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
-
-    
-    <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">mcomas.net</a>
-    </div>
-    
-
-    
-    <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span><i class="fas fa-bars"></i></span>
-    </button>
-    
-
-    
-    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">mcomas.net</a>
-    </div>
-    
-
-    
-    
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
-
-      
-      <ul class="navbar-nav d-md-inline-flex">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Main</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
-        </li>
-
-        
-        
-
-      
-
-        
-      </ul>
-    </div>
-
-    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-      
-
-      
-      <li class="nav-item">
-        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-      </li>
-      
-
-      
-
-    </ul>
-
-  </div>
-</nav>
-
-
-  <div class="pub">
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
+<!doctype html><html lang=en-us dir=ltr data-wc-theme-default=system data-hbb-relurl=/><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=generator content="Hugo Blox Kit 0.12.0"><meta name=author content="Marc Comas-Cufí"><meta name=description content="Marc Comas-Cufí is an Associate Professor in Statistics working on statistical methodology, health data analysis, and reproducible scientific computing."><link rel=alternate hreflang=en-us href=https://mcomas.net/publication/lalves2017/><style>:root{--color-primary-100:oklch(0.93 0.034 272.788);--color-primary-200:oklch(0.87 0.065 274.039);--color-primary-300:oklch(0.785 0.115 274.713);--color-primary-400:oklch(0.673 0.182 276.935);--color-primary-50:oklch(0.962 0.018 272.314);--color-primary-500:oklch(0.585 0.233 277.117);--color-primary-600:oklch(0.511 0.262 276.966);--color-primary-700:oklch(0.457 0.24 277.023);--color-primary-800:oklch(0.398 0.195 277.366);--color-primary-900:oklch(0.359 0.144 278.697);--color-primary-950:oklch(0.257 0.09 281.288);--hb-primary-500-rgb:128 128 128;--color-secondary-100:oklch(0.953 0.051 180.801);--color-secondary-200:oklch(0.91 0.096 180.426);--color-secondary-300:oklch(0.855 0.138 181.071);--color-secondary-400:oklch(0.777 0.152 181.912);--color-secondary-50:oklch(0.984 0.014 180.72);--color-secondary-500:oklch(0.704 0.14 182.503);--color-secondary-600:oklch(0.6 0.118 184.704);--color-secondary-700:oklch(0.511 0.096 186.391);--color-secondary-800:oklch(0.437 0.078 188.216);--color-secondary-900:oklch(0.386 0.063 188.416);--color-secondary-950:oklch(0.277 0.046 192.524);--hb-secondary-500-rgb:128 128 128;--hb-color-background:#ffffff;--hb-color-foreground:#111827;--hb-color-header-bg:#f1f5f9;--hb-color-header-fg:#0f172a;--hb-color-footer-bg:#f3f4f6;--hb-color-footer-fg:#0f172a}.dark{--color-primary-100:oklch(0.932 0.032 255.585);--color-primary-200:oklch(0.882 0.059 254.128);--color-primary-300:oklch(0.809 0.105 251.813);--color-primary-400:oklch(0.707 0.165 254.624);--color-primary-50:oklch(0.97 0.014 254.604);--color-primary-500:oklch(0.623 0.214 259.815);--color-primary-600:oklch(0.546 0.245 262.881);--color-primary-700:oklch(0.488 0.243 264.376);--color-primary-800:oklch(0.424 0.199 265.638);--color-primary-900:oklch(0.379 0.146 265.522);--color-primary-950:oklch(0.282 0.091 267.935);--hb-primary-500-rgb:128 128 128;--color-secondary-100:oklch(0.953 0.051 180.801);--color-secondary-200:oklch(0.91 0.096 180.426);--color-secondary-300:oklch(0.855 0.138 181.071);--color-secondary-400:oklch(0.777 0.152 181.912);--color-secondary-50:oklch(0.984 0.014 180.72);--color-secondary-500:oklch(0.704 0.14 182.503);--color-secondary-600:oklch(0.6 0.118 184.704);--color-secondary-700:oklch(0.511 0.096 186.391);--color-secondary-800:oklch(0.437 0.078 188.216);--color-secondary-900:oklch(0.386 0.063 188.416);--color-secondary-950:oklch(0.277 0.046 192.524);--hb-secondary-500-rgb:128 128 128;--hb-color-background:#0f172a;--hb-color-foreground:#f8fafc;--hb-color-header-bg:#0f172a;--hb-color-header-fg:#f8fafc;--hb-color-footer-bg:#111827;--hb-color-footer-fg:#e5e7eb}</style>
+    
 
   
   
   
-<div class="article-container pt-3">
-  <h1>Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015</h1>
 
   
-
   
-    
-
 
-<div class="article-metadata">
-
-  
   
   
-  
-  <div>
     
-
-
-
   
-  <span><a href="/authors/lia-alves-i-cabratosa/">Lia Alves-i-Cabratosa</a></span>, <span><a href="/authors/maria-del-mar-garc%C3%ADa-gil/">Maria del Mar García-Gil</a></span>, <span><a href="/authors/marc-comas-cuf%C3%AD/">Marc Comas-Cufí</a></span>, <span><a href="/authors/anna-ponjoan/">Anna Ponjoan</a></span>, <span><a href="/authors/ruth-mart%C3%AD-lluch/">Ruth Martí-Lluch</a></span>, <span><a href="/authors/d%C3%ADdac-parramon/">Dídac Parramon</a></span>, <span><a href="/authors/jordi-blanch/">Jordi Blanch</a></span>, <span><a href="/authors/marc-elosua-bay%C3%A9s/">Marc Elosua-Bayés</a></span>, <span><a href="/authors/rafel-ramos/">Rafel Ramos</a></span>
-
-  </div>
-  
-  
-
   
-  <span class="article-date">
     
-    
-      
-    
-    October 2017
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
   
-
-</div>
-
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1371/journal.pone.0186972" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-</div>
-
-
   
-</div>
-
-
-
-  <div class="article-container">
-
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            
-            
-            <a href="/publication/#2">
-              Journal article
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>PLoS ONE</em>, <strong>12(10)</strong>:e0186972</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
-
-    
-
-
-
-
-
-
-
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=https://mcomas.net/publication/lalves2017/&amp;text=Statins%20and%20new-onset%20atrial%20fibrillation%20in%20a%20cohort%20of%20patients%20with%20hypertension.%20Analysis%20of%20electronic%20health%20records,%202006-2015" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://mcomas.net/publication/lalves2017/&amp;t=Statins%20and%20new-onset%20atrial%20fibrillation%20in%20a%20cohort%20of%20patients%20with%20hypertension.%20Analysis%20of%20electronic%20health%20records,%202006-2015" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=Statins%20and%20new-onset%20atrial%20fibrillation%20in%20a%20cohort%20of%20patients%20with%20hypertension.%20Analysis%20of%20electronic%20health%20records,%202006-2015&amp;body=https://mcomas.net/publication/lalves2017/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://mcomas.net/publication/lalves2017/&amp;title=Statins%20and%20new-onset%20atrial%20fibrillation%20in%20a%20cohort%20of%20patients%20with%20hypertension.%20Analysis%20of%20electronic%20health%20records,%202006-2015" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://web.whatsapp.com/send?text=Statins%20and%20new-onset%20atrial%20fibrillation%20in%20a%20cohort%20of%20patients%20with%20hypertension.%20Analysis%20of%20electronic%20health%20records,%202006-2015%20https://mcomas.net/publication/lalves2017/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://mcomas.net/publication/lalves2017/&amp;title=Statins%20and%20new-onset%20atrial%20fibrillation%20in%20a%20cohort%20of%20patients%20with%20hypertension.%20Analysis%20of%20electronic%20health%20records,%202006-2015" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
     
-  </ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
   
-  
     
-  
   
 
-
-
-
-
-
-  
-  
-  
   
   
-  <div class="media author-card content-widget-hr">
-    
 
-    <div class="media-body">
-      <h5 class="card-title"><a href="/authors/lia-alves-i-cabratosa/"></a></h5>
-      
-      
-      <ul class="network-icon" aria-hidden="true">
   
-</ul>
-
-    </div>
-  </div>
-
-
-
-
-
-
-
-
-
   
   
-
-
-
-  </div>
-</div>
-
-      
-
-    
     
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
-
-      
-
       
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
-        
+        <link rel="stylesheet" href="/css/_entry.d509ec7421f72f8e658a19129c2eebddd365e4b445350e99bf7ba9ccdf74c734.css" integrity="sha256-1QnsdCH3L45lihkSnC7r3dNl5LRFNQ6Zv3upzN90xzQ=" crossorigin="anonymous">
       
-
-    
-
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
-    
-
-    
-    
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    <script>const isSiteThemeDark = false;</script>
-    
-
-    
-
-    
-    
-
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
-    
-    
-    <script src="/js/academic.min.c97b94000ee75a76d9bc08f5a2e44814.js"></script>
-
-    
-
-
-
-
-
-
   
-  
-  <div class="container">
-    <footer class="site-footer">
-
-  <p class="powered-by">
 
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
 
-  </div>
   
-
-  
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-</body>
-</html>
+<link href=/css/custom.min.5ba246540ac9245cbca98f6057f559d0b9ebe4fb670baeb427cbce9e4b35f292.css rel=stylesheet><script src=/js/hb-head.min.e9ff67ddf77122b225756bf5a926e24420bea2586199fddcb3b1813a009f4ee5.js integrity="sha256-6f9n3fdxIrIldWv1qSbiRCC+olhhmf3cs7GBOgCfTuU=" crossorigin=anonymous></script><link rel=icon type=image/png href=/media/icon_hu_43d65de9230a6c05.png><link rel=apple-touch-icon type=image/png href=/media/icon_hu_39902579fe17d0b4.png><link rel=canonical href=https://mcomas.net/publication/lalves2017/><meta property="twitter:card" content="summary"><meta property="og:site_name" content="Marc Comas-Cufí"><meta property="og:url" content="https://mcomas.net/publication/lalves2017/"><meta property="og:title" content="Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015 | Marc Comas-Cufí"><meta property="og:description" content="Marc Comas-Cufí is an Associate Professor in Statistics working on statistical methodology, health data analysis, and reproducible scientific computing."><meta property="og:image" content="https://mcomas.net/media/icon_hu_1c0e9cb08cfb822a.png"><meta property="twitter:image" content="https://mcomas.net/media/icon_hu_1c0e9cb08cfb822a.png"><meta property="og:locale" content="en-us"><meta property="article:published_time" content="2017-10-26T00:00:00+00:00"><meta property="article:modified_time" content="2017-10-26T00:00:00+00:00"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://mcomas.net/publication/lalves2017/"},"headline":"Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015","datePublished":"2017-10-26T00:00:00Z","dateModified":"2017-10-26T00:00:00Z","author":{"@type":"Person","name":"Lia Alves I Cabratosa"},"publisher":{"@type":"Organization","name":"Marc Comas-Cufí","logo":{"@type":"ImageObject","url":null}},"description":"Marc Comas-Cufí is an Associate Professor in Statistics working on statistical methodology, health data analysis, and reproducible scientific computing."}</script><script type=application/ld+json>{"@context":"https://schema.org","@id":"https://mcomas.net/publication/lalves2017/","@type":"WebPage","dateModified":"2017-10-26T00:00:00Z","datePublished":"2017-10-26T00:00:00Z","description":"Marc Comas-Cufí is an Associate Professor in Statistics working on statistical methodology, health data analysis, and reproducible scientific computing.","inLanguage":"en-us","isPartOf":{"@id":"https://mcomas.net/","@type":"WebSite","name":"mcomas.net","url":"https://mcomas.net/"},"name":"Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015","primaryImageOfPage":{"@type":"ImageObject","url":null},"url":"https://mcomas.net/publication/lalves2017/"}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":{"@id":"https://mcomas.net/","name":"mcomas.net"},"name":"mcomas.net","position":1},{"@type":"ListItem","item":{"@id":"https://mcomas.net/publication/","name":"Publications"},"name":"Publications","position":2},{"@type":"ListItem","item":{"@id":"https://mcomas.net/publication/lalves2017/","name":"Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015"},"name":"Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015","position":3}]}</script><title>Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015 | Marc Comas-Cufí</title><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Lora:wght@100..900&amp;family=Source+Serif+4:wght@100..900&amp;family=Source+Code+Pro:wght@400&amp;display=swap" rel=stylesheet><style>:root{--hb-font-heading:'Lora', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;--hb-font-body:'Source Serif 4', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;--hb-font-code:'Source Code Pro', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;--hb-font-nav:'Lora', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;--hb-font-weight-heading:500;--hb-font-weight-body:400;--hb-font-weight-body-bold:600;--hb-font-leading-heading:1.2;--hb-font-leading-body:1.7;--hb-font-leading-code:1.5;--hb-font-tracking-heading:0;--hb-font-tracking-body:0;--hb-font-tracking-caps:0.05em;--hb-font-size-base:1rem;--hb-font-size-sm:0.875rem;--hb-font-size-lg:1.125rem;--hb-font-family-sans:'Source Serif 4', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif}</style><style>:root{--hb-radius:0.5rem;--hb-spacing-base:1rem;--hb-spacing-section:4rem}</style><script defer src=/js/hugo-blox-en.min.50bf5376bbbd2aea9b2e03e195eeee2f0afad8e84589a94b0ee493111b4be271.js integrity="sha256-UL9Tdru9KuqbLgPhle7uLwr62OhFialLDuSTERtL4nE="></script><script>console.log("✓ Alpine.js loading on demand")</script><script src=/dist/lib/alpinejs/cdn.min.e041f1b639d1e6b2fc2736d8d7638a409afcd444a6ec90446f8f4e44fa36f406.js integrity="sha256-4EHxtjnR5rL8JzbY12OKQJr81ESm7JBEb49ORPo29AY=" defer></script><script defer src=/js/hb-search.min.135366008264b9d452ff89aad28374bc7e4b40d2c047098318511786419873b0.js integrity="sha256-E1NmAIJkudRS/4mq0oN0vH5LQNLARwmDGFEXhkGYc7A="></script></head><body class="bg-[var(--hb-color-background)] text-[var(--hb-color-foreground)] page-wrapper" id=top><div id=page-bg></div><div class="page-header sticky top-0 z-30"><header id=site-header class=header><nav class="navbar px-3 flex justify-start"><div class="order-0 h-full"><a class=navbar-brand href=/ title="Marc Comas-Cufí">mcomas.net</a></div><input id=nav-toggle type=checkbox class=hidden>
+<label for=nav-toggle class="order-3 cursor-pointer flex items-center lg:hidden text-[var(--hb-color-header-fg)] lg:order-1"><svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20"><title>Open Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0V0z"/></svg>
+<svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20"><title>Close Menu</title><polygon points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2" transform="rotate(45 10 10)"/></svg></label><ul id=nav-menu class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-start
+mr-auto ml-6"><li class=nav-item><a class=nav-link href=/>Main</a></li><li class=nav-item><a class=nav-link href=/#publications>Publications</a></li><li class=nav-item><a class=nav-link href=/#software>Software</a></li><li class=nav-item><a class=nav-link href=/#talks>Talks</a></li><li class=nav-item><a class=nav-link href=/#contact>Contact</a></li></ul><div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0"><button aria-label="toggle search" class="inline-block px-3 text-xl text-[var(--hb-color-header-fg)] hover:text-primary-500 cursor-pointer" data-search-toggle>
+<svg height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8.0 45.3s-32.8 12.5-45.3.0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9.0 208S93.1.0 208 0 416 93.1 416 208zM208 352a144 144 0 100-288 144 144 0 100 288z"/></svg></button><div class="px-3 text-[var(--hb-color-header-fg)] hover:text-primary-500
+[&.active]:font-bold [&.active]:text-primary-500"><button class="theme-toggle mt-1" accesskey=t title=appearance>
+<svg id="moon" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="block dark:hidden"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+<svg id="sun" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="hidden dark:block"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></button></div></div></nav></header><div x-data=searchModal() x-show=$store.search.open @keydown.escape.window="$store.search.open = false" @keydown.cmd.k.window.prevent="$store.search.open = !$store.search.open" @keydown.ctrl.k.window.prevent="$store.search.open = !$store.search.open" x-cloak class="fixed inset-0 z-[100] bg-black/50 backdrop-blur-sm" style=display:none><div class="absolute inset-0" @click="$store.search.open = false"></div><div class="relative mx-auto mt-[10vh] max-w-3xl" x-show=$store.search.open x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-0 translate-y-4 scale-95" x-transition:enter-end="opacity-100 translate-y-0 scale-100" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 translate-y-0 scale-100" x-transition:leave-end="opacity-0 translate-y-4 scale-95"><div class="mx-4 overflow-hidden rounded-2xl bg-white dark:bg-gray-900 shadow-2xl ring-1 ring-gray-900/10 dark:ring-white/10"><div class="border-b border-gray-200 dark:border-gray-800"><div class="flex items-center gap-3 px-4 py-3"><svg class="h-5 w-5 flex-shrink-0 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5A7 7 0 113 10a7 7 0 0114 0z"/></svg>
+<input x-ref=searchInput x-model=query @input="loading = query.trim() !== ''" @input.debounce.300ms=search() type=text placeholder="Search for answers..." class="flex-1 bg-transparent text-lg outline-none text-gray-900 dark:text-gray-100 placeholder-gray-400" autocomplete=off autofocus><div x-show=loading class=flex-shrink-0><svg class="animate-spin h-5 w-5 text-primary-600" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373.0.0 5.373.0 12h4zm2 5.291A7.962 7.962.0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"/></svg></div><kbd class="hidden sm:block flex-shrink-0 rounded bg-gray-100 px-2 py-1 text-xs font-semibold text-gray-600 dark:bg-gray-800 dark:text-gray-400">ESC</kbd>
+<button @click="$store.search.open = false" class="flex-shrink-0 rounded-lg p-1 text-gray-400 hover:bg-gray-100 hover:text-gray-600 dark:hover:bg-gray-800 dark:hover:text-gray-300 cursor-pointer">
+<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18 18 6M6 6l12 12"/></svg></button></div><div x-show="query && availableFilters.length > 0" x-transition class="border-t border-gray-100 dark:border-gray-800 px-4 py-2"><div class="flex flex-wrap gap-2"><button @click="activeFilter = null; search()" :class="activeFilter === null ? 'bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300' : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400'" class="rounded-full px-3 py-1 text-xs font-medium transition-colors cursor-pointer">
+All Results
+</button>
+<template x-for="filter in availableFilters" :key=filter.filterKey><button @click="activeFilter = filter.filterKey; search()" :class="activeFilter === filter.filterKey ? 'bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300' : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400'" class="rounded-full px-3 py-1 text-xs font-medium transition-colors cursor-pointer" x-text="filter.label + ' (' + filter.count + ')'"></button></template></div></div></div><div class="max-h-[60vh] overflow-y-auto"><div x-show="!query && results.length === 0" class=p-6></div><div x-show="query && results.length > 0" class="divide-y divide-gray-200 dark:divide-gray-800"><template x-for="(result, index) in results" :key=result.id><a :href=result.url @mouseenter="selectedIndex = index" @click="$store.search.open = false" :class="selectedIndex === index ? 'bg-primary-50 dark:bg-primary-900/20 border-l-2 border-primary-600' : ''" class="block px-6 py-4 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors group search-result"><div class="flex items-center gap-2 mb-2 flex-wrap"><span x-show="result.filters && result.filters.type" :class="{
+                    'bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300': result.filters.type && result.filters.type[0] === 'questions',
+                    'bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300': result.filters.type && result.filters.type[0] === 'faq',
+                    'bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-300': result.filters.type && result.filters.type[0] === 'docs'
+                  }" class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium" x-text="result.filters.type ? (typeLabels[result.filters.type[0]] || result.filters.type[0]) : ''"></span>
+<span x-show="result.filters && result.filters.category" class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300" x-text="result.filters.category ? result.filters.category[0] : ''"></span>
+<span x-show="result.filters && result.filters.difficulty" class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-amber-100 text-amber-700 dark:bg-amber-900 dark:text-amber-300" x-text="result.filters.difficulty ? result.filters.difficulty[0] : ''"></span></div><h3 class="text-lg font-semibold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors mb-2" x-html="result.meta.title || 'Untitled'"></h3><p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-2" x-html=result.excerpt></p></a></template></div><div x-show="query && loading" class="px-6 py-16 text-center"><div class="inline-flex items-center gap-3"><svg class="animate-spin h-8 w-8 text-primary-600" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373.0.0 5.373.0 12h4zm2 5.291A7.962 7.962.0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"/></svg><div class=text-left><p class="text-lg font-medium text-gray-900 dark:text-white">Searching...</p><p class="text-sm text-gray-500 dark:text-gray-400" x-text="'Finding results for &#34;' + query + '&#34;'"></p></div></div></div><div x-show="query && results.length === 0 && !loading && hasSearched" class="px-6 py-12 text-center"><svg class="mx-auto h-12 w-12 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656.0M9 10h.01M15 10h.01M21 12A9 9 0 113 12a9 9 0 0118 0z"/></svg><h3 class="mt-4 text-lg font-semibold text-gray-900 dark:text-white">No results found</h3><p class="mt-2 text-gray-600 dark:text-gray-400" x-text="'No results for &#34;' + query + '&#34;'"></p><button @click="query = ''; $refs.searchInput.focus()" class="mt-4 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 font-medium">
+Clear search</button></div></div><div class="border-t border-gray-200 dark:border-gray-800 px-4 py-3 bg-gray-50 dark:bg-gray-900/50"><div class="flex items-center justify-between text-xs text-gray-500 dark:text-gray-400"><div class="flex items-center gap-3"><span class="flex items-center gap-1"><kbd class="rounded bg-white dark:bg-gray-800 px-1.5 py-0.5 font-mono text-[10px] font-semibold border border-gray-300 dark:border-gray-700">↑↓</kbd>
+Navigate
+</span><span class="flex items-center gap-1"><kbd class="rounded bg-white dark:bg-gray-800 px-1.5 py-0.5 font-mono text-[10px] font-semibold border border-gray-300 dark:border-gray-700">↵</kbd>
+Select
+</span><span x-show="availableFilters.length > 0" class="flex items-center gap-1"><svg class="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"/></svg>
+<span x-text="availableFilters.length + ' filters'"></span></span></div><a href=https://hugoblox.com target=_blank rel=noopener class="flex items-center gap-1 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"><svg class="h-3 w-3" fill="currentColor" viewBox="0 0 24 24"><path d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+Powered by Hugo Blox</a></div></div></div></div></div><script>function searchModal(){return{query:"",results:[],loading:!1,hasSearched:!1,selectedIndex:-1,activeFilter:null,availableFilters:[],allFilters:[],trendingSearches:'["Search term 1","Search term 2"]',pagefind:null,pagefindModulePath:window.hbb?.assetPaths?.pagefind??"/pagefind/pagefind.js",typeLabels:{questions:'"Questions"',faq:'"FAQ"',docs:'"Documentation"'},async init(){try{this.pagefind=await import(this.pagefindModulePath),await this.pagefind.init(),console.log("✓ Pagefind initialized"),await this.loadFilters()}catch(e){console.error("Failed to initialize Pagefind:",e)}this.$watch("$store.search.open",e=>{e?(this.$nextTick(()=>this.$refs.searchInput?.focus()),document.body.style.overflow="hidden"):(document.body.style.overflow="",this.query="",this.results=[],this.selectedIndex=-1,this.hasSearched=!1)}),window.addEventListener("keydown",e=>{if(!this.$store.search.open||this.results.length===0)return;if(e.key==="ArrowDown")e.preventDefault(),this.selectedIndex=this.selectedIndex<this.results.length-1?this.selectedIndex+1:0,this.scrollToSelected();else if(e.key==="ArrowUp")e.preventDefault(),this.selectedIndex=this.selectedIndex>0?this.selectedIndex-1:this.results.length-1,this.scrollToSelected();else if(e.key==="Enter"&&this.selectedIndex>=0){e.preventDefault();const t=this.results[this.selectedIndex];t&&(window.location.href=t.url,this.$store.search.open=!1)}})},scrollToSelected(){this.$nextTick(()=>{const e=document.querySelector(".search-result:nth-child("+(this.selectedIndex+1)+")");e&&e.scrollIntoView({block:"nearest",behavior:"smooth"})})},buildFilters(e){const t=[];return e?.type&&Object.entries(e.type).forEach(([e,n])=>{t.push({category:"type",value:e,label:this.typeLabels[e]||e.charAt(0).toUpperCase()+e.slice(1),count:n,filterKey:`type:${e}`})}),e?.category&&Object.entries(e.category).forEach(([e,n])=>{t.push({category:"category",value:e,label:e,count:n,filterKey:`category:${e}`})}),e?.difficulty&&Object.entries(e.difficulty).forEach(([e,n])=>{t.push({category:"difficulty",value:e,label:e,count:n,filterKey:`difficulty:${e}`})}),t},mergeFilterCounts(e){return this.allFilters.length?this.allFilters.map(t=>{const n=e?.[t.category]?.[t.value];return{...t,count:typeof n=="number"?n:0}}):[]},async search(){if(!this.query.trim()){this.results=[],this.hasSearched=!1;return}this.loading=!0,this.hasSearched=!1;try{const t={};if(this.activeFilter){const[e,n]=this.activeFilter.split(":");t.filters={[e]:n}}const e=await this.pagefind.search(this.query,t);console.log("Search results:",e),console.log("Search filters:",e.filters),this.results=await Promise.all(e.results.slice(0,10).map(async e=>{const t=await e.data();return console.log("Result data:",t),{id:t.url,url:t.url,meta:t.meta,excerpt:t.excerpt,filters:t.filters||{}}}));const n=e.totalFilters||e.filters||{};this.allFilters.length?this.availableFilters=this.mergeFilterCounts(n):this.availableFilters=this.buildFilters(n),console.log("Final availableFilters array:",this.availableFilters),this.results.length>0&&(this.selectedIndex=0)}catch(e){console.error("Search error:",e),this.results=[]}finally{this.loading=!1,this.hasSearched=!0}},async loadFilters(){try{const e=await this.pagefind.filters();console.log("Available Pagefind filters:",e);const t=this.buildFilters(e);this.allFilters=t,this.availableFilters=t,console.log("Processed filters:",this.availableFilters)}catch(e){console.error("Failed to load filters:",e)}}}}document.addEventListener("alpine:init",()=>{Alpine.store("search",{open:!1})})</script><style>[x-cloak]{display:none!important}</style></div><div class="page-body my-10"><div class="mx-auto flex max-w-screen-xl"><aside class="hb-sidebar-container max-lg:[transform:translate3d(0,-100%,0)] lg:hidden xl:block"><div class="px-4 pt-4 lg:hidden"></div><div class="hb-scrollbar lg:h-[calc(100vh-var(--navbar-height))]"><ul class="flex flex-col gap-1 lg:hidden"><li><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/software/>Software
+<span data-hb-sidebar-toggle><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"/></svg></span></a><div class="ltr:pr-0 overflow-hidden"><ul class=hb-sidebar-list><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/software/codapack/>CoDaPack</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/software/coda-base/>coda.base</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/software/coda-plot/>coda.plot</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/software/coda-pack/>coda.pack</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/software/coda-count/>coda.count</a></li></ul></div></li><li class=open><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/>Publications
+<span data-hb-sidebar-toggle><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"/></svg></span></a><div class="ltr:pr-0 overflow-hidden"><ul class=hb-sidebar-list><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/orriols2026/>Severe obstructive sleep apnoea can be accurately diagnosed in primary care centres</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/edelacalle2026/>Corpus Callosum Integrity Predicts Functional Outcomes in Acute Stroke: A Probabilistic Structural Connectivity Study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/ramirez2026/>Direct Aspiration as First-Line Technique for Acute Intracranial Internal Carotid Artery Occlusion: Preliminary Results</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/pineda2026/>Brain MRI Radiomic First-Order Features for Presurgical Prediction of Meningioma Grading</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/puig2025f/>New Stent Retriever Technology Versus Standard Devices for Anterior Large Vessel Thrombectomy: A Multicenter Study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/pico2025/>Tracking Age-Linked Antibiotic Resistance Patterns Through Building-Level Wastewater Analysis</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/ramirez2025/>Comparison between contact aspiration alone and combined thrombectomy for intracranial internal carotid artery occlusion: insights from SARA-3 registry</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/nicolau2025/>Computed Tomography of Neoplastic Infiltrating Renal Masses in Patients Without a Previous History of Cancer</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/richart2025/>Transperineal MRI-US Fusion-Guided Biopsy with Systematic Sampling for Prostate Cancer: Diagnostic Accuracy and Clinical Implications Across PI-RADS</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/alves2025b/>Long-Term Effectiveness of Acetylsalicylic Acid in Primary Prevention of Cardiovascular Diseases and Mortality in Patients at High Risk, a Retrospective Cohort Study—The JOANA Study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/alves2025/>Absolute impact of lipid levels on coronary heart disease in a real-world primary prevention cohort of 730,236 people</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/navia2025/>Contact Aspiration Alone or Combined With Stent Retriever Thrombectomy for Middle Cerebral Artery Large Vessel Occlusion</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/lorenzo2025/>Safety/Efficacy of a Pusher, Thermal Detachment Coil for Ruptured Intracranial Aneurysms: A Multicenter Real-World Study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/sebastia2025/>Defining new radiological patterns to improve classification of Bosniak III and IV cystic renal masses</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/puig2025e/>Double stent retriever mechanical thrombectomy for middle cerebral artery distal medium vessel clots: Initial experience</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/seizaguirre2025/>Four-year respiratory consequences of COVID-19 related pneumonia: a longitudinal cohort study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/puig2025d/>Aspiration Catheter Design Impacts Combined Approach Mechanical Thrombectomy in Anterior Circulation Large Vessel Stroke</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/moniche2025/>Diffusion tensor imaging study after intra-arterial cell therapy in acute ischemic stroke</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/egonzalez/>Efficacy and safety of CatchView Mini stentriever for mechanical thrombectomy in proximal and distal medium vessel occlusions</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/llmorales2025/>Mechanical thrombectomy failure in anterior circulation large vessel occlusion: an overview from the Rossetti registry</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/jigarcia2025/>Modified Treatment in Brain Ischemia 2b stopped or continued after first-pass mechanical thrombectomy for M1 occlusions</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/puig2025a/>Distal access catether improves balloon guide and stent retriever thrombectomy outcomes in nonagenarians</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/navia2024/>Middle cerebral artery M2 occlusions: impact of segment dominance and benefit of direct aspiration for the first-pass effect</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/belen2024/>Handling with vaccine type missing data in a dynamic cohort to assess the link between time-varying vaccination and an autoimmune disease</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/matute2024/>Utilizing a domain-specific large language model for LI-RADS v2018 categorisation of free-text MRI reports: a feasibility study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/aboal2024/>Evaluation of the ODISEA APP for improving a STEMI regional network</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/bosch2024/>Watching the guards: a data-driven method to trigger warnings in national wastewater surveillance networks</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/emurias2024/>Enhancing the First-Pass Effect in Acute Stroke: The Impact of Stent Retriever Characteristics</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/dmartinez2023/>Seamless integration of sewer system topology and tree location data: An algorithm to diagnose the potential impact of tree roots on pipes and propose rearrangement solutions</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/seizaguirre2022/>Long-term respiratory consequences of COVID-19 related pneumonia: a cohort study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/azamora2023/>Women with Familial Hypercholesterolemia Phenotype are undertreated and poorly controlled compared to men</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/rorriols2022/>Artificial Stone Silicosis. Progression and Laboral Impact After a 3-years Follow-up</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/bcastillo2022/>Assessment of thyroiditis risk associated with HPV vaccination among girls aged 9–18 years: A time-varying cohort study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/rramos2022/>SARS-CoV-2 transmission risk screening for safer social events: a non-randomised controlled study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/aponjoan2021/>Impact of residential greenness on myocardial infarction in population with diabetes: A sex-dependent association?</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/lalves2021b/>Persons with SARS-CoV-2 during the First and Second Waves in Catalonia (Spain): A Retrospective Observational Study Using Daily Updated Data</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/fages2021/>The effect of age and sex on factors associated with dementia</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/lalves2021/>Ankle-brachial index and the risk of hemorrhagic stroke</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/jmayneris2021/>Blood Hemoglobin Substantially Modulates the Impact of Gender, Morbid Obesity, and Hyperglycemia on COVID-19 Death Risk: A Multicenter Study in Italy and Spain</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/aponjoan2020b/>Extreme diurnal temperature range and cardiovascular emergency hospitalisations in a Mediterranean region</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mcasellas2020/>Laparoscopic Liver Resection for Hepatocellular Carcinoma in Child-Pugh A patients with and without Portal Hypertension: A Multicentre Study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/aponjoan2020a/>Is it time to use real world data from primary care in Alzheimer’s disease?</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mcomas2020/>Modelling count data using the logratio-normal-multinomial distribution</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/jaboal2020/>Factores asociados a retrasos de tiempo desde el electrocardiograma diagnóstico hasta el paso de guía en el infarto agudo de miocardio con elevación del segmento ST transferido para angioplastia primaria</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/lalves2020/>Levels of ankle-brachial index and the risk of diabetes mellitus complications</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/rramos2019/>Derivation and validation of SIDIAP-FHP score: A new risk model predicting cardiovascular disease in Familial Hypercholesterolemia</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/lmasana2019/>Incidence of cardiovascular disease in patients with familial hypercholesterolemia phenotype: analysis of 5 years follow-up of real-world data from more than 1.5 million patients</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/iroman2019/>Three-year events and mortality in cardiovascular disease patients without lipid-lowering treatment</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mgarcia2019/>Effectiveness of statins as primary prevention in people with gout: a population-based cohort study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/gctuero2019/>Prognostic value of the estimated glomerular filtration rate decline in hypertensive patients without chronic kidney disease</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/lalves2019/>Role of Low Ankle-Brachial Index in Cardiovascular and Mortality Risk Compared with Major Risk Conditions</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/ponjoan2019b/>How well can electronic health records from primary care identify Alzheimer’s disease cases?</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/ponjoan2019a/>Epidemiology of dementia: prevalence and incidence estimates using validated electronic health records from primary care</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/lalves2018/>Hypertension and high ankle brachial index: the overlooked combination</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/azamora2018/>Number of patients eligible for PCSK9 inhibitors based on real-world data from 2.5 million patients</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/rramos2018/>Statins for primary prevention of cardiovascular events and mortality in the old and very old population: retrospective cohort study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/arodriguez2018/>Prediabetes is associated with glomerular hyperfiltration in a European Mediterranean cohort study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/melosua2018/>Association of classic cardiovascular risk factors and lifestyles with the cardio-ankle vascular index in a general Mediterranean population</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/vdonato2018/>Palaeoenvironmental reconstructions through compositional data analysis</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mmgarcia2018/>Effectiveness of statins as primary prevention in people with different cardiovascular risk: a population-based cohort study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/jmbaena2018/>Association between chronic immune-mediated inflammatory diseases and cardiovascular risk</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mcomas2017/>Merging the components of a finite mixture using posterior probabilities</a></li><li class="flex flex-col open"><a class="hb-sidebar-custom-link
+sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900" href=/publication/lalves2017/>Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/rmarti2017/>Differences in cardio-ankle vascular index in a general Mediterranean population depending on the presence or absence of metabolic cardiovascular risk factors</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/azamora2017a/>Familial hypercholesterolemia in a european mediterranean population. Prevalence and clinical data from 2.5 million primary care patients</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/aponjoan2017/>Effects of extreme temperatures on cardiovascular emergency hospitalizations in a Mediterranean region: a self-controlled case series study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mcomas2016/>Log-ratio methods in mixture models for compositional data sets</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/rramos2016b/>Reply: Peripheral Artery Disease and Atrial Fibrillation: The Dangerous Combination</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mmgarcia2016b/>Role of renal function in cardiovascular risk assessment: A retrospective cohort study in a population with low incidence of coronary heart disease</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/lalves2016/>Diabetes and new-onset atrial fibrillation in a hypertensive population</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/rramos2016/>Statins for prevention of cardiovascular events in a low-risk population with low ankle brachial index</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mmgarcia2016a/>Patterns of statin use and cholesterol goal attainment in a high risk cardiovascular population: a retrospective study of primary care electronic medical records</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/faguero2015/>Prevalence of lower extremity peripheral arterial disease in individuals with chronic immune mediated inflammatory disorders</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/lalves2015/>Incident atrial fibrillation hazard in hypertensive population: A risk function from and for clinical practice</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mmgarcia2015/>Linking of primary care records to census data to study the association between socioeconomic status and cancer incidence in Southern Europe: A nation-Wide ecological study</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/aponjoan2014/>Derivation and validation of BOREAS, a risk score identifying candidates to develop cold-induced hypertension</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/key2013/>Estimating the risk of peripheral artery disease using different population strategies</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/publication/mcomas2009/>Vertex fusion under distance constraints</a></li></ul></div></li><li><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/>Talks
+<span data-hb-sidebar-toggle><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"/></svg></span></a><div class="ltr:pr-0 overflow-hidden"><ul class=hb-sidebar-list><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_1/>Gaussian zero replacement method for compositional count data sets</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_2/>Model-based zero replacement method for compositional count data sets</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/portugal_1/>Clustering count data using compositional methods</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_3/>A new approach for approximating the parameters of a log-ratio-normal-multinomial distribution</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/france_1/>Clustering count data using compositional methods</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_4/>Método composicional para la agrupación paramétrica de datos de conteo multivariantes</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/greece_1/>A log-ratio approach to cluster analysis of count data when the total is irrelevant</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_5/>A compositional approach to the generalised propensity score</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_6/>Could logratio methods be useful to analise the generalized propensity score?</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/romania_1/>Dealing with count zeros in compositional data analysis using the logratio-normal-multinomial distribution</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_8/>Tratamiento de ceros en datos composicionales de cuentas usando la distribución log-cociente normal-multinomial</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_7/>Una aproximación composicional a la puntuación generalizada a la propensión a tratamiento</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_9/>Estimating the parameters of a logistic-normal-multinomial distribution</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/japan_1/>Model-based clustering of count data based on the logistic-normal-multinomial distribution</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/italy_1/>Maximum likelihood estimation for the logistic-normal-multinomial distribution</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_10/>Causas del aumento de supervivencia en la última década en el carcinoma broncopulmonar quirúrgico</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_11/>A parametric approach to count data in compositional data sets</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_12/>Minimización de sesgos en una cohorte: efectividad de las estatinas en prevención primaria cardiovascular</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/italy_2/>Palaeoenvironmental reconstructions through compositional data analysis: the CoDaMAT method</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/uk_1/>A parametric approach to count zeros imputation in compositional data sets</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_13/>Un enfoque paramétrico para el tratamiento de ceros de conteo en conjuntos de datos composicionales</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_14/>Aproximación a la epidemiologia de la hipercolesterolemia familiar en base a la evidencia en la práctica clínica real</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/germany_1/>Finite mixtures of distributions: compositional model-based clustering</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/italy_3/>An integrated formulation for merging mixtures components based on posterior probabilities</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_15/>A compositional approach for merging finite mixture components</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_16/>Merging classes</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_17/>Intermediate risk population: Lifestyles and arterial stiffness</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/uk_2/>Compositional entropies in model based clustering</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_18/>Técnicas composicionales aplicadas a los datos de una encuesta del empleo del tiempo.</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/scotland_1/>Atrial fibrillation incidence and its hazard in the hypertensive population: a risk prediction function from and for clinical practice</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/the-netherlands_1/>Logratio Methodology Applied To Model-Based Clustering</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/austria_1/>Model-based clustering via Gaussian mixture models: a compositional sensitivity analysis</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_19/>Model-based clustering via Gaussian mixture models for compositional data: protein consumption in Europe</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_20/>CoDaPack: A tool for compositional data analysis</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_22/>CoDaPack 2.0: a stand-alone, multi-platform compositional software</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_21/>Compositional Random Data: a routine for CoDaPack</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/czech-republic_1/>A Kernel for Convex Recoloring of Weighted Forests</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_23/>A coloring characterization for graph cover problems</a></li><li class="flex flex-col"><a class="hb-sidebar-custom-link
+text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50" href=/talk/spain_24/>Vertex fusion under diameter constraints</a></li></ul></div></li></ul><div class="max-xl:hidden h-0 w-64 shrink-0"></div></div></aside><nav class="hb-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents"><div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4">
+    
+    
+  </div></nav><article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]"><main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12"><h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100" data-pagefind-meta=title data-pagefind-body>Statins and new-onset atrial fibrillation in a cohort of patients with hypertension. Analysis of electronic health records, 2006-2015</h1><div class="mt-4 mb-16"><div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class=mr-1>Oct 26, 2017</span><span class=mx-1>·</span><div class="group inline-flex items-center text-current gap-x-1.5 mx-1"><div>Lia Alves-i-Cabratosa</div></div><span class=mr-1>,</span><div class="group inline-flex items-center text-current gap-x-1.5 mx-1"><div>Maria del Mar García-Gil</div></div><div class="group inline-flex items-center text-current gap-x-1.5 mx-1"><img src=/media/authors/me_hu_970ff19813b83377.webp width=16 height=16 alt="Marc Comas-Cufí" class="inline-block h-4 w-4 rounded-full border border-current" loading=lazy><div>Marc Comas-Cufí</div></div><span class=mr-1>,</span><div class="group inline-flex items-center text-current gap-x-1.5 mx-1"><div>Anna Ponjoan</div></div><span class=mr-1>,</span><div class="group inline-flex items-center text-current gap-x-1.5 mx-1"><div>Ruth Martí-Lluch</div></div><span class=mr-1>,</span><div class="group inline-flex items-center text-current gap-x-1.5 mx-1"><div>Dídac Parramon</div></div><span class=mr-1>,</span><div class="group inline-flex items-center text-current gap-x-1.5 mx-1"><div>Jordi Blanch</div></div><span class=mr-1>,</span><div class="group inline-flex items-center text-current gap-x-1.5 mx-1"><div>Marc Elosua-Bayés</div></div><span class=mr-1>,</span><div class="group inline-flex items-center text-current gap-x-1.5 mx-1"><div>Rafel Ramos</div></div><span class=mx-1>·</span>
+<span class=mx-1>0 min read</span></div><div class=mt-3><div><a class="hb-attachment-link hb-attachment-link-large" href=https://doi.org/10.1371/journal.pone.0186972 target=_blank rel=noopener><svg style="height:1em" class="inline-block" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5.0 011.242 7.244l-4.5 4.5a4.5 4.5.0 01-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5.0 00-6.364-6.364l-4.5 4.5a4.5 4.5.0 001.242 7.244"/></svg>
+DOI</a></div></div></div><div class="max-w-prose grid grid-cols-1 md:grid-cols-[200px_auto] gap-4 my-6"><div class="font-bold text-2xl">Type</div><div><a href=/publication_types/article-journal/>Journal article</a></div><div class="font-bold text-2xl">Publication</div><div><em>PLoS ONE, 12(10):e0186972</em></div></div><div class="prose prose-slate lg:prose-xl dark:prose-invert" data-pagefind-body><span data-pagefind-filter=type style=display:none>publications</span></div><time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime=2017-10-26T00:00:00.000Z><span>Last updated on</span>
+Oct 26, 2017</time><div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5"><div class="max-w-prose print:hidden"><section class="flex flex-row flex-wrap justify-center pt-4 text-xl"><a target=_blank rel=noopener class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="https://x.com/intent/tweet?url=https%3A%2F%2Fmcomas.net%2Fpublication%2Flalves2017%2F&amp;text=Statins+and+new-onset+atrial+fibrillation+in+a+cohort+of+patients+with+hypertension.+Analysis+of+electronic+health+records%2C+2006-2015" title=X aria-label=X id=share-link-x><svg style="height:1em" viewBox="0 0 24 24"><path fill="currentColor" d="M14.234 10.162 22.977.0h-2.072l-7.591 8.824L7.251.0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/></svg>
+</a><a target=_blank rel=noopener class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmcomas.net%2Fpublication%2Flalves2017%2F&amp;t=Statins+and+new-onset+atrial+fibrillation+in+a+cohort+of+patients+with+hypertension.+Analysis+of+electronic+health+records%2C+2006-2015" title=Facebook aria-label=Facebook id=share-link-facebook><svg style="height:1em" viewBox="0 0 24 24"><path fill="currentColor" d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401.0.955.042 1.468.103a9 9 0 011.141.195v3.325a9 9 0 00-.653-.036 27 27 0 00-.733-.009c-.707.0-1.259.096-1.675.309a1.7 1.7.0 00-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647"/></svg>
+</a><a target=_blank rel=noopener class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="mailto:?subject=Statins%20and%20new-onset%20atrial%20fibrillation%20in%20a%20cohort%20of%20patients%20with%20hypertension.%20Analysis%20of%20electronic%20health%20records%2C%202006-2015&amp;body=https:%2F%2Fmcomas.net%2Fpublication%2Flalves2017%2F" title=Email aria-label=Email id=share-link-email><svg style="height:1em" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16.5 12a4.5 4.5.0 11-9 0 4.5 4.5.0 019 0m0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 10-2.636 6.364M16.5 12V8.25"/></svg>
+</a><a target=_blank rel=noopener class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmcomas.net%2Fpublication%2Flalves2017%2F&amp;title=Statins+and+new-onset+atrial+fibrillation+in+a+cohort+of+patients+with+hypertension.+Analysis+of+electronic+health+records%2C+2006-2015" title=LinkedIn aria-label=LinkedIn id=share-link-linkedin><svg style="height:1em" viewBox="0 0 24 24"><path fill="currentColor" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853.0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601.0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433A2.06 2.06.0 013.274 5.368a2.064 2.064.0 112.063 2.065m1.782 13.019H3.555V9h3.564zM22.225.0H1.771C.792.0.0.774.0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2.0 22.222.0z"/></svg>
+</a><a target=_blank rel=noopener class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="whatsapp://send?text=Statins+and+new-onset+atrial+fibrillation+in+a+cohort+of+patients+with+hypertension.+Analysis+of+electronic+health+records%2C+2006-2015%20https%3A%2F%2Fmcomas.net%2Fpublication%2Flalves2017%2F" title=WhatsApp aria-label=WhatsApp id=share-link-whatsapp><svg style="height:1em" viewBox="0 0 24 24"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52s.198-.298.298-.497c.099-.198.05-.371-.025-.52s-.669-1.612-.916-2.207c-.242-.579-.487-.5-.669-.51a13 13 0 00-.57-.01c-.198.0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479.0 1.462 1.065 2.875 1.213 3.074s2.096 3.2 5.077 4.487c.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413s.248-1.289.173-1.413c-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87.0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86.0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64.0 5.122 1.03 6.988 2.898a9.82 9.82.0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.82 11.82.0 0012.05.0C5.495.0.16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.9 11.9.0 005.683 1.448h.005c6.554.0 11.89-5.335 11.893-11.893a11.82 11.82.0 00-3.48-8.413"/></svg></a></section><div class="flex pt-12 pb-4"><img class="mr-4 h-24 w-24 rounded-full" srcset="/media/authors/me_hu_88217a07c8f1bb9f.webp 96w, /media/authors/me_hu_b8c98ccc5dee6e2c.webp 192w" sizes=96px src=/media/authors/me_hu_88217a07c8f1bb9f.webp width=96 height=96 alt="Marc Comas-Cufí" loading=lazy><div class=place-self-center><div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">Authors</div><div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300"><span class=inline-block><a href=https://mcomas.net/ class=no-underline>Marc Comas-Cufí</a></span></div><div class="text-sm font-bold text-neutral-700 dark:text-neutral-300">Associate Professor in Statistics</div><div class="text-sm text-neutral-700 dark:text-neutral-300">I work on statistical methods and applied health data analysis, with interests
+in compositional data, multivariate count data, clustering, survival analysis,
+competing risks, and causal inference.</div><div class="text-2xl sm:text-lg pt-1"><div class="flex flex-wrap text-neutral-500 dark:text-neutral-300"><a class="pr-4 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400" style=will-change:transform href=mailto:marc.comas@udg.edu aria-label=At-Symbol><svg style="height:1em" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16.5 12a4.5 4.5.0 11-9 0 4.5 4.5.0 019 0m0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 10-2.636 6.364M16.5 12V8.25"/></svg></a>
+<a class="pr-4 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400" style=will-change:transform href="https://scholar.google.co.uk/citations?user=Zf3RRMIAAAAJ" target=_blank rel=noopener rel="me noopener noreferrer" aria-label=Academicons/Google-Scholar><svg style="height:1em" viewBox="0 0 512 512"><path fill="currentColor" d="M343.759 106.662V79.43L363.524 64h-213.89L20.476 176.274h85.656a82 82 0 00-.219 6.225c0 20.845 7.22 38.087 21.672 51.861 14.453 13.797 32.252 20.648 53.327 20.648 4.923.0 9.75-.368 14.438-1.024-2.907 6.5-4.374 12.523-4.374 18.142.0 9.875 4.499 20.43 13.467 31.642-39.234 2.67-68.061 9.732-86.437 21.163-10.531 6.5-19 14.704-25.39 24.531-6.391 9.9-9.578 20.515-9.578 31.962.0 9.648 2.062 18.336 6.219 26.062 4.156 7.726 9.578 14.07 16.312 18.984 6.718 4.968 14.469 9.101 23.219 12.469 8.734 3.344 17.406 5.718 26.061 7.062A167 167 0 00180.555 448c13.469.0 26.953-1.734 40.547-5.187 13.562-3.485 26.28-8.642 38.171-15.493 11.86-6.805 21.515-16.086 28.922-27.718 7.39-11.68 11.094-24.805 11.094-39.336.0-11.016-2.25-21.039-6.75-30.14-4.468-9.073-9.938-16.542-16.452-22.345-6.501-5.813-13-11.155-19.516-15.968-6.5-4.845-12-9.75-16.468-14.813-4.485-5.046-6.735-10.054-6.735-14.984.0-4.921 1.734-9.672 5.216-14.265 3.455-4.61 7.674-9.048 12.61-13.306 4.937-4.25 9.875-8.968 14.796-14.133 4.922-5.147 9.141-11.827 12.61-20.008 3.485-8.18 5.203-17.445 5.203-27.757.0-13.453-2.547-24.46-7.547-33.314-.594-1.022-1.218-1.803-1.875-3.022l56.907-46.672v17.119c-7.393.93-6.624 5.345-6.624 10.635V245.96c0 5.958 4.875 10.834 10.834 10.834h3.989c5.958.0 10.833-4.875 10.833-10.834V117.293c0-5.277.778-9.688-6.561-10.63m-107.36 222.48c1.14.75 3.704 2.78 7.718 6.038 4.05 3.243 6.797 5.695 8.266 7.414a444 444 0 016.376 7.547c2.813 3.375 4.718 6.304 5.718 8.734q1.5 3.717 3.047 8.946a38.3 38.3.0 011.485 10.562c0 17.048-6.564 29.68-19.656 37.859-13.125 8.18-28.767 12.274-46.938 12.274-9.187.0-18.203-1.093-27.063-3.196-8.843-2.116-17.311-5.336-25.39-9.601-8.078-4.258-14.577-10.204-19.5-17.797-4.938-7.64-7.407-16.415-7.407-26.25.0-10.32 2.797-19.29 8.422-26.906 5.594-7.625 12.938-13.391 22.032-17.315 9.063-3.946 18.25-6.742 27.562-8.398a158 158 0 0128.438-2.555c4.47.0 7.936.25 10.405.696.455.219 3.032 2.07 7.735 5.563 4.704 3.462 7.625 5.595 8.75 6.384zm-3.359-100.579c-7.406 8.86-17.734 13.288-30.953 13.288-11.86.0-22.298-4.764-31.266-14.312-9-9.523-15.422-20.328-19.344-32.43-3.937-12.109-5.906-23.984-5.906-35.648q.002-20.54 10.781-34.976c7.187-9.65 17.5-14.485 30.938-14.485 11.875.0 22.374 5.038 31.437 15.157 9.094 10.085 15.61 21.413 19.517 33.968 3.922 12.54 5.873 24.53 5.873 35.984.0 13.446-3.702 24.61-11.076 33.454z"/></svg></a>
+<a class="pr-4 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400" style=will-change:transform href=https://github.com/mcomas target=_blank rel=noopener rel="me noopener noreferrer" aria-label=Brands/Github><svg style="height:1em" viewBox="0 0 24 24"><path fill="currentColor" d="M12 .297c-6.63.0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577.0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93.0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176.0.0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22.0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22.0 1.606-.015 2.896-.015 3.286.0.315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
+<a class="pr-4 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400" style=will-change:transform href=https://orcid.org/0000-0001-9759-0622 target=_blank rel=noopener rel="me noopener noreferrer" aria-label=Academicons/Orcid><svg style="height:1em" viewBox="0 0 512 512"><path fill="currentColor" d="M336.62 194.538c-7.13-3.328-13.866-5.56-20.253-6.614-6.365-1.095-16.574-1.612-30.71-1.612h-36.704v152.747h37.634c14.673.0 26.081-1.013 34.224-3.017s14.921-4.526 20.356-7.626a69.5 69.5.0 0014.942-11.388c14.488-14.714 21.742-33.273 21.742-55.717.0-22.052-7.44-40.052-22.341-53.982-5.498-5.166-11.822-9.444-18.89-12.793zM256 8C119.022 8 8 119.042 8 256s111.022 248 248 248 248-111.042 248-248S392.978 8 256 8m-82.336 357.513h-29.389V160.148h29.389zM158.95 138.696c-11.14.0-20.213-9.01-20.213-20.212.0-11.118 9.052-20.191 20.213-20.191 11.18.0 20.232 9.052 20.232 20.191a20.194 20.194.0 01-20.232 20.212m241.386 163.597c-5.29 12.545-12.834 23.581-22.65 33.088-9.982 9.837-21.597 17.194-34.844 22.196-7.75 3.017-14.839 5.063-21.307 6.117-6.49 1.013-18.828 1.509-37.076 1.509h-64.956V160.148h69.233c27.962.0 50.034 4.154 66.32 12.545 16.265 8.37 29.181 20.728 38.792 36.972 9.61 16.265 14.425 34.018 14.425 53.196.023 13.765-2.666 26.908-7.936 39.432z"/></svg></a>
+<a class="pr-4 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400" style=will-change:transform href=https://t.me/mcomas target=_blank rel=noopener rel="me noopener noreferrer" aria-label=Brands/Telegram><svg style="height:1em" viewBox="0 0 24 24"><path fill="currentColor" d="M11.944.0A12 12 0 000 12a12 12 0 0012 12 12 12 0 0012-12A12 12 0 0012 0zm4.962 7.224c.1-.002.321.023.465.14a.5.5.0 01.171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024q-.159.037-5.061 3.345-.72.495-1.302.48c-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789q.04-.324.893-.663 5.247-2.286 6.998-3.014c3.332-1.386 4.025-1.627 4.476-1.635"/></svg></a></div></div></div></div><div class="pt-1 no-prose w-full"><hr class="border-dotted border-neutral-300 dark:border-neutral-600"><div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2"><div><a class="group flex no-underline" href=/publication/mcomas2017/><span class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"><span class="ltr:inline rtl:hidden">&larr;</span></span>
+<span class="flex flex-col"><span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500">Merging the components of a finite mixture using posterior probabilities</span>
+<span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">Dec 11, 2017</span></span></a></div><div><a class="group flex text-right no-underline" href=/publication/rmarti2017/><span class="flex flex-col"><span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500">Differences in cardio-ankle vascular index in a general Mediterranean population depending on the presence or absence of metabolic cardiovascular risk factors</span>
+<span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">Sep 1, 2017
+</span></span><span class="mt-[-0.3rem] ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"><span class=ltr:inline>&rarr;</span></span></a></div></div></div></div></div></main></article></div></div><div class=page-footer><footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200"><p class="powered-by text-center">© 2026 Marc Comas-Cufí</p><p class="powered-by text-center text-sm opacity-80 py-1">Made with <a class="underline hover:opacity-100" href="https://hugoblox.com/templates/academic-cv?utm_source=site_footer&utm_medium=referral&utm_campaign=poweredby_oss&utm_content=brand_academic-cv&start=1" target=_blank rel=noopener data-hbx=poweredby_brand>Hugo Blox Kit</a>.
+<a class="inline-flex items-center rounded px-2 py-0.5 border border-current ms-2 text-xs hover:opacity-100" href="https://hugo.chat?utm_source=site_footer&amp;utm_medium=referral&amp;utm_campaign=poweredby_oss&amp;utm_content=cta_academic-cv&amp;template_id=academic-cv" target=_blank rel=noopener data-hbx=poweredby_cta>Build your site →</a></p></footer></div><div id=hb-notification-container class="fixed top-20 right-4 z-[9999] pointer-events-none" aria-live=polite aria-atomic=true></div></body></html>

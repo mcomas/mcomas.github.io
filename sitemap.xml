@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mcomas.net/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://mcomas.net/publication_types/2/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -433,9 +424,6 @@
   </url><url>
     <loc>http://mcomas.net/authors/ruth-mart%C3%AD-lluch/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/publication/alve2025/</loc>
-    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/publication/alves2025/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
@@ -1238,12 +1226,6 @@
     <loc>http://mcomas.net/publication/lmasana2019/</loc>
     <lastmod>2019-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://mcomas.net/authors/albert-franc%C3%A9s/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -1298,26 +1280,11 @@
     <loc>http://mcomas.net/talk/spain_5/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://mcomas.net/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://mcomas.net/talk/spain_6/</loc>
     <lastmod>2019-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/publication/ponjoan2019a/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/publication/lalves2018/</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
@@ -1417,36 +1384,6 @@
   </url><url>
     <loc>http://mcomas.net/talk/spain_14/</loc>
     <lastmod>2016-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://mcomas.net/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://mcomas.net/publication/lalves2016/</loc>
     <lastmod>2016-03-03T00:00:00+00:00</lastmod>
@@ -1574,6 +1511,14 @@
     <loc>http://mcomas.net/talk/spain_24/</loc>
     <lastmod>2007-09-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://mcomas.net/authors/admin/</loc>
+  </url><url>
     <loc>http://mcomas.net/authors/authors/</loc>
+  </url><url>
+    <loc>http://mcomas.net/categories/</loc>
+  </url><url>
+    <loc>http://mcomas.net/post/</loc>
+  </url><url>
+    <loc>http://mcomas.net/tags/</loc>
   </url>
 </urlset>

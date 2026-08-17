@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xavier Manso | mcomas.net</title>
-    <link>http://mcomas.net/authors/xavier-manso/</link>
-      <atom:link href="http://mcomas.net/authors/xavier-manso/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/xavier-manso/</link>
+      <atom:link href="https://mcomas.net/authors/xavier-manso/index.xml" rel="self" type="application/rss+xml" />
     <description>Xavier Manso</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://mcomas.net/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_512x512_fill_lanczos_center_2.png</url>
       <title>Xavier Manso</title>
-      <link>http://mcomas.net/authors/xavier-manso/</link>
+      <link>https://mcomas.net/authors/xavier-manso/</link>
     </image>
     
     <item>
       <title>New Stent Retriever Technology Versus Standard Devices for Anterior Large Vessel Thrombectomy: A Multicenter Study</title>
-      <link>http://mcomas.net/publication/puig2025f/</link>
+      <link>https://mcomas.net/publication/puig2025f/</link>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/puig2025f/</guid>
+      <guid>https://mcomas.net/publication/puig2025f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficacy and safety of CatchView Mini stentriever for mechanical thrombectomy in proximal and distal medium vessel occlusions</title>
-      <link>http://mcomas.net/publication/egonzalez/</link>
+      <link>https://mcomas.net/publication/egonzalez/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/egonzalez/</guid>
+      <guid>https://mcomas.net/publication/egonzalez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mechanical thrombectomy failure in anterior circulation large vessel occlusion: an overview from the Rossetti registry</title>
-      <link>http://mcomas.net/publication/llmorales2025/</link>
+      <link>https://mcomas.net/publication/llmorales2025/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/llmorales2025/</guid>
+      <guid>https://mcomas.net/publication/llmorales2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing the First-Pass Effect in Acute Stroke: The Impact of Stent Retriever Characteristics</title>
-      <link>http://mcomas.net/publication/emurias2024/</link>
+      <link>https://mcomas.net/publication/emurias2024/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/emurias2024/</guid>
+      <guid>https://mcomas.net/publication/emurias2024/</guid>
       <description></description>
     </item>
     

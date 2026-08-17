@@ -2,15 +2,3078 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | mcomas.net</title>
-    <link>http://mcomas.net/authors/</link>
-      <atom:link href="http://mcomas.net/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/</link>
+      <atom:link href="https://mcomas.net/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://mcomas.net/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>http://mcomas.net/authors/</link>
+      <link>https://mcomas.net/authors/</link>
     </image>
+    
+    <item>
+      <title>Anton Obrador</title>
+      <link>https://mcomas.net/authors/anton-obrador/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anton-obrador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emili Marco</title>
+      <link>https://mcomas.net/authors/emili-marco/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/emili-marco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Rojas</title>
+      <link>https://mcomas.net/authors/eric-rojas/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/eric-rojas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imma Castellà Daga</title>
+      <link>https://mcomas.net/authors/imma-castell%C3%A0-daga/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/imma-castell%C3%A0-daga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Bonnin-Vilaplana</title>
+      <link>https://mcomas.net/authors/marc-bonnin-vilaplana/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marc-bonnin-vilaplana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Comas-Cufí</title>
+      <link>https://mcomas.net/authors/marc-comas-cuf%C3%AD/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marc-comas-cuf%C3%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercè Salvans</title>
+      <link>https://mcomas.net/authors/merc%C3%A8-salvans/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/merc%C3%A8-salvans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafel Ramos</title>
+      <link>https://mcomas.net/authors/rafel-ramos/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/rafel-ramos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramon Orriols</title>
+      <link>https://mcomas.net/authors/ramon-orriols/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ramon-orriols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xavier Espuña</title>
+      <link>https://mcomas.net/authors/xavier-espu%C3%B1a/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/xavier-espu%C3%B1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberto Álvarez-Muelas</title>
+      <link>https://mcomas.net/authors/alberto-%C3%A1lvarez-muelas/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alberto-%C3%A1lvarez-muelas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Morgado-Pérez</title>
+      <link>https://mcomas.net/authors/andrea-morgado-p%C3%A9rez/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/andrea-morgado-p%C3%A9rez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrés Fernández-Prieto</title>
+      <link>https://mcomas.net/authors/andr%C3%A9s-fern%C3%A1ndez-prieto/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/andr%C3%A9s-fern%C3%A1ndez-prieto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrés Javier Barrios</title>
+      <link>https://mcomas.net/authors/andr%C3%A9s-javier-barrios/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/andr%C3%A9s-javier-barrios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anira Escrichs</title>
+      <link>https://mcomas.net/authors/anira-escrichs/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anira-escrichs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blanca Fuentes</title>
+      <link>https://mcomas.net/authors/blanca-fuentes/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/blanca-fuentes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carles Biarnes</title>
+      <link>https://mcomas.net/authors/carles-biarnes/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carles-biarnes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristina Utrilla</title>
+      <link>https://mcomas.net/authors/cristina-utrilla/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/cristina-utrilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elena de la Calle</title>
+      <link>https://mcomas.net/authors/elena-de-la-calle/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/elena-de-la-calle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esther Duarte</title>
+      <link>https://mcomas.net/authors/esther-duarte/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/esther-duarte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaume Capellades</title>
+      <link>https://mcomas.net/authors/jaume-capellades/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jaume-capellades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Puig</title>
+      <link>https://mcomas.net/authors/josep-puig/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-puig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kambiz Nael</title>
+      <link>https://mcomas.net/authors/kambiz-nael/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/kambiz-nael/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luca Saba</title>
+      <link>https://mcomas.net/authors/luca-saba/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/luca-saba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marian Martí-Navas</title>
+      <link>https://mcomas.net/authors/marian-mart%C3%AD-navas/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marian-mart%C3%AD-navas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Ramírez-Torres</title>
+      <link>https://mcomas.net/authors/miguel-ram%C3%ADrez-torres/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/miguel-ram%C3%ADrez-torres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikel Terceño</title>
+      <link>https://mcomas.net/authors/mikel-terce%C3%B1o/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mikel-terce%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro Navia</title>
+      <link>https://mcomas.net/authors/pedro-navia/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/pedro-navia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pepus Daunis-i-Estadella</title>
+      <link>https://mcomas.net/authors/pepus-daunis-i-estadella/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/pepus-daunis-i-estadella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remedios Frutos</title>
+      <link>https://mcomas.net/authors/remedios-frutos/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/remedios-frutos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvador Pedraza</title>
+      <link>https://mcomas.net/authors/salvador-pedraza/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/salvador-pedraza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santiago Medrano</title>
+      <link>https://mcomas.net/authors/santiago-medrano/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/santiago-medrano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Pineda</title>
+      <link>https://mcomas.net/authors/victor-pineda/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/victor-pineda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yolanda Silva</title>
+      <link>https://mcomas.net/authors/yolanda-silva/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/yolanda-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aida Niñerola-Baizán</title>
+      <link>https://mcomas.net/authors/aida-ni%C3%B1erola-baiz%C3%A1n/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/aida-ni%C3%B1erola-baiz%C3%A1n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arnau Farré-Melero</title>
+      <link>https://mcomas.net/authors/arnau-farr%C3%A9-melero/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/arnau-farr%C3%A9-melero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camilo Pineda-Ibarra</title>
+      <link>https://mcomas.net/authors/camilo-pineda-ibarra/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/camilo-pineda-ibarra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Alejandro Reyes-Barrios</title>
+      <link>https://mcomas.net/authors/daniel-alejandro-reyes-barrios/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/daniel-alejandro-reyes-barrios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diego Nuñez-Leiva</title>
+      <link>https://mcomas.net/authors/diego-nu%C3%B1ez-leiva/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/diego-nu%C3%B1ez-leiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iban Aldecoa</title>
+      <link>https://mcomas.net/authors/iban-aldecoa/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/iban-aldecoa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose Carlos Pariente</title>
+      <link>https://mcomas.net/authors/jose-carlos-pariente/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jose-carlos-pariente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Mora</title>
+      <link>https://mcomas.net/authors/juan-mora/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-mora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Oleaga</title>
+      <link>https://mcomas.net/authors/laura-oleaga/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/laura-oleaga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santiago Medrano-Martorell</title>
+      <link>https://mcomas.net/authors/santiago-medrano-martorell/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/santiago-medrano-martorell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sofia González-Ortiz</title>
+      <link>https://mcomas.net/authors/sofia-gonz%C3%A1lez-ortiz/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/sofia-gonz%C3%A1lez-ortiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yensa Rodríguez</title>
+      <link>https://mcomas.net/authors/yensa-rodr%C3%ADguez/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/yensa-rodr%C3%ADguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alejandro Sanchis</title>
+      <link>https://mcomas.net/authors/alejandro-sanchis/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alejandro-sanchis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alejandro Tomasello</title>
+      <link>https://mcomas.net/authors/alejandro-tomasello/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alejandro-tomasello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfonso Lopez-Frías</title>
+      <link>https://mcomas.net/authors/alfonso-lopez-fr%C3%ADas/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alfonso-lopez-fr%C3%ADas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Pico-Tomàs</title>
+      <link>https://mcomas.net/authors/anna-pico-tom%C3%A0s/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anna-pico-tom%C3%A0s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Lopez-Rueda</title>
+      <link>https://mcomas.net/authors/antonio-lopez-rueda/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/antonio-lopez-rueda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Sagredo-Barra</title>
+      <link>https://mcomas.net/authors/antonio-sagredo-barra/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/antonio-sagredo-barra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carles M. Borrego</title>
+      <link>https://mcomas.net/authors/carles-m.-borrego/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carles-m.-borrego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Castaño</title>
+      <link>https://mcomas.net/authors/carlos-casta%C3%B1o/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carlos-casta%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristina Mejías-Molina</title>
+      <link>https://mcomas.net/authors/cristina-mej%C3%ADas-molina/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/cristina-mej%C3%ADas-molina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Murias</title>
+      <link>https://mcomas.net/authors/eduardo-murias/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/eduardo-murias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elvira Jimenez-Gomez</title>
+      <link>https://mcomas.net/authors/elvira-jimenez-gomez/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/elvira-jimenez-gomez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eva González</title>
+      <link>https://mcomas.net/authors/eva-gonz%C3%A1lez/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/eva-gonz%C3%A1lez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Aparici-Robles</title>
+      <link>https://mcomas.net/authors/fernando-aparici-robles/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/fernando-aparici-robles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guillem Dolz</title>
+      <link>https://mcomas.net/authors/guillem-dolz/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/guillem-dolz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helena Torrell</title>
+      <link>https://mcomas.net/authors/helena-torrell/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/helena-torrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabel Bravo</title>
+      <link>https://mcomas.net/authors/isabel-bravo/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/isabel-bravo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Martínez-Fernández</title>
+      <link>https://mcomas.net/authors/javier-mart%C3%ADnez-fern%C3%A1ndez/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/javier-mart%C3%ADnez-fern%C3%A1ndez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Blasco</title>
+      <link>https://mcomas.net/authors/jordi-blasco/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jordi-blasco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>José Carlos Méndez</title>
+      <link>https://mcomas.net/authors/jos%C3%A9-carlos-m%C3%A9ndez/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jos%C3%A9-carlos-m%C3%A9ndez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>José Díaz-Pérez</title>
+      <link>https://mcomas.net/authors/jos%C3%A9-d%C3%ADaz-p%C3%A9rez/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jos%C3%A9-d%C3%ADaz-p%C3%A9rez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>José Luis Bálcazar</title>
+      <link>https://mcomas.net/authors/jos%C3%A9-luis-b%C3%A1lcazar/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jos%C3%A9-luis-b%C3%A1lcazar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Carlos Llibre</title>
+      <link>https://mcomas.net/authors/juan-carlos-llibre/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-carlos-llibre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Manuel Sanchis-García</title>
+      <link>https://mcomas.net/authors/juan-manuel-sanchis-garc%C3%ADa/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-manuel-sanchis-garc%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lluís Corominas</title>
+      <link>https://mcomas.net/authors/llu%C3%ADs-corominas/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/llu%C3%ADs-corominas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis San Roman</title>
+      <link>https://mcomas.net/authors/luis-san-roman/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/luis-san-roman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel Moreu</title>
+      <link>https://mcomas.net/authors/manuel-moreu/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/manuel-moreu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariano Werner</title>
+      <link>https://mcomas.net/authors/mariano-werner/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mariano-werner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Núria Canela</title>
+      <link>https://mcomas.net/authors/n%C3%BAria-canela/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/n%C3%BAria-canela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro Vega</title>
+      <link>https://mcomas.net/authors/pedro-vega/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/pedro-vega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastià Remollo</title>
+      <link>https://mcomas.net/authors/sebasti%C3%A0-remollo/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/sebasti%C3%A0-remollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sílvia Bofill-Mas</title>
+      <link>https://mcomas.net/authors/s%C3%ADlvia-bofill-mas/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/s%C3%ADlvia-bofill-mas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Víctor Cuba</title>
+      <link>https://mcomas.net/authors/v%C3%ADctor-cuba/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/v%C3%ADctor-cuba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xavier Manso</title>
+      <link>https://mcomas.net/authors/xavier-manso/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/xavier-manso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeray Aguilar</title>
+      <link>https://mcomas.net/authors/yeray-aguilar/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/yeray-aguilar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Óscar Chirife</title>
+      <link>https://mcomas.net/authors/%C3%B3scar-chirife/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/%C3%B3scar-chirife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Mosqueira Martínez</title>
+      <link>https://mcomas.net/authors/antonio-mosqueira-mart%C3%ADnez/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/antonio-mosqueira-mart%C3%ADnez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Domínguez</title>
+      <link>https://mcomas.net/authors/carlos-dom%C3%ADnguez/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carlos-dom%C3%ADnguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Hidalgo-Barranco</title>
+      <link>https://mcomas.net/authors/carlos-hidalgo-barranco/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carlos-hidalgo-barranco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Manuel Rodriguez-Paz</title>
+      <link>https://mcomas.net/authors/carlos-manuel-rodriguez-paz/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carlos-manuel-rodriguez-paz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Pérez-García</title>
+      <link>https://mcomas.net/authors/carlos-p%C3%A9rez-garc%C3%ADa/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carlos-p%C3%A9rez-garc%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carmen de la Rosa</title>
+      <link>https://mcomas.net/authors/carmen-de-la-rosa/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carmen-de-la-rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristian Ormeño Anturiano</title>
+      <link>https://mcomas.net/authors/cristian-orme%C3%B1o-anturiano/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/cristian-orme%C3%B1o-anturiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eñaut Garmendia</title>
+      <link>https://mcomas.net/authors/e%C3%B1aut-garmendia/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/e%C3%B1aut-garmendia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabel Bermúdez-Coronel</title>
+      <link>https://mcomas.net/authors/isabel-berm%C3%BAdez-coronel/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/isabel-berm%C3%BAdez-coronel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Maynar</title>
+      <link>https://mcomas.net/authors/javier-maynar/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/javier-maynar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joaquin Ortega-Quintanilla</title>
+      <link>https://mcomas.net/authors/joaquin-ortega-quintanilla/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joaquin-ortega-quintanilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joaquín Zamarro</title>
+      <link>https://mcomas.net/authors/joaqu%C3%ADn-zamarro/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joaqu%C3%ADn-zamarro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose-Luis Díaz-Valiño</title>
+      <link>https://mcomas.net/authors/jose-luis-d%C3%ADaz-vali%C3%B1o/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jose-luis-d%C3%ADaz-vali%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Chaviano</title>
+      <link>https://mcomas.net/authors/juan-chaviano/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-chaviano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan David Molina-Nuevo</title>
+      <link>https://mcomas.net/authors/juan-david-molina-nuevo/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-david-molina-nuevo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Vega-Villar</title>
+      <link>https://mcomas.net/authors/juan-vega-villar/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-vega-villar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mario Martínez-Galdamez</title>
+      <link>https://mcomas.net/authors/mario-mart%C3%ADnez-galdamez/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mario-mart%C3%ADnez-galdamez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oscar Balboa</title>
+      <link>https://mcomas.net/authors/oscar-balboa/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/oscar-balboa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebeca Bermejo-Garcés</title>
+      <link>https://mcomas.net/authors/rebeca-bermejo-garc%C3%A9s/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/rebeca-bermejo-garc%C3%A9s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Maestro</title>
+      <link>https://mcomas.net/authors/victor-maestro/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/victor-maestro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ángel Calleja</title>
+      <link>https://mcomas.net/authors/%C3%A1ngel-calleja/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/%C3%A1ngel-calleja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreu Ivars</title>
+      <link>https://mcomas.net/authors/andreu-ivars/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/andreu-ivars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blanca Paño</title>
+      <link>https://mcomas.net/authors/blanca-pa%C3%B1o/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/blanca-pa%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Nicolau</title>
+      <link>https://mcomas.net/authors/carlos-nicolau/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carlos-nicolau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carmen Sebastià</title>
+      <link>https://mcomas.net/authors/carmen-sebasti%C3%A0/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carmen-sebasti%C3%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clara Bassaganyas</title>
+      <link>https://mcomas.net/authors/clara-bassaganyas/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/clara-bassaganyas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo Rodriguez-Carunchio</title>
+      <link>https://mcomas.net/authors/leonardo-rodriguez-carunchio/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/leonardo-rodriguez-carunchio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>María Fresno</title>
+      <link>https://mcomas.net/authors/mar%C3%ADa-fresno/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mar%C3%ADa-fresno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belinda Salinas</title>
+      <link>https://mcomas.net/authors/belinda-salinas/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/belinda-salinas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ignacio Asiain</title>
+      <link>https://mcomas.net/authors/ignacio-asiain/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ignacio-asiain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>María Muní</title>
+      <link>https://mcomas.net/authors/mar%C3%ADa-mun%C3%AD/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mar%C3%ADa-mun%C3%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meritxell Costa</title>
+      <link>https://mcomas.net/authors/meritxell-costa/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/meritxell-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Salvador</title>
+      <link>https://mcomas.net/authors/rafael-salvador/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/rafael-salvador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valèria Richart</title>
+      <link>https://mcomas.net/authors/val%C3%A8ria-richart/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/val%C3%A8ria-richart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Ponjoan</title>
+      <link>https://mcomas.net/authors/anna-ponjoan/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anna-ponjoan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carles López</title>
+      <link>https://mcomas.net/authors/carles-l%C3%B3pez/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carles-l%C3%B3pez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elisabet Balló</title>
+      <link>https://mcomas.net/authors/elisabet-ball%C3%B3/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/elisabet-ball%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Tornabell-Noguera</title>
+      <link>https://mcomas.net/authors/eric-tornabell-noguera/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/eric-tornabell-noguera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesc Ribas-Aulinas</title>
+      <link>https://mcomas.net/authors/francesc-ribas-aulinas/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/francesc-ribas-aulinas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gina Dominguez-Armengol</title>
+      <link>https://mcomas.net/authors/gina-dominguez-armengol/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/gina-dominguez-armengol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Blanch</title>
+      <link>https://mcomas.net/authors/jordi-blanch/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jordi-blanch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lia Alves-i-Cabratosa</title>
+      <link>https://mcomas.net/authors/lia-alves-i-cabratosa/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/lia-alves-i-cabratosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lluís Zacarias-Pons</title>
+      <link>https://mcomas.net/authors/llu%C3%ADs-zacarias-pons/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/llu%C3%ADs-zacarias-pons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria del Mar García-Gil</title>
+      <link>https://mcomas.net/authors/maria-del-mar-garc%C3%ADa-gil/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-del-mar-garc%C3%ADa-gil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruth Martí-Lluch</title>
+      <link>https://mcomas.net/authors/ruth-mart%C3%AD-lluch/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ruth-mart%C3%AD-lluch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lidia Guzmán</title>
+      <link>https://mcomas.net/authors/lidia-guzm%C3%A1n/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/lidia-guzm%C3%A1n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luís Garcia</title>
+      <link>https://mcomas.net/authors/lu%C3%ADs-garcia/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/lu%C3%ADs-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberto Martínez-Calvo</title>
+      <link>https://mcomas.net/authors/alberto-mart%C3%ADnez-calvo/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alberto-mart%C3%ADnez-calvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfonso González-Cruz</title>
+      <link>https://mcomas.net/authors/alfonso-gonz%C3%A1lez-cruz/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alfonso-gonz%C3%A1lez-cruz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antoni Boscà</title>
+      <link>https://mcomas.net/authors/antoni-bosc%C3%A0/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/antoni-bosc%C3%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Lorenzo</title>
+      <link>https://mcomas.net/authors/antonio-lorenzo/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/antonio-lorenzo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Armando Rodríguez-Benítez</title>
+      <link>https://mcomas.net/authors/armando-rodr%C3%ADguez-ben%C3%ADtez/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/armando-rodr%C3%ADguez-ben%C3%ADtez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Cubillo-Prieto</title>
+      <link>https://mcomas.net/authors/daniel-cubillo-prieto/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/daniel-cubillo-prieto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joaquín Gil</title>
+      <link>https://mcomas.net/authors/joaqu%C3%ADn-gil/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joaqu%C3%ADn-gil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose Ignacio Gallego</title>
+      <link>https://mcomas.net/authors/jose-ignacio-gallego/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jose-ignacio-gallego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose Luis Caniego</title>
+      <link>https://mcomas.net/authors/jose-luis-caniego/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jose-luis-caniego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan García-Villanego</title>
+      <link>https://mcomas.net/authors/juan-garc%C3%ADa-villanego/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-garc%C3%ADa-villanego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Corominas</title>
+      <link>https://mcomas.net/authors/daniel-corominas/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/daniel-corominas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Héctor Alfambra</title>
+      <link>https://mcomas.net/authors/h%C3%A9ctor-alfambra/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/h%C3%A9ctor-alfambra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lledó Cabedo</title>
+      <link>https://mcomas.net/authors/lled%C3%B3-cabedo/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/lled%C3%B3-cabedo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergio Jiménez-Serrano</title>
+      <link>https://mcomas.net/authors/sergio-jim%C3%A9nez-serrano/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/sergio-jim%C3%A9nez-serrano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Cruz-Culebras</title>
+      <link>https://mcomas.net/authors/antonio-cruz-culebras/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/antonio-cruz-culebras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaime Masjuán</title>
+      <link>https://mcomas.net/authors/jaime-masju%C3%A1n/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jaime-masju%C3%A1n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Blázquez</title>
+      <link>https://mcomas.net/authors/javier-bl%C3%A1zquez/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/javier-bl%C3%A1zquez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>María Antonia Prieto</title>
+      <link>https://mcomas.net/authors/mar%C3%ADa-antonia-prieto/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mar%C3%ADa-antonia-prieto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teresa Díaz</title>
+      <link>https://mcomas.net/authors/teresa-d%C3%ADaz/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/teresa-d%C3%ADaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gladis Sabater-Talaverano</title>
+      <link>https://mcomas.net/authors/gladis-sabater-talaverano/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/gladis-sabater-talaverano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Carlos Calderón-López</title>
+      <link>https://mcomas.net/authors/juan-carlos-calder%C3%B3n-l%C3%B3pez/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-carlos-calder%C3%B3n-l%C3%B3pez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saioa Eizaguirre-Anton</title>
+      <link>https://mcomas.net/authors/saioa-eizaguirre-anton/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/saioa-eizaguirre-anton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonia Belda</title>
+      <link>https://mcomas.net/authors/sonia-belda/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/sonia-belda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alain Luna</title>
+      <link>https://mcomas.net/authors/alain-luna/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alain-luna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alan Flores</title>
+      <link>https://mcomas.net/authors/alan-flores/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alan-flores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alejandra Gómez</title>
+      <link>https://mcomas.net/authors/alejandra-g%C3%B3mez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alejandra-g%C3%B3mez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alejandro Gonzalez</title>
+      <link>https://mcomas.net/authors/alejandro-gonzalez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alejandro-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Jon Aguinaga</title>
+      <link>https://mcomas.net/authors/alexander-jon-aguinaga/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alexander-jon-aguinaga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrés Hermosín</title>
+      <link>https://mcomas.net/authors/andr%C3%A9s-hermos%C3%ADn/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/andr%C3%A9s-hermos%C3%ADn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrés Paipa</title>
+      <link>https://mcomas.net/authors/andr%C3%A9s-paipa/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/andr%C3%A9s-paipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anotnio Doncel-Moriano</title>
+      <link>https://mcomas.net/authors/anotnio-doncel-moriano/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anotnio-doncel-moriano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asier de Albóniga-Chindurza</title>
+      <link>https://mcomas.net/authors/asier-de-alb%C3%B3niga-chindurza/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/asier-de-alb%C3%B3niga-chindurza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blanca Pardo-Galiana</title>
+      <link>https://mcomas.net/authors/blanca-pardo-galiana/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/blanca-pardo-galiana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Martínez</title>
+      <link>https://mcomas.net/authors/carlos-mart%C3%ADnez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carlos-mart%C3%ADnez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concha Herrera</title>
+      <link>https://mcomas.net/authors/concha-herrera/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/concha-herrera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covadonga Fernández</title>
+      <link>https://mcomas.net/authors/covadonga-fern%C3%A1ndez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/covadonga-fern%C3%A1ndez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristina Calderón-Cabrera</title>
+      <link>https://mcomas.net/authors/cristina-calder%C3%B3n-cabrera/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/cristina-calder%C3%B3n-cabrera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diego Villagran</title>
+      <link>https://mcomas.net/authors/diego-villagran/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/diego-villagran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Aguera-Morales</title>
+      <link>https://mcomas.net/authors/eduardo-aguera-morales/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/eduardo-aguera-morales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elena Zapata-Arriaza</title>
+      <link>https://mcomas.net/authors/elena-zapata-arriaza/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/elena-zapata-arriaza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enric Ripoll</title>
+      <link>https://mcomas.net/authors/enric-ripoll/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/enric-ripoll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Delgado</title>
+      <link>https://mcomas.net/authors/fernando-delgado/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/fernando-delgado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Sánchez</title>
+      <link>https://mcomas.net/authors/fernando-s%C3%A1nchez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/fernando-s%C3%A1nchez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisco Moniche</title>
+      <link>https://mcomas.net/authors/francisco-moniche/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/francisco-moniche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gonzalo de Paco</title>
+      <link>https://mcomas.net/authors/gonzalo-de-paco/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/gonzalo-de-paco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guillermo Parrilla</title>
+      <link>https://mcomas.net/authors/guillermo-parrilla/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/guillermo-parrilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion Labayen</title>
+      <link>https://mcomas.net/authors/ion-labayen/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ion-labayen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iratxe Ugarriza</title>
+      <link>https://mcomas.net/authors/iratxe-ugarriza/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/iratxe-ugarriza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabel Gutierrez</title>
+      <link>https://mcomas.net/authors/isabel-gutierrez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/isabel-gutierrez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabel Rodríguez-Caamaño</title>
+      <link>https://mcomas.net/authors/isabel-rodr%C3%ADguez-caama%C3%B1o/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/isabel-rodr%C3%ADguez-caama%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabel Vielba-Gómez</title>
+      <link>https://mcomas.net/authors/isabel-vielba-g%C3%B3mez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/isabel-vielba-g%C3%B3mez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Montaner</title>
+      <link>https://mcomas.net/authors/joan-montaner/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joan-montaner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon Fondevila</title>
+      <link>https://mcomas.net/authors/jon-fondevila/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jon-fondevila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose Carlos Rayon-Aledo</title>
+      <link>https://mcomas.net/authors/jose-carlos-rayon-aledo/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jose-carlos-rayon-aledo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Antonio Cabezas-Rodriguez</title>
+      <link>https://mcomas.net/authors/juan-antonio-cabezas-rodriguez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-antonio-cabezas-rodriguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Ignacio García-García</title>
+      <link>https://mcomas.net/authors/juan-ignacio-garc%C3%ADa-garc%C3%ADa/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-ignacio-garc%C3%ADa-garc%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Álvarez-Cienfuegos</title>
+      <link>https://mcomas.net/authors/juan-%C3%A1lvarez-cienfuegos/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-%C3%A1lvarez-cienfuegos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leire Ainz-Gomez</title>
+      <link>https://mcomas.net/authors/leire-ainz-gomez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/leire-ainz-gomez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lluís Morales-Caba</title>
+      <link>https://mcomas.net/authors/llu%C3%ADs-morales-caba/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/llu%C3%ADs-morales-caba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucia Aja</title>
+      <link>https://mcomas.net/authors/lucia-aja/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/lucia-aja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis Hernán Vargas</title>
+      <link>https://mcomas.net/authors/luis-hern%C3%A1n-vargas/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/luis-hern%C3%A1n-vargas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel Medina-Rodriguez</title>
+      <link>https://mcomas.net/authors/manuel-medina-rodriguez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/manuel-medina-rodriguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marimar Freijo</title>
+      <link>https://mcomas.net/authors/marimar-freijo/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marimar-freijo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marta Aguilar-Perez</title>
+      <link>https://mcomas.net/authors/marta-aguilar-perez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marta-aguilar-perez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Angel Gamero</title>
+      <link>https://mcomas.net/authors/miguel-angel-gamero/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/miguel-angel-gamero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Castaño</title>
+      <link>https://mcomas.net/authors/miguel-casta%C3%B1o/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/miguel-casta%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Baena-Palomino</title>
+      <link>https://mcomas.net/authors/pablo-baena-palomino/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/pablo-baena-palomino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pilar Piñero</title>
+      <link>https://mcomas.net/authors/pilar-pi%C3%B1ero/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/pilar-pi%C3%B1ero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Ocete-Perez</title>
+      <link>https://mcomas.net/authors/rafael-ocete-perez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/rafael-ocete-perez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Oteros</title>
+      <link>https://mcomas.net/authors/rafael-oteros/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/rafael-oteros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Valverde</title>
+      <link>https://mcomas.net/authors/roberto-valverde/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/roberto-valverde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rosario Jimenez</title>
+      <link>https://mcomas.net/authors/rosario-jimenez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/rosario-jimenez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saima Bashir</title>
+      <link>https://mcomas.net/authors/saima-bashir/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/saima-bashir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santiago Rosati</title>
+      <link>https://mcomas.net/authors/santiago-rosati/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/santiago-rosati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonia Nogueras</title>
+      <link>https://mcomas.net/authors/sonia-nogueras/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/sonia-nogueras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sònia Aixut</title>
+      <link>https://mcomas.net/authors/s%C3%B2nia-aixut/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/s%C3%B2nia-aixut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomàs Xuclà</title>
+      <link>https://mcomas.net/authors/tom%C3%A0s-xucl%C3%A0/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/tom%C3%A0s-xucl%C3%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomás Pérez</title>
+      <link>https://mcomas.net/authors/tom%C3%A1s-p%C3%A9rez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/tom%C3%A1s-p%C3%A9rez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vanesa Martin</title>
+      <link>https://mcomas.net/authors/vanesa-martin/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/vanesa-martin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veredas Romero</title>
+      <link>https://mcomas.net/authors/veredas-romero/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/veredas-romero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virginia Escamilla-Gomez</title>
+      <link>https://mcomas.net/authors/virginia-escamilla-gomez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/virginia-escamilla-gomez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Víctor Vázquez</title>
+      <link>https://mcomas.net/authors/v%C3%ADctor-v%C3%A1zquez/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/v%C3%ADctor-v%C3%A1zquez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waleed Brinjikji</title>
+      <link>https://mcomas.net/authors/waleed-brinjikji/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/waleed-brinjikji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alejandro Pascagaza</title>
+      <link>https://mcomas.net/authors/alejandro-pascagaza/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alejandro-pascagaza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrés Julián Paipa</title>
+      <link>https://mcomas.net/authors/andr%C3%A9s-juli%C3%A1n-paipa/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/andr%C3%A9s-juli%C3%A1n-paipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blanca García-Villalba</title>
+      <link>https://mcomas.net/authors/blanca-garc%C3%ADa-villalba/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/blanca-garc%C3%ADa-villalba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Fandiño</title>
+      <link>https://mcomas.net/authors/eduardo-fandi%C3%B1o/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/eduardo-fandi%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giovanni Barbieri</title>
+      <link>https://mcomas.net/authors/giovanni-barbieri/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/giovanni-barbieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amelia Fernández-Zubillaga</title>
+      <link>https://mcomas.net/authors/amelia-fern%C3%A1ndez-zubillaga/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/amelia-fern%C3%A1ndez-zubillaga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arantxa Royo</title>
+      <link>https://mcomas.net/authors/arantxa-royo/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/arantxa-royo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Begoña Marín</title>
+      <link>https://mcomas.net/authors/bego%C3%B1a-mar%C3%ADn/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/bego%C3%B1a-mar%C3%ADn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elena de Celis</title>
+      <link>https://mcomas.net/authors/elena-de-celis/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/elena-de-celis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gonzalo Garzón</title>
+      <link>https://mcomas.net/authors/gonzalo-garz%C3%B3n/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/gonzalo-garz%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis-Alonso Arráez-Aybar</title>
+      <link>https://mcomas.net/authors/luis-alonso-arr%C3%A1ez-aybar/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/luis-alonso-arr%C3%A1ez-aybar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pilar García-Raya</title>
+      <link>https://mcomas.net/authors/pilar-garc%C3%ADa-raya/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/pilar-garc%C3%ADa-raya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belén Castillo-Cano</title>
+      <link>https://mcomas.net/authors/bel%C3%A9n-castillo-cano/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/bel%C3%A9n-castillo-cano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elisa Martín-Merino</title>
+      <link>https://mcomas.net/authors/elisa-mart%C3%ADn-merino/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/elisa-mart%C3%ADn-merino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alejandro Forner</title>
+      <link>https://mcomas.net/authors/alejandro-forner/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alejandro-forner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Soler</title>
+      <link>https://mcomas.net/authors/alexandre-soler/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alexandre-soler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Darnell</title>
+      <link>https://mcomas.net/authors/anna-darnell/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anna-darnell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belén Saborido</title>
+      <link>https://mcomas.net/authors/bel%C3%A9n-saborido/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/bel%C3%A9n-saborido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ezequiel Mauro</title>
+      <link>https://mcomas.net/authors/ezequiel-mauro/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ezequiel-mauro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Pazó</title>
+      <link>https://mcomas.net/authors/javier-paz%C3%B3/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/javier-paz%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Rimola</title>
+      <link>https://mcomas.net/authors/jordi-rimola/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jordi-rimola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Turnes</title>
+      <link>https://mcomas.net/authors/juan-turnes/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-turnes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mario Matute-González</title>
+      <link>https://mcomas.net/authors/mario-matute-gonz%C3%A1lez/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mario-matute-gonz%C3%A1lez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>María Reig</title>
+      <link>https://mcomas.net/authors/mar%C3%ADa-reig/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mar%C3%ADa-reig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carmen Martín</title>
+      <link>https://mcomas.net/authors/carmen-mart%C3%ADn/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carmen-mart%C3%ADn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esteban Gaitán</title>
+      <link>https://mcomas.net/authors/esteban-gait%C3%A1n/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/esteban-gait%C3%A1n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eusebi Calle</title>
+      <link>https://mcomas.net/authors/eusebi-calle/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/eusebi-calle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gloria Díaz</title>
+      <link>https://mcomas.net/authors/gloria-d%C3%ADaz/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/gloria-d%C3%ADaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imma Boada</title>
+      <link>https://mcomas.net/authors/imma-boada/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/imma-boada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaime Aboal</title>
+      <link>https://mcomas.net/authors/jaime-aboal/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jaime-aboal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Garcia</title>
+      <link>https://mcomas.net/authors/joan-garcia/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joan-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Manuel Martinez</title>
+      <link>https://mcomas.net/authors/joan-manuel-martinez/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joan-manuel-martinez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Saldaña</title>
+      <link>https://mcomas.net/authors/joan-salda%C3%B1a/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joan-salda%C3%B1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Ripoll</title>
+      <link>https://mcomas.net/authors/jordi-ripoll/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jordi-ripoll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Pueyo-Ros</title>
+      <link>https://mcomas.net/authors/josep-pueyo-ros/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-pueyo-ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Carlos Palacio</title>
+      <link>https://mcomas.net/authors/juan-carlos-palacio/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/juan-carlos-palacio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lluís Bosch</title>
+      <link>https://mcomas.net/authors/llu%C3%ADs-bosch/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/llu%C3%ADs-bosch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manel Vicente</title>
+      <link>https://mcomas.net/authors/manel-vicente/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/manel-vicente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oriol Aguiló</title>
+      <link>https://mcomas.net/authors/oriol-aguil%C3%B3/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/oriol-aguil%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Loma-Osorio</title>
+      <link>https://mcomas.net/authors/pablo-loma-osorio/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/pablo-loma-osorio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pau Fonseca</title>
+      <link>https://mcomas.net/authors/pau-fonseca/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/pau-fonseca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramón Brugada</title>
+      <link>https://mcomas.net/authors/ram%C3%B3n-brugada/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ram%C3%B3n-brugada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Agudelo</title>
+      <link>https://mcomas.net/authors/victor-agudelo/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/victor-agudelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Pérez</title>
+      <link>https://mcomas.net/authors/victor-p%C3%A9rez/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/victor-p%C3%A9rez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carmen Serna</title>
+      <link>https://mcomas.net/authors/carmen-serna/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carmen-serna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eva María Gonzalez</title>
+      <link>https://mcomas.net/authors/eva-mar%C3%ADa-gonzalez/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/eva-mar%C3%ADa-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose María Jiménez</title>
+      <link>https://mcomas.net/authors/jose-mar%C3%ADa-jim%C3%A9nez/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jose-mar%C3%ADa-jim%C3%A9nez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>José Rodríguez Castro</title>
+      <link>https://mcomas.net/authors/jos%C3%A9-rodr%C3%ADguez-castro/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jos%C3%A9-rodr%C3%ADguez-castro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariano Espinosa de Rueda</title>
+      <link>https://mcomas.net/authors/mariano-espinosa-de-rueda/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mariano-espinosa-de-rueda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Angel Castańo Blázquez</title>
+      <link>https://mcomas.net/authors/miguel-angel-casta%C5%84o-bl%C3%A1zquez/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/miguel-angel-casta%C5%84o-bl%C3%A1zquez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonia Axiut</title>
+      <link>https://mcomas.net/authors/sonia-axiut/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/sonia-axiut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Martínez</title>
+      <link>https://mcomas.net/authors/david-mart%C3%ADnez/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/david-mart%C3%ADnez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergi Bergillos</title>
+      <link>https://mcomas.net/authors/sergi-bergillos/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/sergi-bergillos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberto Zamora</title>
+      <link>https://mcomas.net/authors/alberto-zamora/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/alberto-zamora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anabel Martín-Urda</title>
+      <link>https://mcomas.net/authors/anabel-mart%C3%ADn-urda/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anabel-mart%C3%ADn-urda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Celia Rodríguez-Borjabad</title>
+      <link>https://mcomas.net/authors/celia-rodr%C3%ADguez-borjabad/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/celia-rodr%C3%ADguez-borjabad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daiana Ibarretxe</title>
+      <link>https://mcomas.net/authors/daiana-ibarretxe/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/daiana-ibarretxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irene Román Dégano</title>
+      <link>https://mcomas.net/authors/irene-rom%C3%A1n-d%C3%A9gano/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/irene-rom%C3%A1n-d%C3%A9gano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaume Marrugat</title>
+      <link>https://mcomas.net/authors/jaume-marrugat/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jaume-marrugat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luís Masana</title>
+      <link>https://mcomas.net/authors/lu%C3%ADs-masana/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/lu%C3%ADs-masana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Núria Plana</title>
+      <link>https://mcomas.net/authors/n%C3%BAria-plana/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/n%C3%BAria-plana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Elosua</title>
+      <link>https://mcomas.net/authors/roberto-elosua/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/roberto-elosua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Torrente</title>
+      <link>https://mcomas.net/authors/anna-torrente/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anna-torrente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Teresa Campà</title>
+      <link>https://mcomas.net/authors/maria-teresa-camp%C3%A0/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-teresa-camp%C3%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Montserrat Vendrell</title>
+      <link>https://mcomas.net/authors/montserrat-vendrell/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/montserrat-vendrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olga Tura-Ceide</title>
+      <link>https://mcomas.net/authors/olga-tura-ceide/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/olga-tura-ceide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana Llorente-García</title>
+      <link>https://mcomas.net/authors/ana-llorente-garc%C3%ADa/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ana-llorente-garc%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dolores Montero-Corominas</title>
+      <link>https://mcomas.net/authors/dolores-montero-corominas/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/dolores-montero-corominas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mar Martín-Pérez</title>
+      <link>https://mcomas.net/authors/mar-mart%C3%ADn-p%C3%A9rez/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/mar-mart%C3%ADn-p%C3%A9rez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Albert Alum</title>
+      <link>https://mcomas.net/authors/albert-alum/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/albert-alum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Albert d&#39;Anta</title>
+      <link>https://mcomas.net/authors/albert-danta/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/albert-danta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Albert</title>
+      <link>https://mcomas.net/authors/laura-albert/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/laura-albert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quirze Salomó</title>
+      <link>https://mcomas.net/authors/quirze-salom%C3%B3/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/quirze-salom%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rosa Núria Aleixandre</title>
+      <link>https://mcomas.net/authors/rosa-n%C3%BAria-aleixandre/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/rosa-n%C3%BAria-aleixandre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salomé de Cambra</title>
+      <link>https://mcomas.net/authors/salom%C3%A9-de-cambra/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/salom%C3%A9-de-cambra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sílvia Cabarrocas</title>
+      <link>https://mcomas.net/authors/s%C3%ADlvia-cabarrocas/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/s%C3%ADlvia-cabarrocas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Àlex Pèlach</title>
+      <link>https://mcomas.net/authors/%C3%A0lex-p%C3%A8lach/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/%C3%A0lex-p%C3%A8lach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marta Cirach</title>
+      <link>https://mcomas.net/authors/marta-cirach/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marta-cirach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abelardo Hurtado-Ganoza</title>
+      <link>https://mcomas.net/authors/abelardo-hurtado-ganoza/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/abelardo-hurtado-ganoza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana Pérez-Jaén</title>
+      <link>https://mcomas.net/authors/ana-p%C3%A9rez-ja%C3%A9n/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ana-p%C3%A9rez-ja%C3%A9n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Guell-Cargol</title>
+      <link>https://mcomas.net/authors/anna-guell-cargol/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anna-guell-cargol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antoni Castro Guardiola</title>
+      <link>https://mcomas.net/authors/antoni-castro-guardiola/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/antoni-castro-guardiola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carol Lorencio</title>
+      <link>https://mcomas.net/authors/carol-lorencio/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carol-lorencio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delfi Faixedes-Brunsoms</title>
+      <link>https://mcomas.net/authors/delfi-faixedes-brunsoms/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/delfi-faixedes-brunsoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ester Fages-Masmiquel</title>
+      <link>https://mcomas.net/authors/ester-fages-masmiquel/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ester-fages-masmiquel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esteve Avellana-Revuelta</title>
+      <link>https://mcomas.net/authors/esteve-avellana-revuelta/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/esteve-avellana-revuelta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ferran Santaularia-Font</title>
+      <link>https://mcomas.net/authors/ferran-santaularia-font/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ferran-santaularia-font/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesc Xavier Queralt-Moles</title>
+      <link>https://mcomas.net/authors/francesc-xavier-queralt-moles/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/francesc-xavier-queralt-moles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Miquel Morales-Pedrosa</title>
+      <link>https://mcomas.net/authors/josep-miquel-morales-pedrosa/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-miquel-morales-pedrosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep-Maria Sirvent</title>
+      <link>https://mcomas.net/authors/josep-maria-sirvent/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-maria-sirvent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Angels Gispert-Ametller</title>
+      <link>https://mcomas.net/authors/maria-angels-gispert-ametller/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-angels-gispert-ametller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Rexach-Fumaña</title>
+      <link>https://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-rexach-fuma%C3%B1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Rodriguez-Batista</title>
+      <link>https://mcomas.net/authors/maria-rodriguez-batista/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-rodriguez-batista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patricia Ortiz-Ballujera</title>
+      <link>https://mcomas.net/authors/patricia-ortiz-ballujera/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/patricia-ortiz-ballujera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sara Rodriguez-Requejo</title>
+      <link>https://mcomas.net/authors/sara-rodriguez-requejo/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/sara-rodriguez-requejo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna de Hollanda</title>
+      <link>https://mcomas.net/authors/anna-de-hollanda/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anna-de-hollanda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ariadna de Genover Gil</title>
+      <link>https://mcomas.net/authors/ariadna-de-genover-gil/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ariadna-de-genover-gil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arola Armengou Arxé</title>
+      <link>https://mcomas.net/authors/arola-armengou-arx%C3%A9/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/arola-armengou-arx%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlota Gudiol</title>
+      <link>https://mcomas.net/authors/carlota-gudiol/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/carlota-gudiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernanda Meira</title>
+      <link>https://mcomas.net/authors/fernanda-meira/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/fernanda-meira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Fernández-Aranda</title>
+      <link>https://mcomas.net/authors/fernando-fern%C3%A1ndez-aranda/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/fernando-fern%C3%A1ndez-aranda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisco J Tinahones</title>
+      <link>https://mcomas.net/authors/francisco-j-tinahones/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/francisco-j-tinahones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geltrude Mingrone</title>
+      <link>https://mcomas.net/authors/geltrude-mingrone/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/geltrude-mingrone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ildefonso Hernández-Aguado</title>
+      <link>https://mcomas.net/authors/ildefonso-hern%C3%A1ndez-aguado/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ildefonso-hern%C3%A1ndez-aguado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Carratalà</title>
+      <link>https://mcomas.net/authors/jordi-carratal%C3%A0/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jordi-carratal%C3%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jordi Mayneris-Perxachs</title>
+      <link>https://mcomas.net/authors/jordi-mayneris-perxachs/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jordi-mayneris-perxachs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>José Manuel Fernández-Real</title>
+      <link>https://mcomas.net/authors/jos%C3%A9-manuel-fern%C3%A1ndez-real/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jos%C3%A9-manuel-fern%C3%A1ndez-real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marga Giménez</title>
+      <link>https://mcomas.net/authors/marga-gim%C3%A9nez/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marga-gim%C3%A9nez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Arnoriaga-Rodríguez</title>
+      <link>https://mcomas.net/authors/maria-arnoriaga-rodr%C3%ADguez/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-arnoriaga-rodr%C3%ADguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Francesca Russo</title>
+      <link>https://mcomas.net/authors/maria-francesca-russo/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-francesca-russo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matteo Rottoli</title>
+      <link>https://mcomas.net/authors/matteo-rottoli/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/matteo-rottoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michele Bartoletti</title>
+      <link>https://mcomas.net/authors/michele-bartoletti/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/michele-bartoletti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ornella Verrastro</title>
+      <link>https://mcomas.net/authors/ornella-verrastro/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/ornella-verrastro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paolo Bernante</title>
+      <link>https://mcomas.net/authors/paolo-bernante/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/paolo-bernante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uberto Pagotto</title>
+      <link>https://mcomas.net/authors/uberto-pagotto/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/uberto-pagotto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dídac Parramon</title>
+      <link>https://mcomas.net/authors/d%C3%ADdac-parramon/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/d%C3%ADdac-parramon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irene Petersen</title>
+      <link>https://mcomas.net/authors/irene-petersen/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/irene-petersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chady Salloum</title>
+      <link>https://mcomas.net/authors/chady-salloum/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/chady-salloum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chetana Lim</title>
+      <link>https://mcomas.net/authors/chetana-lim/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/chetana-lim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Azoulay</title>
+      <link>https://mcomas.net/authors/daniel-azoulay/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/daniel-azoulay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emilio Ramos</title>
+      <link>https://mcomas.net/authors/emilio-ramos/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/emilio-ramos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaume Codina-Font</title>
+      <link>https://mcomas.net/authors/jaume-codina-font/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jaume-codina-font/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Figueras</title>
+      <link>https://mcomas.net/authors/joan-figueras/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joan-figueras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Lladó</title>
+      <link>https://mcomas.net/authors/laura-llad%C3%B3/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/laura-llad%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margarida Casellas-Robert</title>
+      <link>https://mcomas.net/authors/margarida-casellas-robert/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/margarida-casellas-robert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santiago Lopez-Ben</title>
+      <link>https://mcomas.net/authors/santiago-lopez-ben/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/santiago-lopez-ben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glòria Mateu-Figueras</title>
+      <link>https://mcomas.net/authors/gl%C3%B2ria-mateu-figueras/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/gl%C3%B2ria-mateu-figueras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Palarea-Albaladejo</title>
+      <link>https://mcomas.net/authors/javier-palarea-albaladejo/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/javier-palarea-albaladejo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Antoni Martín-Fernández</title>
+      <link>https://mcomas.net/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-antoni-mart%C3%ADn-fern%C3%A1ndez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Garre-Olmo</title>
+      <link>https://mcomas.net/authors/josep-garre-olmo/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-garre-olmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Bosch</title>
+      <link>https://mcomas.net/authors/daniel-bosch/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/daniel-bosch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Iglesies</title>
+      <link>https://mcomas.net/authors/josep-iglesies/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-iglesies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Núñez</title>
+      <link>https://mcomas.net/authors/maria-n%C3%BA%C3%B1ez/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-n%C3%BA%C3%B1ez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergio Moral</title>
+      <link>https://mcomas.net/authors/sergio-moral/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/sergio-moral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lourdes Camós</title>
+      <link>https://mcomas.net/authors/lourdes-cam%C3%B3s/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/lourdes-cam%C3%B3s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Elosua-Bayés</title>
+      <link>https://mcomas.net/authors/marc-elosua-bay%C3%A9s/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marc-elosua-bay%C3%A9s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel Angel Gomez-Marcos</title>
+      <link>https://mcomas.net/authors/manuel-angel-gomez-marcos/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/manuel-angel-gomez-marcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Albert Francés</title>
+      <link>https://mcomas.net/authors/albert-franc%C3%A9s/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/albert-franc%C3%A9s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Garcia-Elias</title>
+      <link>https://mcomas.net/authors/anna-garcia-elias/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/anna-garcia-elias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Betlem Salvador</title>
+      <link>https://mcomas.net/authors/betlem-salvador/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/betlem-salvador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Prieto-Alhambra</title>
+      <link>https://mcomas.net/authors/daniel-prieto-alhambra/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/daniel-prieto-alhambra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>José Miguel Baena-Díez</title>
+      <link>https://mcomas.net/authors/jos%C3%A9-miguel-baena-d%C3%ADez/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/jos%C3%A9-miguel-baena-d%C3%ADez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Grau</title>
+      <link>https://mcomas.net/authors/maria-grau/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-grau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Rodriguez-Poncelas</title>
+      <link>https://mcomas.net/authors/antonio-rodriguez-poncelas/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/antonio-rodriguez-poncelas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriel Coll de Tuero</title>
+      <link>https://mcomas.net/authors/gabriel-coll-de-tuero/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/gabriel-coll-de-tuero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Barrot-de-la-Puente</title>
+      <link>https://mcomas.net/authors/joan-barrot-de-la-puente/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joan-barrot-de-la-puente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Gifa-Vaello</title>
+      <link>https://mcomas.net/authors/josep-gifa-vaello/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-gifa-vaello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marc Saez</title>
+      <link>https://mcomas.net/authors/marc-saez/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marc-saez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Antònia Barceló</title>
+      <link>https://mcomas.net/authors/maria-ant%C3%B2nia-barcel%C3%B3/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-ant%C3%B2nia-barcel%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Àlex Vila</title>
+      <link>https://mcomas.net/authors/%C3%A0lex-vila/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/%C3%A0lex-vila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joanna Jamka</title>
+      <link>https://mcomas.net/authors/joanna-jamka/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joanna-jamka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valentino di Donato</title>
+      <link>https://mcomas.net/authors/valentino-di-donato/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/valentino-di-donato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judith Peñafiel</title>
+      <link>https://mcomas.net/authors/judith-pe%C3%B1afiel/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/judith-pe%C3%B1afiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bonaventura Bolivar</title>
+      <link>https://mcomas.net/authors/bonaventura-bolivar/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/bonaventura-bolivar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Sala</title>
+      <link>https://mcomas.net/authors/joan-sala/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/joan-sala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miquel Quesada</title>
+      <link>https://mcomas.net/authors/miquel-quesada/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/miquel-quesada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Daunis-i-Estadella</title>
+      <link>https://mcomas.net/authors/josep-daunis-i-estadella/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-daunis-i-estadella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Agüero</title>
+      <link>https://mcomas.net/authors/fernando-ag%C3%BCero/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/fernando-ag%C3%BCero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Griselda González-Zobl</title>
+      <link>https://mcomas.net/authors/griselda-gonz%C3%A1lez-zobl/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/griselda-gonz%C3%A1lez-zobl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guillem Pera</title>
+      <link>https://mcomas.net/authors/guillem-pera/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/guillem-pera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Teresa Alzamora</title>
+      <link>https://mcomas.net/authors/maria-teresa-alzamora/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-teresa-alzamora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Hermosilla</title>
+      <link>https://mcomas.net/authors/eduardo-hermosilla/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/eduardo-hermosilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josep Maria Elorza</title>
+      <link>https://mcomas.net/authors/josep-maria-elorza/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/josep-maria-elorza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo Méndez-Boo</title>
+      <link>https://mcomas.net/authors/leonardo-m%C3%A9ndez-boo/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/leonardo-m%C3%A9ndez-boo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marta Banque</title>
+      <link>https://mcomas.net/authors/marta-banque/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/marta-banque/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Fernández-Berges</title>
+      <link>https://mcomas.net/authors/daniel-fern%C3%A1ndez-berges/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/daniel-fern%C3%A1ndez-berges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisco Javier Félix-Redondo</title>
+      <link>https://mcomas.net/authors/francisco-javier-f%C3%A9lix-redondo/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/francisco-javier-f%C3%A9lix-redondo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rosa Forés</title>
+      <link>https://mcomas.net/authors/rosa-for%C3%A9s/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/rosa-for%C3%A9s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Serna</title>
+      <link>https://mcomas.net/authors/maria-serna/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/maria-serna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mcomas.net/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/admin/</guid>
+      <description>&lt;p&gt;I am an Associate Professor in Statistics at the 
+&lt;a href=&#34;https://www.udg.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Girona&lt;/a&gt; and a member of the 
+&lt;a href=&#34;https://www.udg.edu/ca/grupsrecerca/GR-EADC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistics and Compositional Data Analysis&lt;/a&gt; research group.&lt;/p&gt;
+&lt;p&gt;My research connects statistical methodology with applied collaborations in health, epidemiology, environmental data, and clinical research. I work mainly on compositional and multivariate count data, clustering, survival analysis, competing risks, causal inference, and reproducible statistical workflows.&lt;/p&gt;
+&lt;p&gt;I teach statistics in undergraduate degrees and machine learning in a Master&amp;rsquo;s programme in Data Science. I enjoy bringing statistical ideas close to real data problems, both in teaching and in collaborative research.&lt;/p&gt;
+&lt;p&gt;I am open to consulting and collaborative projects involving statistical modelling, health data analysis, reproducible workflows, and methodological support for applied research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mcomas.net/authors/authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mcomas.net/authors/authors/</guid>
+      <description>&lt;p&gt;This is a placeholder author profile to satisfy theme lookups for &lt;code&gt;/authors/authors&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

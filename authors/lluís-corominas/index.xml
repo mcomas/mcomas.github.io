@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lluís Corominas | mcomas.net</title>
-    <link>http://mcomas.net/authors/llu%C3%ADs-corominas/</link>
-      <atom:link href="http://mcomas.net/authors/llu%C3%ADs-corominas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/llu%C3%ADs-corominas/</link>
+      <atom:link href="https://mcomas.net/authors/llu%C3%ADs-corominas/index.xml" rel="self" type="application/rss+xml" />
     <description>Lluís Corominas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://mcomas.net/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_512x512_fill_lanczos_center_2.png</url>
       <title>Lluís Corominas</title>
-      <link>http://mcomas.net/authors/llu%C3%ADs-corominas/</link>
+      <link>https://mcomas.net/authors/llu%C3%ADs-corominas/</link>
     </image>
     
     <item>
       <title>Tracking Age-Linked Antibiotic Resistance Patterns Through Building-Level Wastewater Analysis</title>
-      <link>http://mcomas.net/publication/pico2025/</link>
+      <link>https://mcomas.net/publication/pico2025/</link>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/pico2025/</guid>
+      <guid>https://mcomas.net/publication/pico2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Watching the guards: a data-driven method to trigger warnings in national wastewater surveillance networks</title>
-      <link>http://mcomas.net/publication/bosch2024/</link>
+      <link>https://mcomas.net/publication/bosch2024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/bosch2024/</guid>
+      <guid>https://mcomas.net/publication/bosch2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seamless integration of sewer system topology and tree location data: An algorithm to diagnose the potential impact of tree roots on pipes and propose rearrangement solutions</title>
-      <link>http://mcomas.net/publication/dmartinez2023/</link>
+      <link>https://mcomas.net/publication/dmartinez2023/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/dmartinez2023/</guid>
+      <guid>https://mcomas.net/publication/dmartinez2023/</guid>
       <description></description>
     </item>
     

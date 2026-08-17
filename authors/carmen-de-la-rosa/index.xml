@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Carmen De La Rosa | mcomas.net</title>
-    <link>http://mcomas.net/authors/carmen-de-la-rosa/</link>
-      <atom:link href="http://mcomas.net/authors/carmen-de-la-rosa/index.xml" rel="self" type="application/rss+xml" />
-    <description>Carmen De La Rosa</description>
+    <title>Carmen de la Rosa | mcomas.net</title>
+    <link>https://mcomas.net/authors/carmen-de-la-rosa/</link>
+      <atom:link href="https://mcomas.net/authors/carmen-de-la-rosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carmen de la Rosa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Carmen De La Rosa</title>
-      <link>http://mcomas.net/authors/carmen-de-la-rosa/</link>
+      <url>https://mcomas.net/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_512x512_fill_lanczos_center_2.png</url>
+      <title>Carmen de la Rosa</title>
+      <link>https://mcomas.net/authors/carmen-de-la-rosa/</link>
     </image>
     
     <item>
       <title>Comparison between contact aspiration alone and combined thrombectomy for intracranial internal carotid artery occlusion: insights from SARA-3 registry</title>
-      <link>http://mcomas.net/publication/ramirez2025/</link>
+      <link>https://mcomas.net/publication/ramirez2025/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/ramirez2025/</guid>
+      <guid>https://mcomas.net/publication/ramirez2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact Aspiration Alone or Combined With Stent Retriever Thrombectomy for Middle Cerebral Artery Large Vessel Occlusion</title>
-      <link>http://mcomas.net/publication/navia2025/</link>
+      <link>https://mcomas.net/publication/navia2025/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/navia2025/</guid>
+      <guid>https://mcomas.net/publication/navia2025/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iratxe Ugarriza | mcomas.net</title>
-    <link>http://mcomas.net/authors/iratxe-ugarriza/</link>
-      <atom:link href="http://mcomas.net/authors/iratxe-ugarriza/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mcomas.net/authors/iratxe-ugarriza/</link>
+      <atom:link href="https://mcomas.net/authors/iratxe-ugarriza/index.xml" rel="self" type="application/rss+xml" />
     <description>Iratxe Ugarriza</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://mcomas.net/images/icon_hu76e0e8673a7fca260f306bc2cf05d5f0_72338_512x512_fill_lanczos_center_2.png</url>
       <title>Iratxe Ugarriza</title>
-      <link>http://mcomas.net/authors/iratxe-ugarriza/</link>
+      <link>https://mcomas.net/authors/iratxe-ugarriza/</link>
     </image>
     
     <item>
       <title>Efficacy and safety of CatchView Mini stentriever for mechanical thrombectomy in proximal and distal medium vessel occlusions</title>
-      <link>http://mcomas.net/publication/egonzalez/</link>
+      <link>https://mcomas.net/publication/egonzalez/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://mcomas.net/publication/egonzalez/</guid>
+      <guid>https://mcomas.net/publication/egonzalez/</guid>
       <description></description>
     </item>
     
